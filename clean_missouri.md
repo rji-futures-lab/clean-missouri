@@ -29,13 +29,13 @@ pd.read_csv("/Users/ashlynohara/Desktop/cleanmopython/cleanmissouri/data.csv")
   <thead>
     <tr style="text-align: right;">
       <th></th>
-      <th>County Name</th>
-      <th>Precinct Name</th>
-      <th>Office Title</th>
-      <th>Candidate Ballot Name</th>
-      <th>Yes votes</th>
-      <th>No votes</th>
-      <th>Precident Address</th>
+      <th>county_name</th>
+      <th>precinct_name</th>
+      <th>office_title</th>
+      <th>candidate_ballot_name</th>
+      <th>yes_votes</th>
+      <th>no_votes</th>
+      <th>Unnamed: 6</th>
       <th>Unnamed: 7</th>
     </tr>
   </thead>
@@ -175,78 +175,42 @@ original_data = pd.read_csv("/Users/ashlynohara/Desktop/cleanmopython/cleanmisso
 
 
 ```python
-original_data.info()
-```
-
-    <class 'pandas.core.frame.DataFrame'>
-    RangeIndex: 13703 entries, 0 to 13702
-    Data columns (total 8 columns):
-     #   Column                 Non-Null Count  Dtype  
-    ---  ------                 --------------  -----  
-     0   County Name            13703 non-null  object 
-     1   Precinct Name          13703 non-null  object 
-     2   Office Title           13703 non-null  object 
-     3   Candidate Ballot Name  11161 non-null  object 
-     4   Yes votes              13703 non-null  object 
-     5   No votes               3199 non-null   float64
-     6   Precident Address      0 non-null      float64
-     7   Unnamed: 7             1 non-null      float64
-    dtypes: float64(3), object(5)
-    memory usage: 856.6+ KB
-
-
-
-```python
-original_data['Office Title']
+no_absentee = original_data.loc[original_data['precinct_name'] != 'ABSENTEE']
 ```
 
 
-
-
-    0           State Senator - District 18
-    1           State Senator - District 18
-    2           State Senator - District 18
-    3           State Senator - District 18
-    4           State Senator - District 18
-                          ...              
-    13698    Constitutional Amendment No. 1
-    13699    Constitutional Amendment No. 1
-    13700    Constitutional Amendment No. 1
-    13701    Constitutional Amendment No. 1
-    13702    Constitutional Amendment No. 1
-    Name: Office Title, Length: 13703, dtype: object
-
-
-
-
 ```python
-original_data['Office Title'].value_counts()
+no_federal = no_absentee.loc[(no_absentee['precinct_name'] != 'FEDERAL')]
 ```
 
 
-
-
-    Constitutional Amendment No. 1         3199
-    State Senator - District 24             435
-    State Senator - District 6              322
-    State Senator - District 12             300
-    State Senator - District 18             300
-                                           ... 
-    State Representative - District 21       17
-    State Representative - District 25       16
-    State Representative - District 156      15
-    State Representative - District 24       15
-    State Representative - District 122       7
-    Name: Office Title, Length: 181, dtype: int64
-
-
+```python
+no_provisional = no_federal.loc[(no_absentee['precinct_name'] != 'PROVISIONAL')]
+```
 
 
 ```python
-original_data[(original_data['County Name'] == 'Adair') 
-              & (original_data['Office Title'] == "State Representative - District 4")
-              & (original_data['Candidate Ballot Name'] == "Greg Sharpe")
-             ]
+house1 = no_provisional[(no_provisional['office_title'] == 'State Representative - District 1')
+                       | (no_provisional['office_title'] == 'Constitutional Amendment No. 1')]
+```
+
+
+```python
+onehouse = house1[(house1['county_name'] == "Atchison")
+                | (house1['county_name'] == "Holt")
+                | (house1['county_name'] == "Nodaway")
+                | (house1['county_name'] == "Worth")
+               ]
+```
+
+
+```python
+onecandidate = onehouse[(onehouse['candidate_ballot_name'] != "Paul Taylor")]
+```
+
+
+```python
+onecandidate
 ```
 
 
@@ -270,146 +234,740 @@ original_data[(original_data['County Name'] == 'Adair')
   <thead>
     <tr style="text-align: right;">
       <th></th>
-      <th>County Name</th>
-      <th>Precinct Name</th>
-      <th>Office Title</th>
-      <th>Candidate Ballot Name</th>
-      <th>Yes votes</th>
-      <th>No votes</th>
-      <th>Precident Address</th>
+      <th>county_name</th>
+      <th>precinct_name</th>
+      <th>office_title</th>
+      <th>candidate_ballot_name</th>
+      <th>yes_votes</th>
+      <th>no_votes</th>
+      <th>Unnamed: 6</th>
       <th>Unnamed: 7</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th>48</th>
-      <td>Adair</td>
-      <td>SOUTHWEST 1</td>
-      <td>State Representative - District 4</td>
-      <td>Greg Sharpe</td>
-      <td>0</td>
+      <th>144</th>
+      <td>Atchison</td>
+      <td>TARKIO</td>
+      <td>State Representative - District 1</td>
+      <td>Allen Andrews</td>
+      <td>520</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
     </tr>
     <tr>
-      <th>49</th>
-      <td>Adair</td>
-      <td>SOUTHEAST 2</td>
-      <td>State Representative - District 4</td>
-      <td>Greg Sharpe</td>
-      <td>0</td>
+      <th>145</th>
+      <td>Atchison</td>
+      <td>ROCK PORT</td>
+      <td>State Representative - District 1</td>
+      <td>Allen Andrews</td>
+      <td>646</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
     </tr>
     <tr>
-      <th>50</th>
-      <td>Adair</td>
-      <td>SOUTHEAST 3</td>
-      <td>State Representative - District 4</td>
-      <td>Greg Sharpe</td>
-      <td>0</td>
+      <th>146</th>
+      <td>Atchison</td>
+      <td>FAIRFAX</td>
+      <td>State Representative - District 1</td>
+      <td>Allen Andrews</td>
+      <td>378</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
     </tr>
     <tr>
-      <th>51</th>
-      <td>Adair</td>
-      <td>SOUTHEAST 4</td>
-      <td>State Representative - District 4</td>
-      <td>Greg Sharpe</td>
-      <td>0</td>
+      <th>147</th>
+      <td>Atchison</td>
+      <td>WESTBORO</td>
+      <td>State Representative - District 1</td>
+      <td>Allen Andrews</td>
+      <td>121</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
     </tr>
     <tr>
-      <th>52</th>
-      <td>Adair</td>
-      <td>NORTHEAST 5</td>
-      <td>State Representative - District 4</td>
-      <td>Greg Sharpe</td>
-      <td>0</td>
+      <th>148</th>
+      <td>Atchison</td>
+      <td>WATSON</td>
+      <td>State Representative - District 1</td>
+      <td>Allen Andrews</td>
+      <td>50</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
     </tr>
     <tr>
-      <th>53</th>
-      <td>Adair</td>
-      <td>NORTHEAST 6</td>
-      <td>State Representative - District 4</td>
-      <td>Greg Sharpe</td>
-      <td>0</td>
+      <th>156</th>
+      <td>Atchison</td>
+      <td>TARKIO</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>329</td>
+      <td>289.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>157</th>
+      <td>Atchison</td>
+      <td>ROCK PORT</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>431</td>
+      <td>335.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>158</th>
+      <td>Atchison</td>
+      <td>FAIRFAX</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>203</td>
+      <td>241.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>159</th>
+      <td>Atchison</td>
+      <td>WESTBORO</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>69</td>
+      <td>76.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>160</th>
+      <td>Atchison</td>
+      <td>WATSON</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>37</td>
+      <td>30.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>4082</th>
+      <td>Holt</td>
+      <td>NORTHWEST</td>
+      <td>State Representative - District 1</td>
+      <td>Allen Andrews</td>
+      <td>178</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
     </tr>
     <tr>
-      <th>54</th>
-      <td>Adair</td>
-      <td>TSU</td>
-      <td>State Representative - District 4</td>
-      <td>Greg Sharpe</td>
-      <td>0</td>
+      <th>4083</th>
+      <td>Holt</td>
+      <td>NORTHEAST</td>
+      <td>State Representative - District 1</td>
+      <td>Allen Andrews</td>
+      <td>137</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
     </tr>
     <tr>
-      <th>55</th>
-      <td>Adair</td>
-      <td>RURAL BENTON</td>
-      <td>State Representative - District 4</td>
-      <td>Greg Sharpe</td>
-      <td>607</td>
+      <th>4084</th>
+      <td>Holt</td>
+      <td>CENTRAL</td>
+      <td>State Representative - District 1</td>
+      <td>Allen Andrews</td>
+      <td>588</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
     </tr>
     <tr>
-      <th>56</th>
-      <td>Adair</td>
-      <td>BRASHEAR</td>
-      <td>State Representative - District 4</td>
-      <td>Greg Sharpe</td>
-      <td>577</td>
+      <th>4085</th>
+      <td>Holt</td>
+      <td>SOUTHEAST-SOUTHWEST</td>
+      <td>State Representative - District 1</td>
+      <td>Allen Andrews</td>
+      <td>633</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
     </tr>
     <tr>
-      <th>57</th>
-      <td>Adair</td>
-      <td>NOVINGER</td>
-      <td>State Representative - District 4</td>
-      <td>Greg Sharpe</td>
+      <th>4092</th>
+      <td>Holt</td>
+      <td>NORTHWEST</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>134</td>
+      <td>81.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>4093</th>
+      <td>Holt</td>
+      <td>NORTHEAST</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>59</td>
+      <td>101.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>4094</th>
+      <td>Holt</td>
+      <td>CENTRAL</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>250</td>
+      <td>389.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>4095</th>
+      <td>Holt</td>
+      <td>SOUTHEAST-SOUTHWEST</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>333</td>
+      <td>429.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7464</th>
+      <td>Nodaway</td>
+      <td>ATCHISON (CLEARMONT)</td>
+      <td>State Representative - District 1</td>
+      <td>Allen Andrews</td>
+      <td>123</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7465</th>
+      <td>Nodaway</td>
+      <td>GRANT (BARNARD)</td>
+      <td>State Representative - District 1</td>
+      <td>Allen Andrews</td>
+      <td>198</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7466</th>
+      <td>Nodaway</td>
+      <td>GREEN (QUITMAN)</td>
+      <td>State Representative - District 1</td>
+      <td>Allen Andrews</td>
       <td>73</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
     </tr>
     <tr>
-      <th>58</th>
-      <td>Adair</td>
-      <td>ABSENTEE</td>
-      <td>State Representative - District 4</td>
-      <td>Greg Sharpe</td>
-      <td>234</td>
+      <th>7467</th>
+      <td>Nodaway</td>
+      <td>HOPKINS (HOPKINS)</td>
+      <td>State Representative - District 1</td>
+      <td>Allen Andrews</td>
+      <td>160</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
     </tr>
     <tr>
-      <th>59</th>
-      <td>Adair</td>
-      <td>FEDERAL</td>
-      <td>State Representative - District 4</td>
-      <td>Greg Sharpe</td>
-      <td>0</td>
+      <th>7468</th>
+      <td>Nodaway</td>
+      <td>HUGHES (GRAHAM)</td>
+      <td>State Representative - District 1</td>
+      <td>Allen Andrews</td>
+      <td>174</td>
       <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7469</th>
+      <td>Nodaway</td>
+      <td>INDEPENDENCE (PARNELL)</td>
+      <td>State Representative - District 1</td>
+      <td>Allen Andrews</td>
+      <td>91</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7470</th>
+      <td>Nodaway</td>
+      <td>JACKSON (RAVENWOOD)</td>
+      <td>State Representative - District 1</td>
+      <td>Allen Andrews</td>
+      <td>349</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7471</th>
+      <td>Nodaway</td>
+      <td>JEFFERSON (CONCEPTION JCT)</td>
+      <td>State Representative - District 1</td>
+      <td>Allen Andrews</td>
+      <td>224</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7472</th>
+      <td>Nodaway</td>
+      <td>LINCOLN (ELMO)</td>
+      <td>State Representative - District 1</td>
+      <td>Allen Andrews</td>
+      <td>131</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7473</th>
+      <td>Nodaway</td>
+      <td>MONROE (SKIDMORE)</td>
+      <td>State Representative - District 1</td>
+      <td>Allen Andrews</td>
+      <td>137</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7474</th>
+      <td>Nodaway</td>
+      <td>NODAWAY (BURL JCT)</td>
+      <td>State Representative - District 1</td>
+      <td>Allen Andrews</td>
+      <td>221</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7475</th>
+      <td>Nodaway</td>
+      <td>UNION (PICKERING)</td>
+      <td>State Representative - District 1</td>
+      <td>Allen Andrews</td>
+      <td>146</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7476</th>
+      <td>Nodaway</td>
+      <td>WASHINGTON (GUILFORD)</td>
+      <td>State Representative - District 1</td>
+      <td>Allen Andrews</td>
+      <td>118</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7477</th>
+      <td>Nodaway</td>
+      <td>WHITE CLOUD</td>
+      <td>State Representative - District 1</td>
+      <td>Allen Andrews</td>
+      <td>174</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7478</th>
+      <td>Nodaway</td>
+      <td>POLK A-POLK D</td>
+      <td>State Representative - District 1</td>
+      <td>Allen Andrews</td>
+      <td>1139</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7479</th>
+      <td>Nodaway</td>
+      <td>POLK E</td>
+      <td>State Representative - District 1</td>
+      <td>Allen Andrews</td>
+      <td>492</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7480</th>
+      <td>Nodaway</td>
+      <td>POLK B-POLK C</td>
+      <td>State Representative - District 1</td>
+      <td>Allen Andrews</td>
+      <td>1343</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7540</th>
+      <td>Nodaway</td>
+      <td>ATCHISON (CLEARMONT)</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>84</td>
+      <td>75.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7541</th>
+      <td>Nodaway</td>
+      <td>GRANT (BARNARD)</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>132</td>
+      <td>113.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7542</th>
+      <td>Nodaway</td>
+      <td>GREEN (QUITMAN)</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>42</td>
+      <td>55.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7543</th>
+      <td>Nodaway</td>
+      <td>HOPKINS (HOPKINS)</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>113</td>
+      <td>106.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7544</th>
+      <td>Nodaway</td>
+      <td>HUGHES (GRAHAM)</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>72</td>
+      <td>120.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7545</th>
+      <td>Nodaway</td>
+      <td>INDEPENDENCE (PARNELL)</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>61</td>
+      <td>50.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7546</th>
+      <td>Nodaway</td>
+      <td>JACKSON (RAVENWOOD)</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>170</td>
+      <td>216.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7547</th>
+      <td>Nodaway</td>
+      <td>JEFFERSON (CONCEPTION JCT)</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>145</td>
+      <td>147.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7548</th>
+      <td>Nodaway</td>
+      <td>LINCOLN (ELMO)</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>62</td>
+      <td>88.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7549</th>
+      <td>Nodaway</td>
+      <td>MONROE (SKIDMORE)</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>84</td>
+      <td>93.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7550</th>
+      <td>Nodaway</td>
+      <td>NODAWAY (BURL JCT)</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>150</td>
+      <td>135.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7551</th>
+      <td>Nodaway</td>
+      <td>UNION (PICKERING)</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>74</td>
+      <td>96.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7552</th>
+      <td>Nodaway</td>
+      <td>WASHINGTON (GUILFORD)</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>50</td>
+      <td>89.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7553</th>
+      <td>Nodaway</td>
+      <td>WHITE CLOUD</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>99</td>
+      <td>103.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7554</th>
+      <td>Nodaway</td>
+      <td>POLK A-POLK D</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>1017</td>
+      <td>696.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7555</th>
+      <td>Nodaway</td>
+      <td>POLK E</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>295</td>
+      <td>290.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7556</th>
+      <td>Nodaway</td>
+      <td>POLK B-POLK C</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>1039</td>
+      <td>756.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>13643</th>
+      <td>Worth</td>
+      <td>ALLEN</td>
+      <td>State Representative - District 1</td>
+      <td>Allen Andrews</td>
+      <td>61</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>13644</th>
+      <td>Worth</td>
+      <td>EAST FLETCHALL</td>
+      <td>State Representative - District 1</td>
+      <td>Allen Andrews</td>
+      <td>144</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>13645</th>
+      <td>Worth</td>
+      <td>GREENE</td>
+      <td>State Representative - District 1</td>
+      <td>Allen Andrews</td>
+      <td>73</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>13646</th>
+      <td>Worth</td>
+      <td>MIDDLE FORK</td>
+      <td>State Representative - District 1</td>
+      <td>Allen Andrews</td>
+      <td>62</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>13647</th>
+      <td>Worth</td>
+      <td>SMITH</td>
+      <td>State Representative - District 1</td>
+      <td>Allen Andrews</td>
+      <td>72</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>13648</th>
+      <td>Worth</td>
+      <td>WEST FLETCHALL</td>
+      <td>State Representative - District 1</td>
+      <td>Allen Andrews</td>
+      <td>190</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>13649</th>
+      <td>Worth</td>
+      <td>WEST UNION</td>
+      <td>State Representative - District 1</td>
+      <td>Allen Andrews</td>
+      <td>125</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>13675</th>
+      <td>Worth</td>
+      <td>ALLEN</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>25</td>
+      <td>45.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>13676</th>
+      <td>Worth</td>
+      <td>EAST FLETCHALL</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>77</td>
+      <td>78.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>13677</th>
+      <td>Worth</td>
+      <td>GREENE</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>23</td>
+      <td>53.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>13678</th>
+      <td>Worth</td>
+      <td>MIDDLE FORK</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>28</td>
+      <td>50.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>13679</th>
+      <td>Worth</td>
+      <td>SMITH</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>37</td>
+      <td>44.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>13680</th>
+      <td>Worth</td>
+      <td>WEST FLETCHALL</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>86</td>
+      <td>116.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>13681</th>
+      <td>Worth</td>
+      <td>WEST UNION</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>53</td>
+      <td>76.0</td>
       <td>NaN</td>
       <td>NaN</td>
     </tr>
@@ -421,10 +979,12 @@ original_data[(original_data['County Name'] == 'Adair')
 
 
 ```python
-original_data[(original_data['County Name'] == 'Adair') 
-              & (original_data['Office Title'] == "State Representative - District 3")
-              & (original_data['Candidate Ballot Name'] == "Danny Busick")
-             ]
+justa1 = onecandidate[(onecandidate['office_title'] == "Constitutional Amendment No. 1")]
+```
+
+
+```python
+justa1
 ```
 
 
@@ -448,145 +1008,824 @@ original_data[(original_data['County Name'] == 'Adair')
   <thead>
     <tr style="text-align: right;">
       <th></th>
-      <th>County Name</th>
-      <th>Precinct Name</th>
-      <th>Office Title</th>
-      <th>Candidate Ballot Name</th>
-      <th>Yes votes</th>
-      <th>No votes</th>
-      <th>Precident Address</th>
+      <th>county_name</th>
+      <th>precinct_name</th>
+      <th>office_title</th>
+      <th>candidate_ballot_name</th>
+      <th>yes_votes</th>
+      <th>no_votes</th>
+      <th>Unnamed: 6</th>
       <th>Unnamed: 7</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th>24</th>
-      <td>Adair</td>
-      <td>SOUTHWEST 1</td>
-      <td>State Representative - District 3</td>
-      <td>Danny Busick</td>
-      <td>258</td>
+      <th>156</th>
+      <td>Atchison</td>
+      <td>TARKIO</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>329</td>
+      <td>289.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>157</th>
+      <td>Atchison</td>
+      <td>ROCK PORT</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>431</td>
+      <td>335.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>158</th>
+      <td>Atchison</td>
+      <td>FAIRFAX</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>203</td>
+      <td>241.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>159</th>
+      <td>Atchison</td>
+      <td>WESTBORO</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>69</td>
+      <td>76.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>160</th>
+      <td>Atchison</td>
+      <td>WATSON</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>37</td>
+      <td>30.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>4092</th>
+      <td>Holt</td>
+      <td>NORTHWEST</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>134</td>
+      <td>81.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>4093</th>
+      <td>Holt</td>
+      <td>NORTHEAST</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>59</td>
+      <td>101.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>4094</th>
+      <td>Holt</td>
+      <td>CENTRAL</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>250</td>
+      <td>389.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>4095</th>
+      <td>Holt</td>
+      <td>SOUTHEAST-SOUTHWEST</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>333</td>
+      <td>429.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7540</th>
+      <td>Nodaway</td>
+      <td>ATCHISON (CLEARMONT)</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>84</td>
+      <td>75.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7541</th>
+      <td>Nodaway</td>
+      <td>GRANT (BARNARD)</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>132</td>
+      <td>113.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7542</th>
+      <td>Nodaway</td>
+      <td>GREEN (QUITMAN)</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>42</td>
+      <td>55.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7543</th>
+      <td>Nodaway</td>
+      <td>HOPKINS (HOPKINS)</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>113</td>
+      <td>106.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7544</th>
+      <td>Nodaway</td>
+      <td>HUGHES (GRAHAM)</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>72</td>
+      <td>120.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7545</th>
+      <td>Nodaway</td>
+      <td>INDEPENDENCE (PARNELL)</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>61</td>
+      <td>50.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7546</th>
+      <td>Nodaway</td>
+      <td>JACKSON (RAVENWOOD)</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>170</td>
+      <td>216.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7547</th>
+      <td>Nodaway</td>
+      <td>JEFFERSON (CONCEPTION JCT)</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>145</td>
+      <td>147.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7548</th>
+      <td>Nodaway</td>
+      <td>LINCOLN (ELMO)</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>62</td>
+      <td>88.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7549</th>
+      <td>Nodaway</td>
+      <td>MONROE (SKIDMORE)</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>84</td>
+      <td>93.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7550</th>
+      <td>Nodaway</td>
+      <td>NODAWAY (BURL JCT)</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>150</td>
+      <td>135.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7551</th>
+      <td>Nodaway</td>
+      <td>UNION (PICKERING)</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>74</td>
+      <td>96.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7552</th>
+      <td>Nodaway</td>
+      <td>WASHINGTON (GUILFORD)</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>50</td>
+      <td>89.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7553</th>
+      <td>Nodaway</td>
+      <td>WHITE CLOUD</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>99</td>
+      <td>103.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7554</th>
+      <td>Nodaway</td>
+      <td>POLK A-POLK D</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>1017</td>
+      <td>696.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7555</th>
+      <td>Nodaway</td>
+      <td>POLK E</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>295</td>
+      <td>290.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>7556</th>
+      <td>Nodaway</td>
+      <td>POLK B-POLK C</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>1039</td>
+      <td>756.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>13675</th>
+      <td>Worth</td>
+      <td>ALLEN</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>25</td>
+      <td>45.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>13676</th>
+      <td>Worth</td>
+      <td>EAST FLETCHALL</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>77</td>
+      <td>78.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>13677</th>
+      <td>Worth</td>
+      <td>GREENE</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>23</td>
+      <td>53.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>13678</th>
+      <td>Worth</td>
+      <td>MIDDLE FORK</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>28</td>
+      <td>50.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>13679</th>
+      <td>Worth</td>
+      <td>SMITH</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>37</td>
+      <td>44.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>13680</th>
+      <td>Worth</td>
+      <td>WEST FLETCHALL</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>86</td>
+      <td>116.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>13681</th>
+      <td>Worth</td>
+      <td>WEST UNION</td>
+      <td>Constitutional Amendment No. 1</td>
+      <td>NaN</td>
+      <td>53</td>
+      <td>76.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+
+
+```python
+justa1.yes_votes.sum()
+```
+
+
+
+
+    5863
+
+
+
+
+```python
+h1yes = justa1.yes_votes.sum()
+```
+
+
+```python
+justa1.no_votes.sum()
+```
+
+
+
+
+    5661.0
+
+
+
+
+```python
+h1no = justa1.no_votes.sum()
+```
+
+
+```python
+house_district1_percentage = h1yes / (h1yes + h1no)
+```
+
+
+```python
+house_district1_percentage * 100
+```
+
+
+
+
+    50.876431794515796
+
+
+
+
+```python
+pd.set_option('display.max_rows', None)
+```
+
+
+```python
+house1.yes_votes.sum()
+```
+
+
+
+
+    1388066
+
+
+
+"9,271" Verified in Microsoft Excel 
+
+
+```python
+house2 = no_provisional[(no_provisional['office_title'] == 'State Representative - District 2')]
+```
+
+
+```python
+house2
+```
+
+
+
+
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>county_name</th>
+      <th>precinct_name</th>
+      <th>office_title</th>
+      <th>candidate_ballot_name</th>
+      <th>yes_votes</th>
+      <th>no_votes</th>
+      <th>Unnamed: 6</th>
+      <th>Unnamed: 7</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>2769</th>
+      <td>Daviess</td>
+      <td>ALTAMONT</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>483</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
     </tr>
     <tr>
-      <th>25</th>
-      <td>Adair</td>
-      <td>SOUTHEAST 2</td>
-      <td>State Representative - District 3</td>
-      <td>Danny Busick</td>
-      <td>620</td>
+      <th>2770</th>
+      <td>Daviess</td>
+      <td>GALLATIN</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>711</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
     </tr>
     <tr>
-      <th>26</th>
-      <td>Adair</td>
-      <td>SOUTHEAST 3</td>
-      <td>State Representative - District 3</td>
-      <td>Danny Busick</td>
-      <td>187</td>
+      <th>2771</th>
+      <td>Daviess</td>
+      <td>JAMESON</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>172</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
     </tr>
     <tr>
-      <th>27</th>
-      <td>Adair</td>
-      <td>SOUTHEAST 4</td>
-      <td>State Representative - District 3</td>
-      <td>Danny Busick</td>
-      <td>306</td>
+      <th>2772</th>
+      <td>Daviess</td>
+      <td>JAMESPORT</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>332</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
     </tr>
     <tr>
-      <th>28</th>
-      <td>Adair</td>
-      <td>NORTHEAST 5</td>
-      <td>State Representative - District 3</td>
-      <td>Danny Busick</td>
-      <td>373</td>
+      <th>2773</th>
+      <td>Daviess</td>
+      <td>PATTONSBURG</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>340</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
     </tr>
     <tr>
-      <th>29</th>
-      <td>Adair</td>
-      <td>NORTHEAST 6</td>
-      <td>State Representative - District 3</td>
-      <td>Danny Busick</td>
-      <td>521</td>
+      <th>2774</th>
+      <td>Daviess</td>
+      <td>WINSTON</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>413</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
     </tr>
     <tr>
-      <th>30</th>
-      <td>Adair</td>
-      <td>TSU</td>
-      <td>State Representative - District 3</td>
-      <td>Danny Busick</td>
+      <th>2801</th>
+      <td>De Kalb</td>
+      <td>ADAMS</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>220</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2802</th>
+      <td>De Kalb</td>
+      <td>COLFAX</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>263</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2803</th>
+      <td>De Kalb</td>
+      <td>GRAND RIVER</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>662</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2804</th>
+      <td>De Kalb</td>
+      <td>POLK</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>279</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2805</th>
+      <td>De Kalb</td>
+      <td>SHERMAN</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>199</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2806</th>
+      <td>De Kalb</td>
+      <td>NORTH WASHINGTON</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>243</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2807</th>
+      <td>De Kalb</td>
+      <td>SOUTH WASHINGTON</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>451</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2808</th>
+      <td>De Kalb</td>
+      <td>JUNE CONLEY BUILDING</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>815</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>3384</th>
+      <td>Gentry</td>
+      <td>ATHENS NORTH AND SOUTH</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>674</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>3385</th>
+      <td>Gentry</td>
+      <td>BOGLE GENTRY</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>70</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>3386</th>
+      <td>Gentry</td>
+      <td>COOPER EAST AND WEST</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>514</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>3387</th>
+      <td>Gentry</td>
+      <td>COOPER DARLINGTON</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>58</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>3388</th>
+      <td>Gentry</td>
+      <td>HOWARD LONESTAR</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>44</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>3389</th>
+      <td>Gentry</td>
+      <td>HUGGINS CARMACK</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>59</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>3390</th>
+      <td>Gentry</td>
+      <td>JACKSON EAST &amp;WEST</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>416</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>3391</th>
+      <td>Gentry</td>
+      <td>MILLER BERLIN</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>87</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>3392</th>
+      <td>Gentry</td>
+      <td>MILLER MCFALL</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
       <td>65</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
     </tr>
     <tr>
-      <th>31</th>
-      <td>Adair</td>
-      <td>RURAL BENTON</td>
-      <td>State Representative - District 3</td>
-      <td>Danny Busick</td>
-      <td>418</td>
+      <th>3393</th>
+      <td>Gentry</td>
+      <td>WILSON ALANTHUS</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>70</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
     </tr>
     <tr>
-      <th>32</th>
-      <td>Adair</td>
-      <td>BRASHEAR</td>
-      <td>State Representative - District 3</td>
-      <td>Danny Busick</td>
-      <td>0</td>
+      <th>3973</th>
+      <td>Harrison</td>
+      <td>BETHANY</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>1003</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
     </tr>
     <tr>
-      <th>33</th>
-      <td>Adair</td>
-      <td>NOVINGER</td>
-      <td>State Representative - District 3</td>
-      <td>Danny Busick</td>
-      <td>537</td>
+      <th>3974</th>
+      <td>Harrison</td>
+      <td>CAINSVILLE</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>217</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
     </tr>
     <tr>
-      <th>34</th>
-      <td>Adair</td>
-      <td>ABSENTEE</td>
-      <td>State Representative - District 3</td>
-      <td>Danny Busick</td>
-      <td>376</td>
+      <th>3975</th>
+      <td>Harrison</td>
+      <td>GILMAN CITY</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>203</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
     </tr>
     <tr>
-      <th>35</th>
-      <td>Adair</td>
-      <td>FEDERAL</td>
-      <td>State Representative - District 3</td>
-      <td>Danny Busick</td>
-      <td>0</td>
+      <th>3976</th>
+      <td>Harrison</td>
+      <td>EAGLEVILLE</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>342</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>3977</th>
+      <td>Harrison</td>
+      <td>NEW HAMPTON</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>244</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>3978</th>
+      <td>Harrison</td>
+      <td>RIDGEWAY</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>211</td>
       <td>NaN</td>
       <td>NaN</td>
       <td>NaN</td>
@@ -599,5 +1838,373 @@ original_data[(original_data['County Name'] == 'Adair')
 
 
 ```python
-
+house2
 ```
+
+
+
+
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>county_name</th>
+      <th>precinct_name</th>
+      <th>office_title</th>
+      <th>candidate_ballot_name</th>
+      <th>yes_votes</th>
+      <th>no_votes</th>
+      <th>Unnamed: 6</th>
+      <th>Unnamed: 7</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>2769</th>
+      <td>Daviess</td>
+      <td>ALTAMONT</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>483</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2770</th>
+      <td>Daviess</td>
+      <td>GALLATIN</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>711</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2771</th>
+      <td>Daviess</td>
+      <td>JAMESON</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>172</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2772</th>
+      <td>Daviess</td>
+      <td>JAMESPORT</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>332</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2773</th>
+      <td>Daviess</td>
+      <td>PATTONSBURG</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>340</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2774</th>
+      <td>Daviess</td>
+      <td>WINSTON</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>413</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2801</th>
+      <td>De Kalb</td>
+      <td>ADAMS</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>220</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2802</th>
+      <td>De Kalb</td>
+      <td>COLFAX</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>263</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2803</th>
+      <td>De Kalb</td>
+      <td>GRAND RIVER</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>662</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2804</th>
+      <td>De Kalb</td>
+      <td>POLK</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>279</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2805</th>
+      <td>De Kalb</td>
+      <td>SHERMAN</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>199</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2806</th>
+      <td>De Kalb</td>
+      <td>NORTH WASHINGTON</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>243</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2807</th>
+      <td>De Kalb</td>
+      <td>SOUTH WASHINGTON</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>451</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>2808</th>
+      <td>De Kalb</td>
+      <td>JUNE CONLEY BUILDING</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>815</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>3384</th>
+      <td>Gentry</td>
+      <td>ATHENS NORTH AND SOUTH</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>674</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>3385</th>
+      <td>Gentry</td>
+      <td>BOGLE GENTRY</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>70</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>3386</th>
+      <td>Gentry</td>
+      <td>COOPER EAST AND WEST</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>514</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>3387</th>
+      <td>Gentry</td>
+      <td>COOPER DARLINGTON</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>58</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>3388</th>
+      <td>Gentry</td>
+      <td>HOWARD LONESTAR</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>44</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>3389</th>
+      <td>Gentry</td>
+      <td>HUGGINS CARMACK</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>59</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>3390</th>
+      <td>Gentry</td>
+      <td>JACKSON EAST &amp;WEST</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>416</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>3391</th>
+      <td>Gentry</td>
+      <td>MILLER BERLIN</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>87</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>3392</th>
+      <td>Gentry</td>
+      <td>MILLER MCFALL</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>65</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>3393</th>
+      <td>Gentry</td>
+      <td>WILSON ALANTHUS</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>70</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>3973</th>
+      <td>Harrison</td>
+      <td>BETHANY</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>1003</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>3974</th>
+      <td>Harrison</td>
+      <td>CAINSVILLE</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>217</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>3975</th>
+      <td>Harrison</td>
+      <td>GILMAN CITY</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>203</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>3976</th>
+      <td>Harrison</td>
+      <td>EAGLEVILLE</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>342</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>3977</th>
+      <td>Harrison</td>
+      <td>NEW HAMPTON</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>244</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <th>3978</th>
+      <td>Harrison</td>
+      <td>RIDGEWAY</td>
+      <td>State Representative - District 2</td>
+      <td>J. Eggleston</td>
+      <td>211</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>NaN</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
