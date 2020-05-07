@@ -1,0 +1,3481 @@
+county_name,precinct_name,candidate_ballot_name,yes_votes,district
+Adair,SOUTHWEST 1,Cindy O'Laughlin,283,18
+Adair,SOUTHEAST 2,Cindy O'Laughlin,635,18
+Adair,SOUTHEAST 3,Cindy O'Laughlin,194,18
+Adair,SOUTHEAST 4,Cindy O'Laughlin,325,18
+Adair,NORTHEAST 5,Cindy O'Laughlin,396,18
+Adair,NORTHEAST 6,Cindy O'Laughlin,520,18
+Adair,TSU,Cindy O'Laughlin,69,18
+Adair,RURAL BENTON,Cindy O'Laughlin,960,18
+Adair,BRASHEAR,Cindy O'Laughlin,527,18
+Adair,NOVINGER,Cindy O'Laughlin,628,18
+Adair,ABSENTEE,Cindy O'Laughlin,600,18
+Adair,FEDERAL,Cindy O'Laughlin,0,18
+Adair,SOUTHWEST 1,Crystal Stephens,217,18
+Adair,SOUTHEAST 2,Crystal Stephens,454,18
+Adair,SOUTHEAST 3,Crystal Stephens,331,18
+Adair,SOUTHEAST 4,Crystal Stephens,393,18
+Adair,NORTHEAST 5,Crystal Stephens,265,18
+Adair,NORTHEAST 6,Crystal Stephens,354,18
+Adair,TSU,Crystal Stephens,203,18
+Adair,RURAL BENTON,Crystal Stephens,408,18
+Adair,BRASHEAR,Crystal Stephens,163,18
+Adair,NOVINGER,Crystal Stephens,168,18
+Adair,ABSENTEE,Crystal Stephens,425,18
+Adair,FEDERAL,Crystal Stephens,0,18
+Andrew,LINCOLN,Dan Hegeman,354,12
+Andrew,ROCHESTER,Dan Hegeman,275,12
+Andrew,HELENA,Dan Hegeman,203,12
+Andrew,EAST MONROE,Dan Hegeman,145,12
+Andrew,WEST MONROE,Dan Hegeman,191,12
+Andrew,CLAY/FILLMORE,Dan Hegeman,313,12
+Andrew,NE/SE,Dan Hegeman,979,12
+Andrew,NW/SW,Dan Hegeman,833,12
+Andrew,BEELER/JG/CC,Dan Hegeman,1556,12
+Andrew,BOLCKOW/RDALE/WPLT,Dan Hegeman,398,12
+Andrew,EPLATTE/EEMPIRE,Dan Hegeman,164,12
+Andrew,ABSENTEE,Dan Hegeman,364,12
+Andrew,LINCOLN,Terry Richard,97,12
+Andrew,ROCHESTER,Terry Richard,56,12
+Andrew,HELENA,Terry Richard,52,12
+Andrew,EAST MONROE,Terry Richard,34,12
+Andrew,WEST MONROE,Terry Richard,37,12
+Andrew,CLAY/FILLMORE,Terry Richard,53,12
+Andrew,NE/SE,Terry Richard,317,12
+Andrew,NW/SW,Terry Richard,263,12
+Andrew,BEELER/JG/CC,Terry Richard,545,12
+Andrew,BOLCKOW/RDALE/WPLT,Terry Richard,94,12
+Andrew,EPLATTE/EEMPIRE,Terry Richard,38,12
+Andrew,ABSENTEE,Terry Richard,130,12
+Atchison,TARKIO,Dan Hegeman,492,12
+Atchison,ROCK PORT,Dan Hegeman,608,12
+Atchison,FAIRFAX,Dan Hegeman,351,12
+Atchison,WESTBORO,Dan Hegeman,125,12
+Atchison,WATSON,Dan Hegeman,48,12
+Atchison,ABSENTEE,Dan Hegeman,98,12
+Atchison,TARKIO,Terry Richard,128,12
+Atchison,ROCK PORT,Terry Richard,173,12
+Atchison,FAIRFAX,Terry Richard,97,12
+Atchison,WESTBORO,Terry Richard,24,12
+Atchison,WATSON,Terry Richard,18,12
+Atchison,ABSENTEE,Terry Richard,28,12
+Audrain,MEXICO 1,Jeanie Riddle,420,10
+Audrain,MEXICO 5,Jeanie Riddle,320,10
+Audrain,MEXICO 6,Jeanie Riddle,550,10
+Audrain,1 E CUIVRE,Jeanie Riddle,197,10
+Audrain,2 FARBER,Jeanie Riddle,126,10
+Audrain,3 LADDONIA,Jeanie Riddle,203,10
+Audrain,4 MARTINSBURG,Jeanie Riddle,248,10
+Audrain,6 SOUTH FORK,Jeanie Riddle,393,10
+Audrain,10 THOMPSON,Jeanie Riddle,401,10
+Audrain,11 FRIENDSHIP,Jeanie Riddle,257,10
+Audrain,VANDALIA,Jeanie Riddle,535,10
+Audrain,RUSH HILL,Jeanie Riddle,185,10
+Audrain,COMMUNITY,Jeanie Riddle,632,10
+Audrain,4-H,Jeanie Riddle,260,10
+Audrain,"MEXICO 2,3,4",Jeanie Riddle,659,10
+Audrain,ABSENTEE,Jeanie Riddle,315,10
+Audrain,MEXICO 1,Ayanna Shivers,327,10
+Audrain,MEXICO 5,Ayanna Shivers,214,10
+Audrain,MEXICO 6,Ayanna Shivers,388,10
+Audrain,1 E CUIVRE,Ayanna Shivers,49,10
+Audrain,2 FARBER,Ayanna Shivers,59,10
+Audrain,3 LADDONIA,Ayanna Shivers,68,10
+Audrain,4 MARTINSBURG,Ayanna Shivers,76,10
+Audrain,6 SOUTH FORK,Ayanna Shivers,164,10
+Audrain,10 THOMPSON,Ayanna Shivers,110,10
+Audrain,11 FRIENDSHIP,Ayanna Shivers,60,10
+Audrain,VANDALIA,Ayanna Shivers,275,10
+Audrain,RUSH HILL,Ayanna Shivers,50,10
+Audrain,COMMUNITY,Ayanna Shivers,240,10
+Audrain,4-H,Ayanna Shivers,82,10
+Audrain,"MEXICO 2,3,4",Ayanna Shivers,630,10
+Audrain,ABSENTEE,Ayanna Shivers,159,10
+Benton,COLE,Sandy Crawford,512,28
+Benton,WILLIAMS,Sandy Crawford,1095,28
+Benton,LINDSEY,Sandy Crawford,1178,28
+Benton,WHITE,Sandy Crawford,711,28
+Benton,UNION,Sandy Crawford,451,28
+Benton,TOM,Sandy Crawford,624,28
+Benton,FRISTOE/ALEXANDER,Sandy Crawford,857,28
+Benton,ABSENTEE,Sandy Crawford,770,28
+Benton,COLE,Joe Poor,170,28
+Benton,WILLIAMS,Joe Poor,200,28
+Benton,LINDSEY,Joe Poor,480,28
+Benton,WHITE,Joe Poor,125,28
+Benton,UNION,Joe Poor,110,28
+Benton,TOM,Joe Poor,298,28
+Benton,FRISTOE/ALEXANDER,Joe Poor,318,28
+Benton,ABSENTEE,Joe Poor,326,28
+Buchanan,ST PETER LUTHERAN CHURCH,Tony Luetkemeyer,660,34
+Buchanan,SAVANNAH AVE BAPTIST CHURCH,Tony Luetkemeyer,498,34
+Buchanan,CENTRAL ASSEMBLY OF GOD,Tony Luetkemeyer,327,34
+Buchanan,ST JOSEPH CITY HALL,Tony Luetkemeyer,294,34
+Buchanan,WYATT PARK CHRISTIAN CHURCH,Tony Luetkemeyer,571,34
+Buchanan,BROOKDALE STUDENT MINISTRY,Tony Luetkemeyer,667,34
+Buchanan,PONY EXPRESS MUSEUM,Tony Luetkemeyer,320,34
+Buchanan,COPELAND BAPTIST CHURCH,Tony Luetkemeyer,440,34
+Buchanan,HUFFMAN UNITED METHODIST CHURCH,Tony Luetkemeyer,565,34
+Buchanan,THE EVOLUTION UNITED METHODIST CHURCH,Tony Luetkemeyer,908,34
+Buchanan,THE KEYS CHRISTIAN FELLOWSHIP,Tony Luetkemeyer,792,34
+Buchanan,FAITH UNITED CHURCH,Tony Luetkemeyer,762,34
+Buchanan,ASHLAND UNITED METHODIST CHURCH,Tony Luetkemeyer,782,34
+Buchanan,WESLEY UNITED METHODIST CHURCH,Tony Luetkemeyer,730,34
+Buchanan,RIVERSIDE BAPTIST CHURCH,Tony Luetkemeyer,802,34
+Buchanan,OUR LADY OF GUADALUPE CHURCH,Tony Luetkemeyer,2024,34
+Buchanan,AGENCY METHODIST CHURCH,Tony Luetkemeyer,314,34
+Buchanan,DEKALB COMMUNITY CENTER,Tony Luetkemeyer,276,34
+Buchanan,WILLOWBROOK COMMUNITY CENTER,Tony Luetkemeyer,542,34
+Buchanan,FAUCETT LIONS CLUB,Tony Luetkemeyer,402,34
+Buchanan,ST JOSEPH CATHOLIC CHURCH,Tony Luetkemeyer,137,34
+Buchanan,FRAZIER BAPTIST CHURCH,Tony Luetkemeyer,350,34
+Buchanan,RUSHVILLE MASONIC LODGE,Tony Luetkemeyer,229,34
+Buchanan,FREDERICK BOULEVARD BAPTIST CHURCH,Tony Luetkemeyer,1116,34
+Buchanan,GRACE EVANGELICAL CHURCH,Tony Luetkemeyer,402,34
+Buchanan,ABSENTEE,Tony Luetkemeyer,993,34
+Buchanan,ST PETER LUTHERAN CHURCH,Martin T. Rucker II,594,34
+Buchanan,SAVANNAH AVE BAPTIST CHURCH,Martin T. Rucker II,410,34
+Buchanan,CENTRAL ASSEMBLY OF GOD,Martin T. Rucker II,378,34
+Buchanan,ST JOSEPH CITY HALL,Martin T. Rucker II,547,34
+Buchanan,WYATT PARK CHRISTIAN CHURCH,Martin T. Rucker II,595,34
+Buchanan,BROOKDALE STUDENT MINISTRY,Martin T. Rucker II,822,34
+Buchanan,PONY EXPRESS MUSEUM,Martin T. Rucker II,436,34
+Buchanan,COPELAND BAPTIST CHURCH,Martin T. Rucker II,469,34
+Buchanan,HUFFMAN UNITED METHODIST CHURCH,Martin T. Rucker II,566,34
+Buchanan,THE EVOLUTION UNITED METHODIST CHURCH,Martin T. Rucker II,848,34
+Buchanan,THE KEYS CHRISTIAN FELLOWSHIP,Martin T. Rucker II,720,34
+Buchanan,FAITH UNITED CHURCH,Martin T. Rucker II,635,34
+Buchanan,ASHLAND UNITED METHODIST CHURCH,Martin T. Rucker II,792,34
+Buchanan,WESLEY UNITED METHODIST CHURCH,Martin T. Rucker II,574,34
+Buchanan,RIVERSIDE BAPTIST CHURCH,Martin T. Rucker II,757,34
+Buchanan,OUR LADY OF GUADALUPE CHURCH,Martin T. Rucker II,1598,34
+Buchanan,AGENCY METHODIST CHURCH,Martin T. Rucker II,189,34
+Buchanan,DEKALB COMMUNITY CENTER,Martin T. Rucker II,126,34
+Buchanan,WILLOWBROOK COMMUNITY CENTER,Martin T. Rucker II,285,34
+Buchanan,FAUCETT LIONS CLUB,Martin T. Rucker II,234,34
+Buchanan,ST JOSEPH CATHOLIC CHURCH,Martin T. Rucker II,84,34
+Buchanan,FRAZIER BAPTIST CHURCH,Martin T. Rucker II,176,34
+Buchanan,RUSHVILLE MASONIC LODGE,Martin T. Rucker II,129,34
+Buchanan,FREDERICK BOULEVARD BAPTIST CHURCH,Martin T. Rucker II,689,34
+Buchanan,GRACE EVANGELICAL CHURCH,Martin T. Rucker II,273,34
+Buchanan,ABSENTEE,Martin T. Rucker II,987,34
+Callaway,AUXVASSE,Jeanie Riddle,587,10
+Callaway,CALWOOD,Jeanie Riddle,298,10
+Callaway,CEDAR CITY/HOLTS SUMMIT COUNTY,Jeanie Riddle,1712,10
+Callaway,DIXIE,Jeanie Riddle,153,10
+Callaway,HAMS PRAIRIE,Jeanie Riddle,383,10
+Callaway,HATTON,Jeanie Riddle,289,10
+Callaway,MC CREDIE,Jeanie Riddle,254,10
+Callaway,MILLERSBURG,Jeanie Riddle,629,10
+Callaway,MOKANE,Jeanie Riddle,208,10
+Callaway,NEW BLOOMFIELD,Jeanie Riddle,914,10
+Callaway,PORTLAND,Jeanie Riddle,153,10
+Callaway,READSVILLE,Jeanie Riddle,137,10
+Callaway,SHAMROCK,Jeanie Riddle,161,10
+Callaway,STEPHENS,Jeanie Riddle,206,10
+Callaway,TEBBETTS,Jeanie Riddle,357,10
+Callaway,WILLIAMSBURG,Jeanie Riddle,255,10
+Callaway,CARRINGTON/GUTHRIE,Jeanie Riddle,543,10
+Callaway,FULTON WARD 1 & 2,Jeanie Riddle,922,10
+Callaway,FULTON EAST & WEST,Jeanie Riddle,1267,10
+Callaway,FULTON WARD 3,Jeanie Riddle,540,10
+Callaway,FULTON WARD 4,Jeanie Riddle,339,10
+Callaway,HOLTS SUMMIT 1 & 2,Jeanie Riddle,1015,10
+Callaway,CENTRAL POLLING LOCATION,Jeanie Riddle,27,10
+Callaway,FEDERAL,Jeanie Riddle,0,10
+Callaway,ABSENTEE,Jeanie Riddle,819,10
+Callaway,PROVISIONAL,Jeanie Riddle,3,10
+Callaway,AUXVASSE,Ayanna Shivers,189,10
+Callaway,CALWOOD,Ayanna Shivers,99,10
+Callaway,CEDAR CITY/HOLTS SUMMIT COUNTY,Ayanna Shivers,540,10
+Callaway,DIXIE,Ayanna Shivers,43,10
+Callaway,HAMS PRAIRIE,Ayanna Shivers,146,10
+Callaway,HATTON,Ayanna Shivers,65,10
+Callaway,MC CREDIE,Ayanna Shivers,51,10
+Callaway,MILLERSBURG,Ayanna Shivers,266,10
+Callaway,MOKANE,Ayanna Shivers,116,10
+Callaway,NEW BLOOMFIELD,Ayanna Shivers,320,10
+Callaway,PORTLAND,Ayanna Shivers,59,10
+Callaway,READSVILLE,Ayanna Shivers,46,10
+Callaway,SHAMROCK,Ayanna Shivers,34,10
+Callaway,STEPHENS,Ayanna Shivers,69,10
+Callaway,TEBBETTS,Ayanna Shivers,159,10
+Callaway,WILLIAMSBURG,Ayanna Shivers,86,10
+Callaway,CARRINGTON/GUTHRIE,Ayanna Shivers,190,10
+Callaway,FULTON WARD 1 & 2,Ayanna Shivers,487,10
+Callaway,FULTON EAST & WEST,Ayanna Shivers,443,10
+Callaway,FULTON WARD 3,Ayanna Shivers,321,10
+Callaway,FULTON WARD 4,Ayanna Shivers,315,10
+Callaway,HOLTS SUMMIT 1 & 2,Ayanna Shivers,376,10
+Callaway,CENTRAL POLLING LOCATION,Ayanna Shivers,10,10
+Callaway,FEDERAL,Ayanna Shivers,0,10
+Callaway,ABSENTEE,Ayanna Shivers,429,10
+Callaway,PROVISIONAL,Ayanna Shivers,3,10
+Camden,BARNUMTON,Justin Dan Brown,398,16
+Camden,CAMDENTON #1,Justin Dan Brown,853,16
+Camden,CAMDENTON #2,Justin Dan Brown,867,16
+Camden,CLIMAX SPRINGS,Justin Dan Brown,428,16
+Camden,DECATURVILLE,Justin Dan Brown,525,16
+Camden,FREEDOM,Justin Dan Brown,245,16
+Camden,GREENVIEW,Justin Dan Brown,572,16
+Camden,HILLHOUSE,Justin Dan Brown,236,16
+Camden,HORSESHOE BEND,Justin Dan Brown,1382,16
+Camden,LINN CREEK,Justin Dan Brown,575,16
+Camden,MACKS CREEK,Justin Dan Brown,682,16
+Camden,MONTREAL,Justin Dan Brown,239,16
+Camden,ROACH,Justin Dan Brown,549,16
+Camden,STOUTLAND,Justin Dan Brown,264,16
+Camden,SUNNYSLOPE,Justin Dan Brown,268,16
+Camden,SUNRISE BEACH #1,Justin Dan Brown,637,16
+Camden,CAMDENTON 3 & HA HA TONKA,Justin Dan Brown,1056,16
+Camden,"OSAGE BEACH 1,2, & 3",Justin Dan Brown,1711,16
+Camden,SUNRISE BEACH 2 & 3 AND WILSON BEND,Justin Dan Brown,935,16
+Camden,ABSENTEE,Justin Dan Brown,1934,16
+Camden,BARNUMTON,Ryan Dillon,175,16
+Camden,CAMDENTON #1,Ryan Dillon,292,16
+Camden,CAMDENTON #2,Ryan Dillon,311,16
+Camden,CLIMAX SPRINGS,Ryan Dillon,168,16
+Camden,DECATURVILLE,Ryan Dillon,138,16
+Camden,FREEDOM,Ryan Dillon,74,16
+Camden,GREENVIEW,Ryan Dillon,230,16
+Camden,HILLHOUSE,Ryan Dillon,46,16
+Camden,HORSESHOE BEND,Ryan Dillon,554,16
+Camden,LINN CREEK,Ryan Dillon,189,16
+Camden,MACKS CREEK,Ryan Dillon,198,16
+Camden,MONTREAL,Ryan Dillon,54,16
+Camden,ROACH,Ryan Dillon,148,16
+Camden,STOUTLAND,Ryan Dillon,66,16
+Camden,SUNNYSLOPE,Ryan Dillon,103,16
+Camden,SUNRISE BEACH #1,Ryan Dillon,261,16
+Camden,CAMDENTON 3 & HA HA TONKA,Ryan Dillon,385,16
+Camden,"OSAGE BEACH 1,2, & 3",Ryan Dillon,627,16
+Camden,SUNRISE BEACH 2 & 3 AND WILSON BEND,Ryan Dillon,432,16
+Camden,ABSENTEE,Ryan Dillon,760,16
+Cedar,BOX 1,Sandy Crawford,703,28
+Cedar,BOX 2,Sandy Crawford,826,28
+Cedar,CEDAR SPRINGS,Sandy Crawford,160,28
+Cedar,JEFFERSON,Sandy Crawford,233,28
+Cedar,MADISON - BEAR CREEK,Sandy Crawford,219,28
+Cedar,BENTON - JERICO SPRINGS,Sandy Crawford,295,28
+Cedar,SOUTH LINN,Sandy Crawford,767,28
+Cedar,NORTH LINN,Sandy Crawford,461,28
+Cedar,WASHINGTON,Sandy Crawford,311,28
+Cedar,ABSENTEE,Sandy Crawford,437,28
+Cedar,BOX 1,Joe Poor,124,28
+Cedar,BOX 2,Joe Poor,142,28
+Cedar,CEDAR SPRINGS,Joe Poor,25,28
+Cedar,JEFFERSON,Joe Poor,49,28
+Cedar,MADISON - BEAR CREEK,Joe Poor,88,28
+Cedar,BENTON - JERICO SPRINGS,Joe Poor,62,28
+Cedar,SOUTH LINN,Joe Poor,165,28
+Cedar,NORTH LINN,Joe Poor,73,28
+Cedar,WASHINGTON,Joe Poor,66,28
+Cedar,ABSENTEE,Joe Poor,120,28
+Chariton,BEE BRANCH (0101),Cindy O'Laughlin,123,18
+Chariton,BRUNSWICK (0303),Cindy O'Laughlin,327,18
+Chariton,CHARITON (0404),Cindy O'Laughlin,86,18
+Chariton,CLARK (0505),Cindy O'Laughlin,127,18
+Chariton,CUNNINGHAM (0707),Cindy O'Laughlin,73,18
+Chariton,KEYTESVILLE (0808),Cindy O'Laughlin,268,18
+Chariton,MENDON (0909),Cindy O'Laughlin,145,18
+Chariton,MUSSELFORK (1010),Cindy O'Laughlin,118,18
+Chariton,WAYLAND (1414),Cindy O'Laughlin,102,18
+Chariton,YELLOW CREEK (1515),Cindy O'Laughlin,95,18
+Chariton,SALISBURY 1,Cindy O'Laughlin,368,18
+Chariton,SALISBURY 2,Cindy O'Laughlin,308,18
+Chariton,ABSENTEE,Cindy O'Laughlin,112,18
+Chariton,BEE BRANCH (0101),Crystal Stephens,25,18
+Chariton,BRUNSWICK (0303),Crystal Stephens,167,18
+Chariton,CHARITON (0404),Crystal Stephens,36,18
+Chariton,CLARK (0505),Crystal Stephens,49,18
+Chariton,CUNNINGHAM (0707),Crystal Stephens,19,18
+Chariton,KEYTESVILLE (0808),Crystal Stephens,164,18
+Chariton,MENDON (0909),Crystal Stephens,51,18
+Chariton,MUSSELFORK (1010),Crystal Stephens,48,18
+Chariton,WAYLAND (1414),Crystal Stephens,34,18
+Chariton,YELLOW CREEK (1515),Crystal Stephens,48,18
+Chariton,SALISBURY 1,Crystal Stephens,174,18
+Chariton,SALISBURY 2,Crystal Stephens,124,18
+Chariton,ABSENTEE,Crystal Stephens,70,18
+Christian,E BENTON/BRUNER,Eric W. Burlison,412,20
+Christian,WEST BENTON/LINDEN,Eric W. Burlison,861,20
+Christian,CHADWICK/S. LINN/GARRISON/SENECA,Eric W. Burlison,289,20
+Christian,RIVERSIDE #1,Eric W. Burlison,1056,20
+Christian,CASSIDY #1,Eric W. Burlison,993,20
+Christian,WEST FINLEY,Eric W. Burlison,1233,20
+Christian,EAST FINLEY,Eric W. Burlison,1810,20
+Christian,NORTH GALLOWAY,Eric W. Burlison,1239,20
+Christian,SOUTH GALLOWAY,Eric W. Burlison,734,20
+Christian,LEAD HILL/OILFIELD,Eric W. Burlison,219,20
+Christian,LINCOLN #1,Eric W. Burlison,975,20
+Christian,NORTH LINN,Eric W. Burlison,363,20
+Christian,MCCRACKEN,Eric W. Burlison,796,20
+Christian,POLK,Eric W. Burlison,1134,20
+Christian,UNION CHAPEL #1,Eric W. Burlison,1207,20
+Christian,ROSEDALE #1A,Eric W. Burlison,942,20
+Christian,SPARTA,Eric W. Burlison,761,20
+Christian,UNION CHAPEL #2,Eric W. Burlison,1466,20
+Christian,ROSEDALE #2,Eric W. Burlison,925,20
+Christian,NORTHVIEW #2,Eric W. Burlison,845,20
+Christian,ROSEDALE 1B,Eric W. Burlison,803,20
+Christian,RIVERSIDE #2,Eric W. Burlison,1240,20
+Christian,CASSIDY #2,Eric W. Burlison,1221,20
+Christian,LINCOLN #2,Eric W. Burlison,670,20
+Christian,ABSENTEE,Eric W. Burlison,2092,20
+Christian,GARDEN GROVE,Eric W. Burlison,909,20
+Christian,NORTHVIEW #1,Eric W. Burlison,1573,20
+Christian,E BENTON/BRUNER,Jim Billedo,108,20
+Christian,WEST BENTON/LINDEN,Jim Billedo,250,20
+Christian,CHADWICK/S. LINN/GARRISON/SENECA,Jim Billedo,72,20
+Christian,RIVERSIDE #1,Jim Billedo,396,20
+Christian,CASSIDY #1,Jim Billedo,360,20
+Christian,WEST FINLEY,Jim Billedo,426,20
+Christian,EAST FINLEY,Jim Billedo,615,20
+Christian,NORTH GALLOWAY,Jim Billedo,323,20
+Christian,SOUTH GALLOWAY,Jim Billedo,170,20
+Christian,LEAD HILL/OILFIELD,Jim Billedo,65,20
+Christian,LINCOLN #1,Jim Billedo,298,20
+Christian,NORTH LINN,Jim Billedo,116,20
+Christian,MCCRACKEN,Jim Billedo,207,20
+Christian,POLK,Jim Billedo,276,20
+Christian,UNION CHAPEL #1,Jim Billedo,461,20
+Christian,ROSEDALE #1A,Jim Billedo,369,20
+Christian,SPARTA,Jim Billedo,228,20
+Christian,UNION CHAPEL #2,Jim Billedo,477,20
+Christian,ROSEDALE #2,Jim Billedo,330,20
+Christian,NORTHVIEW #2,Jim Billedo,337,20
+Christian,ROSEDALE 1B,Jim Billedo,313,20
+Christian,RIVERSIDE #2,Jim Billedo,422,20
+Christian,CASSIDY #2,Jim Billedo,489,20
+Christian,LINCOLN #2,Jim Billedo,149,20
+Christian,ABSENTEE,Jim Billedo,745,20
+Christian,GARDEN GROVE,Jim Billedo,340,20
+Christian,NORTHVIEW #1,Jim Billedo,564,20
+Clark,SEVER LIBRARY,Cindy O'Laughlin,609,18
+Clark,WAYLAND FIRE STATION,Cindy O'Laughlin,336,18
+Clark,WYACONDA COMMUNITY CENTER,Cindy O'Laughlin,127,18
+Clark,KAHOKA FIRE STATION,Cindy O'Laughlin,443,18
+Clark,LURAY BAPTIST CHURCH ANNEX,Cindy O'Laughlin,110,18
+Clark,REVERE FIRE STATION,Cindy O'Laughlin,110,18
+Clark,ABSENTEE1,Cindy O'Laughlin,12,18
+Clark,ABSENTEE2,Cindy O'Laughlin,169,18
+Clark,SEVER LIBRARY,Crystal Stephens,223,18
+Clark,WAYLAND FIRE STATION,Crystal Stephens,156,18
+Clark,WYACONDA COMMUNITY CENTER,Crystal Stephens,26,18
+Clark,KAHOKA FIRE STATION,Crystal Stephens,140,18
+Clark,LURAY BAPTIST CHURCH ANNEX,Crystal Stephens,24,18
+Clark,REVERE FIRE STATION,Crystal Stephens,47,18
+Clark,ABSENTEE1,Crystal Stephens,8,18
+Clark,ABSENTEE2,Crystal Stephens,76,18
+Clay,(48) FR 01,Dan Hegeman,265,12
+Clay,(49) FR 02,Dan Hegeman,815,12
+Clay,(50) FR 03,Dan Hegeman,436,12
+Clay,(51) FR 04,Dan Hegeman,388,12
+Clay,(52) FR 05,Dan Hegeman,241,12
+Clay,(53) KRY 01,Dan Hegeman,584,12
+Clay,(54) KRY 02,Dan Hegeman,1028,12
+Clay,(55) KRY 03,Dan Hegeman,1009,12
+Clay,(56) KRY 04,Dan Hegeman,1060,12
+Clay,(64) LIB 08,Dan Hegeman,157,12
+Clay,(65) LIB 09,Dan Hegeman,994,12
+Clay,(69) PL 01,Dan Hegeman,1293,12
+Clay,(70) PL 02,Dan Hegeman,866,12
+Clay,(73) WASH 02,Dan Hegeman,457,12
+Clay,(72) WASH 01,Dan Hegeman,332,12
+Clay,(71) PL 03,Dan Hegeman,798,12
+Clay,(74) WASH 03,Dan Hegeman,458,12
+Clay,(76) LIB 14,Dan Hegeman,417,12
+Clay,VOTE CENTER,Dan Hegeman,15,12
+Clay,ABSENTEE,Dan Hegeman,1053,12
+Clay,(48) FR 01,Terry Richard,226,12
+Clay,(49) FR 02,Terry Richard,493,12
+Clay,(50) FR 03,Terry Richard,288,12
+Clay,(51) FR 04,Terry Richard,229,12
+Clay,(52) FR 05,Terry Richard,172,12
+Clay,(53) KRY 01,Terry Richard,321,12
+Clay,(54) KRY 02,Terry Richard,617,12
+Clay,(55) KRY 03,Terry Richard,463,12
+Clay,(56) KRY 04,Terry Richard,539,12
+Clay,(64) LIB 08,Terry Richard,68,12
+Clay,(65) LIB 09,Terry Richard,462,12
+Clay,(69) PL 01,Terry Richard,799,12
+Clay,(70) PL 02,Terry Richard,456,12
+Clay,(73) WASH 02,Terry Richard,303,12
+Clay,(72) WASH 01,Terry Richard,186,12
+Clay,(71) PL 03,Terry Richard,442,12
+Clay,(74) WASH 03,Terry Richard,214,12
+Clay,(76) LIB 14,Terry Richard,323,12
+Clay,VOTE CENTER,Terry Richard,16,12
+Clay,ABSENTEE,Terry Richard,636,12
+Clinton,ATCHISON-LAFAYETTE,Dan Hegeman,707,12
+Clinton,CONCORD-LAFAYETTE-PLATTE,Dan Hegeman,790,12
+Clinton,HARDIN-CLINTON,Dan Hegeman,647,12
+Clinton,JACKSON-CLINTON,Dan Hegeman,879,12
+Clinton,LATHROP-CLINTON,Dan Hegeman,814,12
+Clinton,SHOAL-PLATTE,Dan Hegeman,1470,12
+Clinton,ABSENTEE,Dan Hegeman,387,12
+Clinton,ATCHISON-LAFAYETTE,Terry Richard,272,12
+Clinton,CONCORD-LAFAYETTE-PLATTE,Terry Richard,477,12
+Clinton,HARDIN-CLINTON,Terry Richard,325,12
+Clinton,JACKSON-CLINTON,Terry Richard,443,12
+Clinton,LATHROP-CLINTON,Terry Richard,444,12
+Clinton,SHOAL-PLATTE,Terry Richard,589,12
+Clinton,ABSENTEE,Terry Richard,215,12
+Cole,42369,Mike Bernskoetter,358,6
+Cole,42370,Mike Bernskoetter,669,6
+Cole,42371,Mike Bernskoetter,804,6
+Cole,42401,Mike Bernskoetter,449,6
+Cole,42402,Mike Bernskoetter,346,6
+Cole,42429,Mike Bernskoetter,829,6
+Cole,42430,Mike Bernskoetter,634,6
+Cole,42431,Mike Bernskoetter,935,6
+Cole,42460,Mike Bernskoetter,1300,6
+Cole,42461,Mike Bernskoetter,1301,6
+Cole,42490,Mike Bernskoetter,769,6
+Cole,42491,Mike Bernskoetter,705,6
+Cole,42492,Mike Bernskoetter,226,6
+Cole,CL/BRA,Mike Bernskoetter,855,6
+Cole,CL/EUG,Mike Bernskoetter,528,6
+Cole,JE/CCG,Mike Bernskoetter,976,6
+Cole,JE/EXR,Mike Bernskoetter,276,6
+Cole,JE/JCF,Mike Bernskoetter,858,6
+Cole,JE/SCS,Mike Bernskoetter,1194,6
+Cole,LI/TAO,Mike Bernskoetter,1579,6
+Cole,MA/CEN,Mike Bernskoetter,448,6
+Cole,MA/STM,Mike Bernskoetter,1031,6
+Cole,MO/LOH,Mike Bernskoetter,361,6
+Cole,MO/RUS,Mike Bernskoetter,615,6
+Cole,OS/STT,Mike Bernskoetter,356,6
+Cole,OS/WAR,Mike Bernskoetter,1366,6
+Cole,JE/APF,Mike Bernskoetter,996,6
+Cole,42400,Mike Bernskoetter,215,6
+Cole,ABSENTEE,Mike Bernskoetter,2079,6
+Cole,42369,Nicole Thompson,408,6
+Cole,42370,Nicole Thompson,316,6
+Cole,42371,Nicole Thompson,270,6
+Cole,42401,Nicole Thompson,372,6
+Cole,42402,Nicole Thompson,290,6
+Cole,42429,Nicole Thompson,419,6
+Cole,42430,Nicole Thompson,306,6
+Cole,42431,Nicole Thompson,399,6
+Cole,42460,Nicole Thompson,635,6
+Cole,42461,Nicole Thompson,464,6
+Cole,42490,Nicole Thompson,729,6
+Cole,42491,Nicole Thompson,345,6
+Cole,42492,Nicole Thompson,161,6
+Cole,CL/BRA,Nicole Thompson,164,6
+Cole,CL/EUG,Nicole Thompson,118,6
+Cole,JE/CCG,Nicole Thompson,290,6
+Cole,JE/EXR,Nicole Thompson,78,6
+Cole,JE/JCF,Nicole Thompson,380,6
+Cole,JE/SCS,Nicole Thompson,400,6
+Cole,LI/TAO,Nicole Thompson,279,6
+Cole,MA/CEN,Nicole Thompson,120,6
+Cole,MA/STM,Nicole Thompson,227,6
+Cole,MO/LOH,Nicole Thompson,89,6
+Cole,MO/RUS,Nicole Thompson,142,6
+Cole,OS/STT,Nicole Thompson,52,6
+Cole,OS/WAR,Nicole Thompson,235,6
+Cole,JE/APF,Nicole Thompson,445,6
+Cole,42400,Nicole Thompson,341,6
+Cole,ABSENTEE,Nicole Thompson,999,6
+Cole,42369,Steven Wilson,26,6
+Cole,42370,Steven Wilson,15,6
+Cole,42371,Steven Wilson,18,6
+Cole,42401,Steven Wilson,27,6
+Cole,42402,Steven Wilson,25,6
+Cole,42429,Steven Wilson,22,6
+Cole,42430,Steven Wilson,24,6
+Cole,42431,Steven Wilson,24,6
+Cole,42460,Steven Wilson,31,6
+Cole,42461,Steven Wilson,32,6
+Cole,42490,Steven Wilson,58,6
+Cole,42491,Steven Wilson,11,6
+Cole,42492,Steven Wilson,8,6
+Cole,CL/BRA,Steven Wilson,11,6
+Cole,CL/EUG,Steven Wilson,12,6
+Cole,JE/CCG,Steven Wilson,17,6
+Cole,JE/EXR,Steven Wilson,4,6
+Cole,JE/JCF,Steven Wilson,28,6
+Cole,JE/SCS,Steven Wilson,23,6
+Cole,LI/TAO,Steven Wilson,16,6
+Cole,MA/CEN,Steven Wilson,11,6
+Cole,MA/STM,Steven Wilson,22,6
+Cole,MO/LOH,Steven Wilson,3,6
+Cole,MO/RUS,Steven Wilson,18,6
+Cole,OS/STT,Steven Wilson,3,6
+Cole,OS/WAR,Steven Wilson,19,6
+Cole,JE/APF,Steven Wilson,32,6
+Cole,42400,Steven Wilson,22,6
+Cole,ABSENTEE,Steven Wilson,63,6
+Cole,WRITE-IN,Christina Smith,12,6
+Crawford,CHERRYVILLE,Justin Dan Brown,200,16
+Crawford,CUBA,Justin Dan Brown,1953,16
+Crawford,DAVISVILLE,Justin Dan Brown,167,16
+Crawford,LEASBURG,Justin Dan Brown,435,16
+Crawford,STEELEVILLE,Justin Dan Brown,1490,16
+Crawford,SULLIVAN,Justin Dan Brown,481,16
+Crawford,FEDERAL,Justin Dan Brown,0,16
+Crawford,ABSENTEE,Justin Dan Brown,373,16
+Crawford,BOURBON,Justin Dan Brown,731,16
+Crawford,CHERRYVILLE,Ryan Dillon,49,16
+Crawford,CUBA,Ryan Dillon,840,16
+Crawford,DAVISVILLE,Ryan Dillon,76,16
+Crawford,LEASBURG,Ryan Dillon,215,16
+Crawford,STEELEVILLE,Ryan Dillon,551,16
+Crawford,SULLIVAN,Ryan Dillon,261,16
+Crawford,FEDERAL,Ryan Dillon,0,16
+Crawford,ABSENTEE,Ryan Dillon,183,16
+Crawford,BOURBON,Ryan Dillon,378,16
+Dade,AMERICAN LEGION,Bill White,323,32
+Dade,ARCOLA LIONS CLUB,Bill White,182,32
+Dade,DADEVILLE COMM BLDG,Bill White,322,32
+Dade,EVERTON COMM BLDG,Bill White,444,32
+Dade,LOCKWOOD LIBRARY,Bill White,243,32
+Dade,RECORDER'S OFFICE,Bill White,347,32
+Dade,SMALL COURTROOM,Bill White,428,32
+Dade,SYLVANIA COMM BLDG,Bill White,159,32
+Dade,ABSENTEE,Bill White,177,32
+Dade,AMERICAN LEGION,Carolyn McGowan,71,32
+Dade,ARCOLA LIONS CLUB,Carolyn McGowan,29,32
+Dade,DADEVILLE COMM BLDG,Carolyn McGowan,49,32
+Dade,EVERTON COMM BLDG,Carolyn McGowan,136,32
+Dade,LOCKWOOD LIBRARY,Carolyn McGowan,54,32
+Dade,RECORDER'S OFFICE,Carolyn McGowan,81,32
+Dade,SMALL COURTROOM,Carolyn McGowan,127,32
+Dade,SYLVANIA COMM BLDG,Carolyn McGowan,19,32
+Dade,ABSENTEE,Carolyn McGowan,50,32
+Dade,AMERICAN LEGION,Conon Gillis,11,32
+Dade,ARCOLA LIONS CLUB,Conon Gillis,3,32
+Dade,DADEVILLE COMM BLDG,Conon Gillis,4,32
+Dade,EVERTON COMM BLDG,Conon Gillis,8,32
+Dade,LOCKWOOD LIBRARY,Conon Gillis,6,32
+Dade,RECORDER'S OFFICE,Conon Gillis,4,32
+Dade,SMALL COURTROOM,Conon Gillis,7,32
+Dade,SYLVANIA COMM BLDG,Conon Gillis,2,32
+Dade,ABSENTEE,Conon Gillis,5,32
+Dallas,GRANT,Sandy Crawford,375,28
+Dallas,JACKSON,Sandy Crawford,701,28
+Dallas,JASPER,Sandy Crawford,336,28
+Dallas,LINCOLN,Sandy Crawford,308,28
+Dallas,SHERIDAN,Sandy Crawford,507,28
+Dallas,WASHINGTON,Sandy Crawford,341,28
+Dallas,WILSON,Sandy Crawford,394,28
+Dallas,NORTH BENTON OCL,Sandy Crawford,587,28
+Dallas,NORTH BENTON INSIDE,Sandy Crawford,367,28
+Dallas,SOUTH BENTON OCL,Sandy Crawford,427,28
+Dallas,SOUTH BENTON INSIDE,Sandy Crawford,337,28
+Dallas,MILLER/SHERMAN,Sandy Crawford,263,28
+Dallas,ABSENTEE,Sandy Crawford,420,28
+Dallas,GRANT,Joe Poor,59,28
+Dallas,JACKSON,Joe Poor,156,28
+Dallas,JASPER,Joe Poor,74,28
+Dallas,LINCOLN,Joe Poor,44,28
+Dallas,SHERIDAN,Joe Poor,131,28
+Dallas,WASHINGTON,Joe Poor,75,28
+Dallas,WILSON,Joe Poor,80,28
+Dallas,NORTH BENTON OCL,Joe Poor,103,28
+Dallas,NORTH BENTON INSIDE,Joe Poor,94,28
+Dallas,SOUTH BENTON OCL,Joe Poor,62,28
+Dallas,SOUTH BENTON INSIDE,Joe Poor,74,28
+Dallas,MILLER/SHERMAN,Joe Poor,40,28
+Dallas,ABSENTEE,Joe Poor,85,28
+Daviess,ALTAMONT,Dan Hegeman,390,12
+Daviess,GALLATIN,Dan Hegeman,585,12
+Daviess,JAMESON,Dan Hegeman,157,12
+Daviess,JAMESPORT,Dan Hegeman,303,12
+Daviess,PATTONSBURG,Dan Hegeman,286,12
+Daviess,WINSTON,Dan Hegeman,336,12
+Daviess,ABSENTEE,Dan Hegeman,168,12
+Daviess,ALTAMONT,Terry Richard,156,12
+Daviess,GALLATIN,Terry Richard,181,12
+Daviess,JAMESON,Terry Richard,38,12
+Daviess,JAMESPORT,Terry Richard,66,12
+Daviess,PATTONSBURG,Terry Richard,102,12
+Daviess,WINSTON,Terry Richard,127,12
+Daviess,ABSENTEE,Terry Richard,60,12
+De Kalb,ADAMS,Dan Hegeman,190,12
+De Kalb,COLFAX,Dan Hegeman,235,12
+De Kalb,GRAND RIVER,Dan Hegeman,551,12
+De Kalb,POLK,Dan Hegeman,250,12
+De Kalb,SHERMAN,Dan Hegeman,168,12
+De Kalb,NORTH WASHINGTON,Dan Hegeman,218,12
+De Kalb,SOUTH WASHINGTON,Dan Hegeman,384,12
+De Kalb,JUNE CONLEY BUILDING,Dan Hegeman,725,12
+De Kalb,ABSENTEE,Dan Hegeman,178,12
+De Kalb,ADAMS,Terry Richard,57,12
+De Kalb,COLFAX,Terry Richard,53,12
+De Kalb,GRAND RIVER,Terry Richard,210,12
+De Kalb,POLK,Terry Richard,59,12
+De Kalb,SHERMAN,Terry Richard,51,12
+De Kalb,NORTH WASHINGTON,Terry Richard,46,12
+De Kalb,SOUTH WASHINGTON,Terry Richard,129,12
+De Kalb,JUNE CONLEY BUILDING,Terry Richard,150,12
+De Kalb,ABSENTEE,Terry Richard,50,12
+Dent,BOSS,Justin Dan Brown,114,16
+Dent,BUNKER HIGH SCH,Justin Dan Brown,52,16
+Dent,EAST,Justin Dan Brown,1235,16
+Dent,R-1,Justin Dan Brown,452,16
+Dent,R-2,Justin Dan Brown,343,16
+Dent,R-3,Justin Dan Brown,449,16
+Dent,R-4,Justin Dan Brown,340,16
+Dent,WEST,Justin Dan Brown,989,16
+Dent,ABSENTEE,Justin Dan Brown,534,16
+Dent,BOSS,Ryan Dillon,33,16
+Dent,BUNKER HIGH SCH,Ryan Dillon,28,16
+Dent,EAST,Ryan Dillon,354,16
+Dent,R-1,Ryan Dillon,111,16
+Dent,R-2,Ryan Dillon,124,16
+Dent,R-3,Ryan Dillon,129,16
+Dent,R-4,Ryan Dillon,95,16
+Dent,WEST,Ryan Dillon,375,16
+Dent,ABSENTEE,Ryan Dillon,196,16
+Franklin,BEAUFORT/LYON,Dave Schatz,539,26
+Franklin,BEAUFORT/UNION-PEA RIDGE,Dave Schatz,220,26
+Franklin,BERGER,Dave Schatz,304,26
+Franklin,CATAWISSA,Dave Schatz,509,26
+Franklin,CLOVER BOTTOM E,Dave Schatz,593,26
+Franklin,CLOVER BOTTOM W,Dave Schatz,178,26
+Franklin,DETMOLD/JAEGERS SHOP,Dave Schatz,388,26
+Franklin,DUEMLER,Dave Schatz,424,26
+Franklin,ELMONT/JAPAN,Dave Schatz,447,26
+Franklin,EXCELSIOR/YEATES,Dave Schatz,399,26
+Franklin,GERALD 1,Dave Schatz,171,26
+Franklin,GERALD 2,Dave Schatz,104,26
+Franklin,GERALD O.T.,Dave Schatz,329,26
+Franklin,GILDEHAUS,Dave Schatz,452,26
+Franklin,GRAY SUMMIT,Dave Schatz,633,26
+Franklin,JEFFRIESBURG,Dave Schatz,435,26
+Franklin,KRAKOW,Dave Schatz,752,26
+Franklin,LABADIE,Dave Schatz,495,26
+Franklin,LESLIE O.T. & VILLAGE,Dave Schatz,225,26
+Franklin,LUEBBERING,Dave Schatz,558,26
+Franklin,LYON,Dave Schatz,378,26
+Franklin,NEW HAVEN 1,Dave Schatz,243,26
+Franklin,NEW HAVEN 2,Dave Schatz,285,26
+Franklin,PACIFIC 1,Dave Schatz,254,26
+Franklin,PACIFIC 2,Dave Schatz,552,26
+Franklin,PACIFIC 3,Dave Schatz,533,26
+Franklin,PACIFIC O.T.,Dave Schatz,388,26
+Franklin,PRAIRIE DELL,Dave Schatz,834,26
+Franklin,ROBERTSVILLE,Dave Schatz,666,26
+Franklin,SOUTH POINT,Dave Schatz,532,26
+Franklin,SPRING BLUFF,Dave Schatz,212,26
+Franklin,ST ALBANS,Dave Schatz,644,26
+Franklin,ST CLAIR,Dave Schatz,433,26
+Franklin,ST CLAIR 2,Dave Schatz,336,26
+Franklin,ST CLAIR OT/DB/PV,Dave Schatz,1428,26
+Franklin,STANTON/CW/DB-ST,Dave Schatz,512,26
+Franklin,SULLIVAN 1,Dave Schatz,339,26
+Franklin,SULLIVAN 2,Dave Schatz,495,26
+Franklin,SULLIVAN 3,Dave Schatz,153,26
+Franklin,SULLIVAN OT/MV/OGV,Dave Schatz,446,26
+Franklin,UNION 1,Dave Schatz,502,26
+Franklin,UNION 2,Dave Schatz,575,26
+Franklin,UNION 3,Dave Schatz,462,26
+Franklin,UNION 4,Dave Schatz,756,26
+Franklin,UNION O.T.,Dave Schatz,567,26
+Franklin,VILLA RIDGE,Dave Schatz,1111,26
+Franklin,WASHINGTON 1,Dave Schatz,871,26
+Franklin,WASHINGTON 2,Dave Schatz,1212,26
+Franklin,WASHINGTON 3,Dave Schatz,984,26
+Franklin,WASHINGTON 4,Dave Schatz,814,26
+Franklin,ZIEGENMEYER,Dave Schatz,630,26
+Franklin,ABSENTEE,Dave Schatz,1573,26
+Franklin,BEAUFORT/LYON,John Kiehne,240,26
+Franklin,BEAUFORT/UNION-PEA RIDGE,John Kiehne,83,26
+Franklin,BERGER,John Kiehne,131,26
+Franklin,CATAWISSA,John Kiehne,381,26
+Franklin,CLOVER BOTTOM E,John Kiehne,226,26
+Franklin,CLOVER BOTTOM W,John Kiehne,58,26
+Franklin,DETMOLD/JAEGERS SHOP,John Kiehne,106,26
+Franklin,DUEMLER,John Kiehne,186,26
+Franklin,ELMONT/JAPAN,John Kiehne,252,26
+Franklin,EXCELSIOR/YEATES,John Kiehne,125,26
+Franklin,GERALD 1,John Kiehne,74,26
+Franklin,GERALD 2,John Kiehne,56,26
+Franklin,GERALD O.T.,John Kiehne,107,26
+Franklin,GILDEHAUS,John Kiehne,184,26
+Franklin,GRAY SUMMIT,John Kiehne,444,26
+Franklin,JEFFRIESBURG,John Kiehne,204,26
+Franklin,KRAKOW,John Kiehne,338,26
+Franklin,LABADIE,John Kiehne,257,26
+Franklin,LESLIE O.T. & VILLAGE,John Kiehne,116,26
+Franklin,LUEBBERING,John Kiehne,333,26
+Franklin,LYON,John Kiehne,147,26
+Franklin,NEW HAVEN 1,John Kiehne,94,26
+Franklin,NEW HAVEN 2,John Kiehne,141,26
+Franklin,PACIFIC 1,John Kiehne,198,26
+Franklin,PACIFIC 2,John Kiehne,373,26
+Franklin,PACIFIC 3,John Kiehne,380,26
+Franklin,PACIFIC O.T.,John Kiehne,238,26
+Franklin,PRAIRIE DELL,John Kiehne,400,26
+Franklin,ROBERTSVILLE,John Kiehne,393,26
+Franklin,SOUTH POINT,John Kiehne,172,26
+Franklin,SPRING BLUFF,John Kiehne,101,26
+Franklin,ST ALBANS,John Kiehne,190,26
+Franklin,ST CLAIR,John Kiehne,232,26
+Franklin,ST CLAIR 2,John Kiehne,264,26
+Franklin,ST CLAIR OT/DB/PV,John Kiehne,737,26
+Franklin,STANTON/CW/DB-ST,John Kiehne,249,26
+Franklin,SULLIVAN 1,John Kiehne,205,26
+Franklin,SULLIVAN 2,John Kiehne,243,26
+Franklin,SULLIVAN 3,John Kiehne,63,26
+Franklin,SULLIVAN OT/MV/OGV,John Kiehne,205,26
+Franklin,UNION 1,John Kiehne,279,26
+Franklin,UNION 2,John Kiehne,330,26
+Franklin,UNION 3,John Kiehne,260,26
+Franklin,UNION 4,John Kiehne,401,26
+Franklin,UNION O.T.,John Kiehne,253,26
+Franklin,VILLA RIDGE,John Kiehne,634,26
+Franklin,WASHINGTON 1,John Kiehne,568,26
+Franklin,WASHINGTON 2,John Kiehne,508,26
+Franklin,WASHINGTON 3,John Kiehne,513,26
+Franklin,WASHINGTON 4,John Kiehne,448,26
+Franklin,ZIEGENMEYER,John Kiehne,230,26
+Franklin,ABSENTEE,John Kiehne,892,26
+Gasconade,DRAKE,Mike Bernskoetter,202,6
+Gasconade,HERMANN WARD 1,Mike Bernskoetter,250,6
+Gasconade,HERMANN WARD 2,Mike Bernskoetter,281,6
+Gasconade,LITTLE BERGER,Mike Bernskoetter,467,6
+Gasconade,BOULWARE,Mike Bernskoetter,207,6
+Gasconade,OWENSVILLE WARD 1,Mike Bernskoetter,349,6
+Gasconade,OWENSVILLE WARD 2,Mike Bernskoetter,269,6
+Gasconade,REDBIRD,Mike Bernskoetter,155,6
+Gasconade,ROSEBUD WARD 1 WARD 2,Mike Bernskoetter,133,6
+Gasconade,RURAL CANAAN,Mike Bernskoetter,600,6
+Gasconade,SWISS,Mike Bernskoetter,199,6
+Gasconade,TAYLOE,Mike Bernskoetter,259,6
+Gasconade,THIRD CREEK,Mike Bernskoetter,234,6
+Gasconade,BLAND 1 & 2/CANAAN,Mike Bernskoetter,464,6
+Gasconade,GASCONADE/STOLPE,Mike Bernskoetter,118,6
+Gasconade,MORRISON/RURAL MORRISON,Mike Bernskoetter,106,6
+Gasconade,FEDERAL,Mike Bernskoetter,0,6
+Gasconade,ABSENTEE,Mike Bernskoetter,190,6
+Gasconade,DRAKE,Nicole Thompson,43,6
+Gasconade,HERMANN WARD 1,Nicole Thompson,152,6
+Gasconade,HERMANN WARD 2,Nicole Thompson,152,6
+Gasconade,LITTLE BERGER,Nicole Thompson,110,6
+Gasconade,BOULWARE,Nicole Thompson,60,6
+Gasconade,OWENSVILLE WARD 1,Nicole Thompson,117,6
+Gasconade,OWENSVILLE WARD 2,Nicole Thompson,88,6
+Gasconade,REDBIRD,Nicole Thompson,60,6
+Gasconade,ROSEBUD WARD 1 WARD 2,Nicole Thompson,36,6
+Gasconade,RURAL CANAAN,Nicole Thompson,194,6
+Gasconade,SWISS,Nicole Thompson,58,6
+Gasconade,TAYLOE,Nicole Thompson,99,6
+Gasconade,THIRD CREEK,Nicole Thompson,75,6
+Gasconade,BLAND 1 & 2/CANAAN,Nicole Thompson,143,6
+Gasconade,GASCONADE/STOLPE,Nicole Thompson,50,6
+Gasconade,MORRISON/RURAL MORRISON,Nicole Thompson,33,6
+Gasconade,FEDERAL,Nicole Thompson,0,6
+Gasconade,ABSENTEE,Nicole Thompson,88,6
+Gasconade,DRAKE,Steven Wilson,8,6
+Gasconade,HERMANN WARD 1,Steven Wilson,18,6
+Gasconade,HERMANN WARD 2,Steven Wilson,18,6
+Gasconade,LITTLE BERGER,Steven Wilson,11,6
+Gasconade,BOULWARE,Steven Wilson,5,6
+Gasconade,OWENSVILLE WARD 1,Steven Wilson,8,6
+Gasconade,OWENSVILLE WARD 2,Steven Wilson,8,6
+Gasconade,REDBIRD,Steven Wilson,7,6
+Gasconade,ROSEBUD WARD 1 WARD 2,Steven Wilson,4,6
+Gasconade,RURAL CANAAN,Steven Wilson,14,6
+Gasconade,SWISS,Steven Wilson,4,6
+Gasconade,TAYLOE,Steven Wilson,10,6
+Gasconade,THIRD CREEK,Steven Wilson,12,6
+Gasconade,BLAND 1 & 2/CANAAN,Steven Wilson,17,6
+Gasconade,GASCONADE/STOLPE,Steven Wilson,8,6
+Gasconade,MORRISON/RURAL MORRISON,Steven Wilson,0,6
+Gasconade,FEDERAL,Steven Wilson,0,6
+Gasconade,ABSENTEE,Steven Wilson,15,6
+Gasconade,WRITE IN,Christina Smith,1,6
+Gentry,ATHENS NORTH AND SOUTH,Dan Hegeman,576,12
+Gentry,BOGLE GENTRY,Dan Hegeman,62,12
+Gentry,COOPER EAST AND WEST,Dan Hegeman,457,12
+Gentry,COOPER DARLINGTON,Dan Hegeman,57,12
+Gentry,HOWARD LONESTAR,Dan Hegeman,35,12
+Gentry,HUGGINS CARMACK,Dan Hegeman,56,12
+Gentry,JACKSON EAST &WEST,Dan Hegeman,385,12
+Gentry,MILLER BERLIN,Dan Hegeman,90,12
+Gentry,MILLER MCFALL,Dan Hegeman,60,12
+Gentry,WILSON ALANTHUS,Dan Hegeman,68,12
+Gentry,ABSENTEE,Dan Hegeman,152,12
+Gentry,ATHENS NORTH AND SOUTH,Terry Richard,198,12
+Gentry,BOGLE GENTRY,Terry Richard,16,12
+Gentry,COOPER EAST AND WEST,Terry Richard,106,12
+Gentry,COOPER DARLINGTON,Terry Richard,6,12
+Gentry,HOWARD LONESTAR,Terry Richard,17,12
+Gentry,HUGGINS CARMACK,Terry Richard,12,12
+Gentry,JACKSON EAST &WEST,Terry Richard,63,12
+Gentry,MILLER BERLIN,Terry Richard,10,12
+Gentry,MILLER MCFALL,Terry Richard,14,12
+Gentry,WILSON ALANTHUS,Terry Richard,8,12
+Gentry,ABSENTEE,Terry Richard,57,12
+Greene,BATTLEFIELD-A,Eric W. Burlison,1813,20
+Greene,39-B,Eric W. Burlison,242,20
+Greene,39-C,Eric W. Burlison,95,20
+Greene,BRKLN,Eric W. Burlison,881,20
+Greene,1ST N CMP,Eric W. Burlison,891,20
+Greene,2ND N CMP,Eric W. Burlison,1044,20
+Greene,CASS,Eric W. Burlison,452,20
+Greene,1ST CENTER,Eric W. Burlison,1217,20
+Greene,3RD CENTER,Eric W. Burlison,601,20
+Greene,CHEROKEE,Eric W. Burlison,1543,20
+Greene,E CLAY A,Eric W. Burlison,553,20
+Greene,CLAY B,Eric W. Burlison,799,20
+Greene,CLAY C,Eric W. Burlison,1346,20
+Greene,1ST FKLN,Eric W. Burlison,572,20
+Greene,2ND FKLN,Eric W. Burlison,1224,20
+Greene,1ST JACK,Eric W. Burlison,932,20
+Greene,2ND JACK,Eric W. Burlison,1286,20
+Greene,MURRAY,Eric W. Burlison,1958,20
+Greene,POND CREEK,Eric W. Burlison,659,20
+Greene,E REPUBLIC,Eric W. Burlison,1505,20
+Greene,N REPUBLIC,Eric W. Burlison,1626,20
+Greene,W REPUBLIC,Eric W. Burlison,1104,20
+Greene,2ND ROBB,Eric W. Burlison,729,20
+Greene,TAYLOR,Eric W. Burlison,922,20
+Greene,WALNUT GRV,Eric W. Burlison,405,20
+Greene,WASHINGTON,Eric W. Burlison,1101,20
+Greene,BATTLEFIELD-B,Eric W. Burlison,1505,20
+Greene,FEDERAL,Eric W. Burlison,4,20
+Greene,ABSENTEE,Eric W. Burlison,2407,20
+Greene,CENTRAL POLLING LOCATION: MSU,Eric W. Burlison,572,20
+Greene,1-ABC,Eric W. Burlison,0,20
+Greene,11/1ST CAMPBELL,Eric W. Burlison,1066,20
+Greene,29-ABC,Eric W. Burlison,376,20
+Greene,42-BC,Eric W. Burlison,91,20
+Greene,1ST/2ND BOONE,Eric W. Burlison,678,20
+Greene,2ND CAMPBELL A/C,Eric W. Burlison,1,20
+Greene,1ST ROBBERSON A/B,Eric W. Burlison,560,20
+Greene,WILSON C/CW,Eric W. Burlison,2681,20
+Greene,BATTLEFIELD-A,Jim Billedo,709,20
+Greene,39-B,Jim Billedo,61,20
+Greene,39-C,Jim Billedo,31,20
+Greene,BRKLN,Jim Billedo,302,20
+Greene,1ST N CMP,Jim Billedo,345,20
+Greene,2ND N CMP,Jim Billedo,399,20
+Greene,CASS,Jim Billedo,117,20
+Greene,1ST CENTER,Jim Billedo,442,20
+Greene,3RD CENTER,Jim Billedo,182,20
+Greene,CHEROKEE,Jim Billedo,753,20
+Greene,E CLAY A,Jim Billedo,247,20
+Greene,CLAY B,Jim Billedo,225,20
+Greene,CLAY C,Jim Billedo,436,20
+Greene,1ST FKLN,Jim Billedo,153,20
+Greene,2ND FKLN,Jim Billedo,397,20
+Greene,1ST JACK,Jim Billedo,335,20
+Greene,2ND JACK,Jim Billedo,442,20
+Greene,MURRAY,Jim Billedo,650,20
+Greene,POND CREEK,Jim Billedo,147,20
+Greene,E REPUBLIC,Jim Billedo,497,20
+Greene,N REPUBLIC,Jim Billedo,599,20
+Greene,W REPUBLIC,Jim Billedo,411,20
+Greene,2ND ROBB,Jim Billedo,262,20
+Greene,TAYLOR,Jim Billedo,299,20
+Greene,WALNUT GRV,Jim Billedo,129,20
+Greene,WASHINGTON,Jim Billedo,326,20
+Greene,BATTLEFIELD-B,Jim Billedo,631,20
+Greene,FEDERAL,Jim Billedo,1,20
+Greene,ABSENTEE,Jim Billedo,1032,20
+Greene,CENTRAL POLLING LOCATION: MSU,Jim Billedo,309,20
+Greene,1-ABC,Jim Billedo,0,20
+Greene,11/1ST CAMPBELL,Jim Billedo,410,20
+Greene,29-ABC,Jim Billedo,148,20
+Greene,42-BC,Jim Billedo,38,20
+Greene,1ST/2ND BOONE,Jim Billedo,250,20
+Greene,2ND CAMPBELL A/C,Jim Billedo,0,20
+Greene,1ST ROBBERSON A/B,Jim Billedo,191,20
+Greene,WILSON C/CW,Jim Billedo,1192,20
+Greene,3-A,Lincoln Hough,247,30
+Greene,3-B,Lincoln Hough,98,30
+Greene,7-C,Lincoln Hough,393,30
+Greene,16-C,Lincoln Hough,428,30
+Greene,22-C,Lincoln Hough,202,30
+Greene,32-B,Lincoln Hough,692,30
+Greene,34-A,Lincoln Hough,572,30
+Greene,34-B,Lincoln Hough,410,30
+Greene,34-C,Lincoln Hough,627,30
+Greene,35-A,Lincoln Hough,476,30
+Greene,35-B,Lincoln Hough,1358,30
+Greene,37-C,Lincoln Hough,281,30
+Greene,39-A,Lincoln Hough,1037,30
+Greene,39-B,Lincoln Hough,966,30
+Greene,39-C,Lincoln Hough,1063,30
+Greene,42-A,Lincoln Hough,989,30
+Greene,44-A,Lincoln Hough,386,30
+Greene,45-A,Lincoln Hough,373,30
+Greene,45-B,Lincoln Hough,335,30
+Greene,1ST N CMP,Lincoln Hough,0,30
+Greene,3RD N CMP A,Lincoln Hough,767,30
+Greene,CLAY C,Lincoln Hough,238,30
+Greene,2ND ROBB,Lincoln Hough,115,30
+Greene,WILSON A,Lincoln Hough,902,30
+Greene,FEDERAL,Lincoln Hough,0,30
+Greene,ABSENTEE,Lincoln Hough,2435,30
+Greene,CENTRAL POLLING LOCATION: MSU,Lincoln Hough,720,30
+Greene,1-ABC,Lincoln Hough,509,30
+Greene,2-AB,Lincoln Hough,240,30
+Greene,4-AB,Lincoln Hough,229,30
+Greene,5-A/6-A,Lincoln Hough,527,30
+Greene,5-B/6-B,Lincoln Hough,390,30
+Greene,7-AB,Lincoln Hough,436,30
+Greene,9-AB,Lincoln Hough,320,30
+Greene,11/1ST CAMPBELL,Lincoln Hough,861,30
+Greene,12-AB,Lincoln Hough,354,30
+Greene,16-AB/27-A,Lincoln Hough,484,30
+Greene,20-AB,Lincoln Hough,287,30
+Greene,22-AB,Lincoln Hough,465,30
+Greene,26-ABC,Lincoln Hough,538,30
+Greene,27-BC,Lincoln Hough,646,30
+Greene,29-ABC,Lincoln Hough,1040,30
+Greene,30-AB,Lincoln Hough,626,30
+Greene,31-ABC,Lincoln Hough,1089,30
+Greene,32-AC/38-AB,Lincoln Hough,1364,30
+Greene,33-AB,Lincoln Hough,456,30
+Greene,36A/3RD N CAMPBELL B,Lincoln Hough,609,30
+Greene,37-AB,Lincoln Hough,755,30
+Greene,40-AB,Lincoln Hough,870,30
+Greene,41-AB,Lincoln Hough,818,30
+Greene,42-BC,Lincoln Hough,905,30
+Greene,44-BC,Lincoln Hough,510,30
+Greene,2ND CAMPBELL A/C,Lincoln Hough,2220,30
+Greene,2ND CAMPBELL B/CN,Lincoln Hough,1329,30
+Greene,3-A,Charlie Norr,395,30
+Greene,3-B,Charlie Norr,238,30
+Greene,7-C,Charlie Norr,341,30
+Greene,16-C,Charlie Norr,408,30
+Greene,22-C,Charlie Norr,406,30
+Greene,32-B,Charlie Norr,477,30
+Greene,34-A,Charlie Norr,517,30
+Greene,34-B,Charlie Norr,362,30
+Greene,34-C,Charlie Norr,667,30
+Greene,35-A,Charlie Norr,489,30
+Greene,35-B,Charlie Norr,762,30
+Greene,37-C,Charlie Norr,337,30
+Greene,39-A,Charlie Norr,693,30
+Greene,39-B,Charlie Norr,616,30
+Greene,39-C,Charlie Norr,537,30
+Greene,42-A,Charlie Norr,632,30
+Greene,44-A,Charlie Norr,386,30
+Greene,45-A,Charlie Norr,378,30
+Greene,45-B,Charlie Norr,313,30
+Greene,1ST N CMP,Charlie Norr,0,30
+Greene,3RD N CMP A,Charlie Norr,369,30
+Greene,CLAY C,Charlie Norr,72,30
+Greene,2ND ROBB,Charlie Norr,39,30
+Greene,WILSON A,Charlie Norr,717,30
+Greene,FEDERAL,Charlie Norr,0,30
+Greene,ABSENTEE,Charlie Norr,2094,30
+Greene,CENTRAL POLLING LOCATION: MSU,Charlie Norr,1383,30
+Greene,1-ABC,Charlie Norr,804,30
+Greene,2-AB,Charlie Norr,418,30
+Greene,4-AB,Charlie Norr,575,30
+Greene,5-A/6-A,Charlie Norr,639,30
+Greene,5-B/6-B,Charlie Norr,537,30
+Greene,7-AB,Charlie Norr,403,30
+Greene,9-AB,Charlie Norr,688,30
+Greene,11/1ST CAMPBELL,Charlie Norr,425,30
+Greene,12-AB,Charlie Norr,589,30
+Greene,16-AB/27-A,Charlie Norr,589,30
+Greene,20-AB,Charlie Norr,422,30
+Greene,22-AB,Charlie Norr,492,30
+Greene,26-ABC,Charlie Norr,555,30
+Greene,27-BC,Charlie Norr,540,30
+Greene,29-ABC,Charlie Norr,792,30
+Greene,30-AB,Charlie Norr,452,30
+Greene,31-ABC,Charlie Norr,953,30
+Greene,32-AC/38-AB,Charlie Norr,1144,30
+Greene,33-AB,Charlie Norr,624,30
+Greene,36A/3RD N CAMPBELL B,Charlie Norr,372,30
+Greene,37-AB,Charlie Norr,559,30
+Greene,40-AB,Charlie Norr,656,30
+Greene,41-AB,Charlie Norr,684,30
+Greene,42-BC,Charlie Norr,673,30
+Greene,44-BC,Charlie Norr,510,30
+Greene,2ND CAMPBELL A/C,Charlie Norr,1284,30
+Greene,2ND CAMPBELL B/CN,Charlie Norr,683,30
+Grundy,COURTHOUSE,Dan Hegeman,430,12
+Grundy,EDINBURG,Dan Hegeman,238,12
+Grundy,FIRST BAPTIST CHURCH,Dan Hegeman,513,12
+Grundy,FIRST CHRISTIAN CHURCH,Dan Hegeman,376,12
+Grundy,GALT,Dan Hegeman,155,12
+Grundy,LAREDO,Dan Hegeman,217,12
+Grundy,SPICKARD,Dan Hegeman,104,12
+Grundy,TINDALL,Dan Hegeman,196,12
+Grundy,NCMC,Dan Hegeman,298,12
+Grundy,ABSENTEE,Dan Hegeman,293,12
+Grundy,COURTHOUSE,Terry Richard,118,12
+Grundy,EDINBURG,Terry Richard,46,12
+Grundy,FIRST BAPTIST CHURCH,Terry Richard,117,12
+Grundy,FIRST CHRISTIAN CHURCH,Terry Richard,112,12
+Grundy,GALT,Terry Richard,22,12
+Grundy,LAREDO,Terry Richard,33,12
+Grundy,SPICKARD,Terry Richard,20,12
+Grundy,TINDALL,Terry Richard,34,12
+Grundy,NCMC,Terry Richard,118,12
+Grundy,ABSENTEE,Terry Richard,77,12
+Harrison,BETHANY,Dan Hegeman,911,12
+Harrison,CAINSVILLE,Dan Hegeman,218,12
+Harrison,GILMAN CITY,Dan Hegeman,191,12
+Harrison,EAGLEVILLE,Dan Hegeman,314,12
+Harrison,NEW HAMPTON,Dan Hegeman,226,12
+Harrison,RIDGEWAY,Dan Hegeman,203,12
+Harrison,ABSENTEE,Dan Hegeman,265,12
+Harrison,BETHANY,Terry Richard,217,12
+Harrison,CAINSVILLE,Terry Richard,18,12
+Harrison,GILMAN CITY,Terry Richard,38,12
+Harrison,EAGLEVILLE,Terry Richard,70,12
+Harrison,NEW HAMPTON,Terry Richard,48,12
+Harrison,RIDGEWAY,Terry Richard,40,12
+Harrison,ABSENTEE,Terry Richard,62,12
+Hickory,WHEATLAND,Sandy Crawford,285,28
+Hickory,HERMITAGE,Sandy Crawford,316,28
+Hickory,WEAUBLEAU,Sandy Crawford,274,28
+Hickory,CROSS TIMBERS/JORDAN,Sandy Crawford,206,28
+Hickory,ELKTON,Sandy Crawford,361,28
+Hickory,PITTSBURG,Sandy Crawford,531,28
+Hickory,PRESTON,Sandy Crawford,347,28
+Hickory,QUINCY,Sandy Crawford,82,28
+Hickory,PLEASANT RIDGE,Sandy Crawford,189,28
+Hickory,CARSON'S CORNER,Sandy Crawford,290,28
+Hickory,ABSENTEE,Sandy Crawford,333,28
+Hickory,WHEATLAND,Joe Poor,83,28
+Hickory,HERMITAGE,Joe Poor,88,28
+Hickory,WEAUBLEAU,Joe Poor,42,28
+Hickory,CROSS TIMBERS/JORDAN,Joe Poor,42,28
+Hickory,ELKTON,Joe Poor,133,28
+Hickory,PITTSBURG,Joe Poor,165,28
+Hickory,PRESTON,Joe Poor,39,28
+Hickory,QUINCY,Joe Poor,18,28
+Hickory,PLEASANT RIDGE,Joe Poor,49,28
+Hickory,CARSON'S CORNER,Joe Poor,92,28
+Hickory,ABSENTEE,Joe Poor,110,28
+Holt,NORTHWEST,Dan Hegeman,179,12
+Holt,NORTHEAST,Dan Hegeman,132,12
+Holt,CENTRAL,Dan Hegeman,586,12
+Holt,SOUTHEAST-SOUTHWEST,Dan Hegeman,631,12
+Holt,ABSENTEE,Dan Hegeman,92,12
+Holt,NORTHWEST,Terry Richard,32,12
+Holt,NORTHEAST,Terry Richard,29,12
+Holt,CENTRAL,Terry Richard,63,12
+Holt,SOUTHEAST-SOUTHWEST,Terry Richard,139,12
+Holt,ABSENTEE,Terry Richard,22,12
+Jackson,PR 01,Mike Cierpiot,16,8
+Jackson,PR 02,Mike Cierpiot,348,8
+Jackson,"PR 03, 04",Mike Cierpiot,557,8
+Jackson,PR 05,Mike Cierpiot,148,8
+Jackson,PR 06,Mike Cierpiot,396,8
+Jackson,PR 07,Mike Cierpiot,557,8
+Jackson,"PR 08, 10",Mike Cierpiot,573,8
+Jackson,PR 09,Mike Cierpiot,584,8
+Jackson,"PR 13, 14",Mike Cierpiot,808,8
+Jackson,PR 15,Mike Cierpiot,250,8
+Jackson,PR 16,Mike Cierpiot,327,8
+Jackson,PR 17,Mike Cierpiot,405,8
+Jackson,PR 20,Mike Cierpiot,498,8
+Jackson,"PR 21, 22",Mike Cierpiot,816,8
+Jackson,PR 28,Mike Cierpiot,856,8
+Jackson,PR 29,Mike Cierpiot,259,8
+Jackson,"PR 30, 31",Mike Cierpiot,678,8
+Jackson,PR 32,Mike Cierpiot,723,8
+Jackson,PR 33,Mike Cierpiot,293,8
+Jackson,PR 34,Mike Cierpiot,374,8
+Jackson,"PR 35, 36",Mike Cierpiot,642,8
+Jackson,PR 37,Mike Cierpiot,494,8
+Jackson,PR 38,Mike Cierpiot,359,8
+Jackson,PR 39,Mike Cierpiot,660,8
+Jackson,PR 40,Mike Cierpiot,343,8
+Jackson,"PR 41, 42",Mike Cierpiot,778,8
+Jackson,"PR 43, 45",Mike Cierpiot,811,8
+Jackson,PR 44,Mike Cierpiot,556,8
+Jackson,"PR 46, 59",Mike Cierpiot,605,8
+Jackson,PR 47,Mike Cierpiot,385,8
+Jackson,PR 48,Mike Cierpiot,176,8
+Jackson,PR 49,Mike Cierpiot,558,8
+Jackson,PR 50,Mike Cierpiot,641,8
+Jackson,PR 51,Mike Cierpiot,321,8
+Jackson,PR 52,Mike Cierpiot,322,8
+Jackson,"PR 53, 54",Mike Cierpiot,551,8
+Jackson,PR 55,Mike Cierpiot,5,8
+Jackson,"PR 56,57",Mike Cierpiot,11,8
+Jackson,"PR 60, 61",Mike Cierpiot,426,8
+Jackson,SN 02,Mike Cierpiot,98,8
+Jackson,"SN 03, 19",Mike Cierpiot,409,8
+Jackson,SN 04,Mike Cierpiot,447,8
+Jackson,"SN 05, 06",Mike Cierpiot,440,8
+Jackson,"SN 07, 09",Mike Cierpiot,849,8
+Jackson,SN 08,Mike Cierpiot,619,8
+Jackson,"SN 10, 12",Mike Cierpiot,1002,8
+Jackson,SN 11,Mike Cierpiot,441,8
+Jackson,"SN 13, 14",Mike Cierpiot,798,8
+Jackson,"SN 15, 23",Mike Cierpiot,753,8
+Jackson,SN 16,Mike Cierpiot,75,8
+Jackson,SN 17,Mike Cierpiot,319,8
+Jackson,SN 18,Mike Cierpiot,477,8
+Jackson,SN 20,Mike Cierpiot,377,8
+Jackson,SN 21,Mike Cierpiot,524,8
+Jackson,"SN 22, 24",Mike Cierpiot,614,8
+Jackson,SN 25,Mike Cierpiot,169,8
+Jackson,SN 26,Mike Cierpiot,377,8
+Jackson,SN 27,Mike Cierpiot,581,8
+Jackson,SN 28,Mike Cierpiot,416,8
+Jackson,SN 29,Mike Cierpiot,405,8
+Jackson,SN 30,Mike Cierpiot,526,8
+Jackson,SN 31,Mike Cierpiot,583,8
+Jackson,SN 32,Mike Cierpiot,354,8
+Jackson,SN 33,Mike Cierpiot,203,8
+Jackson,"SN 34, 35, 36",Mike Cierpiot,236,8
+Jackson,SN 37,Mike Cierpiot,509,8
+Jackson,SN 38,Mike Cierpiot,781,8
+Jackson,SN 39,Mike Cierpiot,634,8
+Jackson,SN 40,Mike Cierpiot,508,8
+Jackson,SN 41,Mike Cierpiot,330,8
+Jackson,SN 42,Mike Cierpiot,758,8
+Jackson,"SN 43, 46",Mike Cierpiot,249,8
+Jackson,SN 44,Mike Cierpiot,365,8
+Jackson,SN 45,Mike Cierpiot,446,8
+Jackson,SN 47,Mike Cierpiot,227,8
+Jackson,SN 48,Mike Cierpiot,264,8
+Jackson,SN 49,Mike Cierpiot,184,8
+Jackson,SN 50,Mike Cierpiot,121,8
+Jackson,"SN 51, 52",Mike Cierpiot,236,8
+Jackson,"VB 01, 12",Mike Cierpiot,199,8
+Jackson,"VB 02, 03, 13",Mike Cierpiot,645,8
+Jackson,VB 04,Mike Cierpiot,2,8
+Jackson,"VB 07, 08, 14",Mike Cierpiot,231,8
+Jackson,VB 09,Mike Cierpiot,166,8
+Jackson,"VB 10, 11, 19",Mike Cierpiot,919,8
+Jackson,"VB 15, 16, 17, 18",Mike Cierpiot,453,8
+Jackson,ABSENTEE,Mike Cierpiot,2721,8
+Jackson,PR 01,Hillary Shields,6,8
+Jackson,PR 02,Hillary Shields,387,8
+Jackson,"PR 03, 04",Hillary Shields,700,8
+Jackson,PR 05,Hillary Shields,182,8
+Jackson,PR 06,Hillary Shields,355,8
+Jackson,PR 07,Hillary Shields,523,8
+Jackson,"PR 08, 10",Hillary Shields,456,8
+Jackson,PR 09,Hillary Shields,645,8
+Jackson,"PR 13, 14",Hillary Shields,678,8
+Jackson,PR 15,Hillary Shields,273,8
+Jackson,PR 16,Hillary Shields,312,8
+Jackson,PR 17,Hillary Shields,419,8
+Jackson,PR 20,Hillary Shields,404,8
+Jackson,"PR 21, 22",Hillary Shields,733,8
+Jackson,PR 28,Hillary Shields,676,8
+Jackson,PR 29,Hillary Shields,284,8
+Jackson,"PR 30, 31",Hillary Shields,800,8
+Jackson,PR 32,Hillary Shields,509,8
+Jackson,PR 33,Hillary Shields,350,8
+Jackson,PR 34,Hillary Shields,485,8
+Jackson,"PR 35, 36",Hillary Shields,719,8
+Jackson,PR 37,Hillary Shields,436,8
+Jackson,PR 38,Hillary Shields,298,8
+Jackson,PR 39,Hillary Shields,550,8
+Jackson,PR 40,Hillary Shields,357,8
+Jackson,"PR 41, 42",Hillary Shields,839,8
+Jackson,"PR 43, 45",Hillary Shields,849,8
+Jackson,PR 44,Hillary Shields,567,8
+Jackson,"PR 46, 59",Hillary Shields,472,8
+Jackson,PR 47,Hillary Shields,403,8
+Jackson,PR 48,Hillary Shields,189,8
+Jackson,PR 49,Hillary Shields,408,8
+Jackson,PR 50,Hillary Shields,490,8
+Jackson,PR 51,Hillary Shields,246,8
+Jackson,PR 52,Hillary Shields,213,8
+Jackson,"PR 53, 54",Hillary Shields,303,8
+Jackson,PR 55,Hillary Shields,0,8
+Jackson,"PR 56,57",Hillary Shields,0,8
+Jackson,"PR 60, 61",Hillary Shields,205,8
+Jackson,SN 02,Hillary Shields,68,8
+Jackson,"SN 03, 19",Hillary Shields,367,8
+Jackson,SN 04,Hillary Shields,283,8
+Jackson,"SN 05, 06",Hillary Shields,331,8
+Jackson,"SN 07, 09",Hillary Shields,641,8
+Jackson,SN 08,Hillary Shields,491,8
+Jackson,"SN 10, 12",Hillary Shields,841,8
+Jackson,SN 11,Hillary Shields,320,8
+Jackson,"SN 13, 14",Hillary Shields,641,8
+Jackson,"SN 15, 23",Hillary Shields,752,8
+Jackson,SN 16,Hillary Shields,63,8
+Jackson,SN 17,Hillary Shields,299,8
+Jackson,SN 18,Hillary Shields,448,8
+Jackson,SN 20,Hillary Shields,389,8
+Jackson,SN 21,Hillary Shields,538,8
+Jackson,"SN 22, 24",Hillary Shields,717,8
+Jackson,SN 25,Hillary Shields,152,8
+Jackson,SN 26,Hillary Shields,268,8
+Jackson,SN 27,Hillary Shields,418,8
+Jackson,SN 28,Hillary Shields,323,8
+Jackson,SN 29,Hillary Shields,347,8
+Jackson,SN 30,Hillary Shields,371,8
+Jackson,SN 31,Hillary Shields,515,8
+Jackson,SN 32,Hillary Shields,325,8
+Jackson,SN 33,Hillary Shields,87,8
+Jackson,"SN 34, 35, 36",Hillary Shields,202,8
+Jackson,SN 37,Hillary Shields,252,8
+Jackson,SN 38,Hillary Shields,543,8
+Jackson,SN 39,Hillary Shields,462,8
+Jackson,SN 40,Hillary Shields,226,8
+Jackson,SN 41,Hillary Shields,252,8
+Jackson,SN 42,Hillary Shields,530,8
+Jackson,"SN 43, 46",Hillary Shields,135,8
+Jackson,SN 44,Hillary Shields,207,8
+Jackson,SN 45,Hillary Shields,224,8
+Jackson,SN 47,Hillary Shields,154,8
+Jackson,SN 48,Hillary Shields,194,8
+Jackson,SN 49,Hillary Shields,137,8
+Jackson,SN 50,Hillary Shields,42,8
+Jackson,"SN 51, 52",Hillary Shields,95,8
+Jackson,"VB 01, 12",Hillary Shields,99,8
+Jackson,"VB 02, 03, 13",Hillary Shields,368,8
+Jackson,VB 04,Hillary Shields,0,8
+Jackson,"VB 07, 08, 14",Hillary Shields,93,8
+Jackson,VB 09,Hillary Shields,146,8
+Jackson,"VB 10, 11, 19",Hillary Shields,432,8
+Jackson,"VB 15, 16, 17, 18",Hillary Shields,173,8
+Jackson,ABSENTEE,Hillary Shields,2445,8
+Jasper,MCDONALD,Bill White,209,32
+Jasper,NORTH MADISON,Bill White,519,32
+Jasper,SOUTH MADISON,Bill White,334,32
+Jasper,EAST JACKSON,Bill White,438,32
+Jasper,WEST JACKSON,Bill White,351,32
+Jasper,CARTHAGE 1,Bill White,287,32
+Jasper,CARTHAGE 2,Bill White,331,32
+Jasper,CARTHAGE 3,Bill White,492,32
+Jasper,CARTHAGE 4,Bill White,861,32
+Jasper,CARTHAGE 5,Bill White,573,32
+Jasper,MARION,Bill White,368,32
+Jasper,MONITOR,Bill White,647,32
+Jasper,JASPER,Bill White,324,32
+Jasper,ORONOGO 1,Bill White,552,32
+Jasper,ORONOGO 2,Bill White,912,32
+Jasper,LAKESIDE,Bill White,216,32
+Jasper,DUENWEG,Bill White,393,32
+Jasper,REX,Bill White,835,32
+Jasper,TUCKAHOE,Bill White,801,32
+Jasper,WEBB CITY 1,Bill White,554,32
+Jasper,WEBB CITY 2,Bill White,511,32
+Jasper,WEBB CITY 3,Bill White,877,32
+Jasper,WEBB CITY 4,Bill White,741,32
+Jasper,JOPLIN 13,Bill White,385,32
+Jasper,JOPLIN 4,Bill White,823,32
+Jasper,JOPLIN 23,Bill White,647,32
+Jasper,JOPLIN 25,Bill White,368,32
+Jasper,ZINCITE,Bill White,598,32
+Jasper,JOPLIN 26,Bill White,550,32
+Jasper,ALBA/NECK CITY/PURCELL,Bill White,367,32
+Jasper,ASBURY/MEDOC/WACO,Bill White,262,32
+Jasper,CARL JUNCTION1/CARL JUNCTION 2,Bill White,1213,32
+Jasper,CARL JUNCTION 3/CARL JUNCTION,Bill White,1313,32
+Jasper,"CARTERVILLE 1,2,3,4",Bill White,663,32
+Jasper,CENTENNIAL/GEM/REEDS,Bill White,875,32
+Jasper,JOPLIN 1/JOPLIN 8,Bill White,471,32
+Jasper,JOPLIN 2/JOPLIN 3,Bill White,1108,32
+Jasper,JOPLIN 5/JOPLIN 7,Bill White,431,32
+Jasper,JOPLIN 10/JOPLIN 11,Bill White,526,32
+Jasper,JOPLIN 12/JOPLIN 14,Bill White,324,32
+Jasper,JOPLIN 15/CENTRAL CITY,Bill White,1133,32
+Jasper,JOPLIN 16/JOPLIN 18,Bill White,480,32
+Jasper,JOPLIN 22/JOPLIN 24,Bill White,774,32
+Jasper,LINCOLN/SHERIDAN,Bill White,280,32
+Jasper,PINE/PRAIRIE STAR,Bill White,319,32
+Jasper,SARCOXIE 1/SARCOXIE 2/LARUSSELL,Bill White,593,32
+Jasper,FEDERAL,Bill White,1,32
+Jasper,ABSENTEE,Bill White,2033,32
+Jasper,MULTI-PRECINCT COLLECTION,Bill White,15,32
+Jasper,MCDONALD,Carolyn McGowan,31,32
+Jasper,NORTH MADISON,Carolyn McGowan,71,32
+Jasper,SOUTH MADISON,Carolyn McGowan,75,32
+Jasper,EAST JACKSON,Carolyn McGowan,97,32
+Jasper,WEST JACKSON,Carolyn McGowan,86,32
+Jasper,CARTHAGE 1,Carolyn McGowan,143,32
+Jasper,CARTHAGE 2,Carolyn McGowan,128,32
+Jasper,CARTHAGE 3,Carolyn McGowan,171,32
+Jasper,CARTHAGE 4,Carolyn McGowan,266,32
+Jasper,CARTHAGE 5,Carolyn McGowan,247,32
+Jasper,MARION,Carolyn McGowan,46,32
+Jasper,MONITOR,Carolyn McGowan,144,32
+Jasper,JASPER,Carolyn McGowan,71,32
+Jasper,ORONOGO 1,Carolyn McGowan,143,32
+Jasper,ORONOGO 2,Carolyn McGowan,176,32
+Jasper,LAKESIDE,Carolyn McGowan,33,32
+Jasper,DUENWEG,Carolyn McGowan,112,32
+Jasper,REX,Carolyn McGowan,265,32
+Jasper,TUCKAHOE,Carolyn McGowan,263,32
+Jasper,WEBB CITY 1,Carolyn McGowan,244,32
+Jasper,WEBB CITY 2,Carolyn McGowan,254,32
+Jasper,WEBB CITY 3,Carolyn McGowan,352,32
+Jasper,WEBB CITY 4,Carolyn McGowan,243,32
+Jasper,JOPLIN 13,Carolyn McGowan,263,32
+Jasper,JOPLIN 4,Carolyn McGowan,333,32
+Jasper,JOPLIN 23,Carolyn McGowan,327,32
+Jasper,JOPLIN 25,Carolyn McGowan,199,32
+Jasper,ZINCITE,Carolyn McGowan,132,32
+Jasper,JOPLIN 26,Carolyn McGowan,269,32
+Jasper,ALBA/NECK CITY/PURCELL,Carolyn McGowan,94,32
+Jasper,ASBURY/MEDOC/WACO,Carolyn McGowan,52,32
+Jasper,CARL JUNCTION1/CARL JUNCTION 2,Carolyn McGowan,312,32
+Jasper,CARL JUNCTION 3/CARL JUNCTION,Carolyn McGowan,381,32
+Jasper,"CARTERVILLE 1,2,3,4",Carolyn McGowan,174,32
+Jasper,CENTENNIAL/GEM/REEDS,Carolyn McGowan,181,32
+Jasper,JOPLIN 1/JOPLIN 8,Carolyn McGowan,264,32
+Jasper,JOPLIN 2/JOPLIN 3,Carolyn McGowan,499,32
+Jasper,JOPLIN 5/JOPLIN 7,Carolyn McGowan,331,32
+Jasper,JOPLIN 10/JOPLIN 11,Carolyn McGowan,334,32
+Jasper,JOPLIN 12/JOPLIN 14,Carolyn McGowan,251,32
+Jasper,JOPLIN 15/CENTRAL CITY,Carolyn McGowan,367,32
+Jasper,JOPLIN 16/JOPLIN 18,Carolyn McGowan,307,32
+Jasper,JOPLIN 22/JOPLIN 24,Carolyn McGowan,358,32
+Jasper,LINCOLN/SHERIDAN,Carolyn McGowan,39,32
+Jasper,PINE/PRAIRIE STAR,Carolyn McGowan,41,32
+Jasper,SARCOXIE 1/SARCOXIE 2/LARUSSELL,Carolyn McGowan,112,32
+Jasper,FEDERAL,Carolyn McGowan,1,32
+Jasper,ABSENTEE,Carolyn McGowan,744,32
+Jasper,MULTI-PRECINCT COLLECTION,Carolyn McGowan,6,32
+Jasper,MCDONALD,Conon Gillis,5,32
+Jasper,NORTH MADISON,Conon Gillis,7,32
+Jasper,SOUTH MADISON,Conon Gillis,3,32
+Jasper,EAST JACKSON,Conon Gillis,14,32
+Jasper,WEST JACKSON,Conon Gillis,14,32
+Jasper,CARTHAGE 1,Conon Gillis,18,32
+Jasper,CARTHAGE 2,Conon Gillis,15,32
+Jasper,CARTHAGE 3,Conon Gillis,21,32
+Jasper,CARTHAGE 4,Conon Gillis,34,32
+Jasper,CARTHAGE 5,Conon Gillis,36,32
+Jasper,MARION,Conon Gillis,5,32
+Jasper,MONITOR,Conon Gillis,25,32
+Jasper,JASPER,Conon Gillis,15,32
+Jasper,ORONOGO 1,Conon Gillis,16,32
+Jasper,ORONOGO 2,Conon Gillis,27,32
+Jasper,LAKESIDE,Conon Gillis,3,32
+Jasper,DUENWEG,Conon Gillis,21,32
+Jasper,REX,Conon Gillis,29,32
+Jasper,TUCKAHOE,Conon Gillis,44,32
+Jasper,WEBB CITY 1,Conon Gillis,35,32
+Jasper,WEBB CITY 2,Conon Gillis,26,32
+Jasper,WEBB CITY 3,Conon Gillis,41,32
+Jasper,WEBB CITY 4,Conon Gillis,14,32
+Jasper,JOPLIN 13,Conon Gillis,40,32
+Jasper,JOPLIN 4,Conon Gillis,29,32
+Jasper,JOPLIN 23,Conon Gillis,50,32
+Jasper,JOPLIN 25,Conon Gillis,15,32
+Jasper,ZINCITE,Conon Gillis,12,32
+Jasper,JOPLIN 26,Conon Gillis,38,32
+Jasper,ALBA/NECK CITY/PURCELL,Conon Gillis,9,32
+Jasper,ASBURY/MEDOC/WACO,Conon Gillis,10,32
+Jasper,CARL JUNCTION1/CARL JUNCTION 2,Conon Gillis,32,32
+Jasper,CARL JUNCTION 3/CARL JUNCTION,Conon Gillis,31,32
+Jasper,"CARTERVILLE 1,2,3,4",Conon Gillis,30,32
+Jasper,CENTENNIAL/GEM/REEDS,Conon Gillis,31,32
+Jasper,JOPLIN 1/JOPLIN 8,Conon Gillis,47,32
+Jasper,JOPLIN 2/JOPLIN 3,Conon Gillis,76,32
+Jasper,JOPLIN 5/JOPLIN 7,Conon Gillis,32,32
+Jasper,JOPLIN 10/JOPLIN 11,Conon Gillis,45,32
+Jasper,JOPLIN 12/JOPLIN 14,Conon Gillis,45,32
+Jasper,JOPLIN 15/CENTRAL CITY,Conon Gillis,44,32
+Jasper,JOPLIN 16/JOPLIN 18,Conon Gillis,44,32
+Jasper,JOPLIN 22/JOPLIN 24,Conon Gillis,77,32
+Jasper,LINCOLN/SHERIDAN,Conon Gillis,5,32
+Jasper,PINE/PRAIRIE STAR,Conon Gillis,9,32
+Jasper,SARCOXIE 1/SARCOXIE 2/LARUSSELL,Conon Gillis,29,32
+Jasper,FEDERAL,Conon Gillis,1,32
+Jasper,ABSENTEE,Conon Gillis,57,32
+Jasper,MULTI-PRECINCT COLLECTION,Conon Gillis,3,32
+Jefferson,MAPLE GROVE SCH,Paul Wieland,8,22
+Jefferson,BIG RIVER VFW POST 5331,Paul Wieland,1354,22
+Jefferson,NORTHWEST HIGH SCHOOL,Paul Wieland,718,22
+Jefferson,TRANSFORMATION METHODIST CH,Paul Wieland,925,22
+Jefferson,NEW EARLY CHILDHOOD CTR,Paul Wieland,946,22
+Jefferson,CLYDE HAMRICK SCH,Paul Wieland,693,22
+Jefferson,ANTONIA MIDDLE SCH,Paul Wieland,1087,22
+Jefferson,ST PAUL'S LUTHERAN CH,Paul Wieland,1244,22
+Jefferson,HILLSBORO CIVIC CTR,Paul Wieland,962,22
+Jefferson,AMERICAN LEGION POST 283,Paul Wieland,1143,22
+Jefferson,SALVATION ARMY,Paul Wieland,572,22
+Jefferson,FOX C6 ROY WILDE SERVICE CTR,Paul Wieland,1055,22
+Jefferson,NEW HOPE UNITED METHODIST CH,Paul Wieland,1179,22
+Jefferson,ARNOLD VFW 2593,Paul Wieland,1206,22
+Jefferson,ARNOLD RECREATION CTR,Paul Wieland,1074,22
+Jefferson,RIDGEWOOD MIDDLE SCH,Paul Wieland,1364,22
+Jefferson,LONEDELL SCH,Paul Wieland,601,22
+Jefferson,SIMPSON ELEMENTARY SCH,Paul Wieland,1139,22
+Jefferson,SECKMAN MIDDLE SCH,Paul Wieland,1621,22
+Jefferson,WINDSOR INTERMEDIATE SCH,Paul Wieland,1778,22
+Jefferson,WINDSOR LIBRARY JC,Paul Wieland,1161,22
+Jefferson,VICTORY CHURCH YOUTH CTR,Paul Wieland,1743,22
+Jefferson,PEVELY CITY HALL,Paul Wieland,1046,22
+Jefferson,HERCULANEUM AMVETS POST 42,Paul Wieland,839,22
+Jefferson,MISSISSIPPI RIVER EAGLES,Paul Wieland,820,22
+Jefferson,FESTUS K.C. HALL,Paul Wieland,229,22
+Jefferson,FIRST UNITED METHODIST CH,Paul Wieland,1071,22
+Jefferson,FESTUS MIDDLE SCHOOL,Paul Wieland,711,22
+Jefferson,FAITH BAPTIST CH,Paul Wieland,40,22
+Jefferson,PACIFIC FIREHOUSE 3,Paul Wieland,390,22
+Jefferson,ST. JOSEPH HILL INFIRMARY,Paul Wieland,849,22
+Jefferson,EUREKA FIREHOUSE 3,Paul Wieland,358,22
+Jefferson,JEFFERSON CO HEALTH DEPT - HIGH RIDGE,Paul Wieland,981,22
+Jefferson,ALL GODS CHILDREN CAMP,Paul Wieland,1245,22
+Jefferson,WOODRIDGE MIDDLE SCH,Paul Wieland,762,22
+Jefferson,BRENNAN WOODS ELEM SCH,Paul Wieland,1151,22
+Jefferson,MURPHY ELEMENTARY SCH,Paul Wieland,1371,22
+Jefferson,GEORGE GUFFEY ELEM SCH,Paul Wieland,1245,22
+Jefferson,SALINE VALLEY FIREHOUSE #1,Paul Wieland,460,22
+Jefferson,MERAMEC HEIGHTS ELEM SCH,Paul Wieland,511,22
+Jefferson,HEMATITE CHRISTIAN CH,Paul Wieland,68,22
+Jefferson,ABSENTEE,Paul Wieland,2836,22
+Jefferson,MAPLE GROVE SCH,Robert Butler,1,22
+Jefferson,BIG RIVER VFW POST 5331,Robert Butler,709,22
+Jefferson,NORTHWEST HIGH SCHOOL,Robert Butler,486,22
+Jefferson,TRANSFORMATION METHODIST CH,Robert Butler,476,22
+Jefferson,NEW EARLY CHILDHOOD CTR,Robert Butler,545,22
+Jefferson,CLYDE HAMRICK SCH,Robert Butler,429,22
+Jefferson,ANTONIA MIDDLE SCH,Robert Butler,606,22
+Jefferson,ST PAUL'S LUTHERAN CH,Robert Butler,815,22
+Jefferson,HILLSBORO CIVIC CTR,Robert Butler,548,22
+Jefferson,AMERICAN LEGION POST 283,Robert Butler,693,22
+Jefferson,SALVATION ARMY,Robert Butler,503,22
+Jefferson,FOX C6 ROY WILDE SERVICE CTR,Robert Butler,764,22
+Jefferson,NEW HOPE UNITED METHODIST CH,Robert Butler,824,22
+Jefferson,ARNOLD VFW 2593,Robert Butler,916,22
+Jefferson,ARNOLD RECREATION CTR,Robert Butler,807,22
+Jefferson,RIDGEWOOD MIDDLE SCH,Robert Butler,820,22
+Jefferson,LONEDELL SCH,Robert Butler,441,22
+Jefferson,SIMPSON ELEMENTARY SCH,Robert Butler,847,22
+Jefferson,SECKMAN MIDDLE SCH,Robert Butler,1027,22
+Jefferson,WINDSOR INTERMEDIATE SCH,Robert Butler,1186,22
+Jefferson,WINDSOR LIBRARY JC,Robert Butler,798,22
+Jefferson,VICTORY CHURCH YOUTH CTR,Robert Butler,869,22
+Jefferson,PEVELY CITY HALL,Robert Butler,658,22
+Jefferson,HERCULANEUM AMVETS POST 42,Robert Butler,552,22
+Jefferson,MISSISSIPPI RIVER EAGLES,Robert Butler,741,22
+Jefferson,FESTUS K.C. HALL,Robert Butler,227,22
+Jefferson,FIRST UNITED METHODIST CH,Robert Butler,773,22
+Jefferson,FESTUS MIDDLE SCHOOL,Robert Butler,464,22
+Jefferson,FAITH BAPTIST CH,Robert Butler,32,22
+Jefferson,PACIFIC FIREHOUSE 3,Robert Butler,288,22
+Jefferson,ST. JOSEPH HILL INFIRMARY,Robert Butler,478,22
+Jefferson,EUREKA FIREHOUSE 3,Robert Butler,183,22
+Jefferson,JEFFERSON CO HEALTH DEPT - HIGH RIDGE,Robert Butler,555,22
+Jefferson,ALL GODS CHILDREN CAMP,Robert Butler,941,22
+Jefferson,WOODRIDGE MIDDLE SCH,Robert Butler,447,22
+Jefferson,BRENNAN WOODS ELEM SCH,Robert Butler,826,22
+Jefferson,MURPHY ELEMENTARY SCH,Robert Butler,893,22
+Jefferson,GEORGE GUFFEY ELEM SCH,Robert Butler,977,22
+Jefferson,SALINE VALLEY FIREHOUSE #1,Robert Butler,331,22
+Jefferson,MERAMEC HEIGHTS ELEM SCH,Robert Butler,364,22
+Jefferson,HEMATITE CHRISTIAN CH,Robert Butler,40,22
+Jefferson,ABSENTEE,Robert Butler,2023,22
+Jefferson,MAPLE GROVE SCH,Richie Camden,0,22
+Jefferson,BIG RIVER VFW POST 5331,Richie Camden,69,22
+Jefferson,NORTHWEST HIGH SCHOOL,Richie Camden,41,22
+Jefferson,TRANSFORMATION METHODIST CH,Richie Camden,33,22
+Jefferson,NEW EARLY CHILDHOOD CTR,Richie Camden,82,22
+Jefferson,CLYDE HAMRICK SCH,Richie Camden,33,22
+Jefferson,ANTONIA MIDDLE SCH,Richie Camden,38,22
+Jefferson,ST PAUL'S LUTHERAN CH,Richie Camden,73,22
+Jefferson,HILLSBORO CIVIC CTR,Richie Camden,42,22
+Jefferson,AMERICAN LEGION POST 283,Richie Camden,44,22
+Jefferson,SALVATION ARMY,Richie Camden,40,22
+Jefferson,FOX C6 ROY WILDE SERVICE CTR,Richie Camden,47,22
+Jefferson,NEW HOPE UNITED METHODIST CH,Richie Camden,50,22
+Jefferson,ARNOLD VFW 2593,Richie Camden,66,22
+Jefferson,ARNOLD RECREATION CTR,Richie Camden,55,22
+Jefferson,RIDGEWOOD MIDDLE SCH,Richie Camden,62,22
+Jefferson,LONEDELL SCH,Richie Camden,28,22
+Jefferson,SIMPSON ELEMENTARY SCH,Richie Camden,61,22
+Jefferson,SECKMAN MIDDLE SCH,Richie Camden,74,22
+Jefferson,WINDSOR INTERMEDIATE SCH,Richie Camden,84,22
+Jefferson,WINDSOR LIBRARY JC,Richie Camden,54,22
+Jefferson,VICTORY CHURCH YOUTH CTR,Richie Camden,82,22
+Jefferson,PEVELY CITY HALL,Richie Camden,55,22
+Jefferson,HERCULANEUM AMVETS POST 42,Richie Camden,46,22
+Jefferson,MISSISSIPPI RIVER EAGLES,Richie Camden,60,22
+Jefferson,FESTUS K.C. HALL,Richie Camden,16,22
+Jefferson,FIRST UNITED METHODIST CH,Richie Camden,69,22
+Jefferson,FESTUS MIDDLE SCHOOL,Richie Camden,26,22
+Jefferson,FAITH BAPTIST CH,Richie Camden,1,22
+Jefferson,PACIFIC FIREHOUSE 3,Richie Camden,20,22
+Jefferson,ST. JOSEPH HILL INFIRMARY,Richie Camden,33,22
+Jefferson,EUREKA FIREHOUSE 3,Richie Camden,12,22
+Jefferson,JEFFERSON CO HEALTH DEPT - HIGH RIDGE,Richie Camden,44,22
+Jefferson,ALL GODS CHILDREN CAMP,Richie Camden,75,22
+Jefferson,WOODRIDGE MIDDLE SCH,Richie Camden,57,22
+Jefferson,BRENNAN WOODS ELEM SCH,Richie Camden,87,22
+Jefferson,MURPHY ELEMENTARY SCH,Richie Camden,55,22
+Jefferson,GEORGE GUFFEY ELEM SCH,Richie Camden,76,22
+Jefferson,SALINE VALLEY FIREHOUSE #1,Richie Camden,29,22
+Jefferson,MERAMEC HEIGHTS ELEM SCH,Richie Camden,35,22
+Jefferson,HEMATITE CHRISTIAN CH,Richie Camden,2,22
+Jefferson,ABSENTEE,Richie Camden,122,22
+Knox,BARING,Cindy O'Laughlin,123,18
+Knox,EDINA,Cindy O'Laughlin,356,18
+Knox,HURDLAND,Cindy O'Laughlin,128,18
+Knox,KNOX CITY,Cindy O'Laughlin,166,18
+Knox,NEWARK,Cindy O'Laughlin,74,18
+Knox,NOVELTY,Cindy O'Laughlin,130,18
+Knox,ABSENTEE,Cindy O'Laughlin,124,18
+Knox,BARING,Crystal Stephens,41,18
+Knox,EDINA,Crystal Stephens,165,18
+Knox,HURDLAND,Crystal Stephens,48,18
+Knox,KNOX CITY,Crystal Stephens,57,18
+Knox,NEWARK,Crystal Stephens,34,18
+Knox,NOVELTY,Crystal Stephens,29,18
+Knox,ABSENTEE,Crystal Stephens,48,18
+Laclede,COMMUNITY BAPTIST CHURCH,Sandy Crawford,1400,28
+Laclede,CONWAY COMMUNITY CENTER,Sandy Crawford,603,28
+Laclede,DRYNOB MAINTENANCE,Sandy Crawford,372,28
+Laclede,FREEDOM CHURCH OF THE NAZARENE,Sandy Crawford,1569,28
+Laclede,LACLEDE COUNTY SHRINE BUILDING,Sandy Crawford,718,28
+Laclede,LEBANON CITY HALL,Sandy Crawford,956,28
+Laclede,LEBANON LACLEDE CO. LIBRARY,Sandy Crawford,462,28
+Laclede,MILLS BUILDING,Sandy Crawford,773,28
+Laclede,NATIONAL GUARD ARMORY,Sandy Crawford,755,28
+Laclede,PHILLIPSBURG CHRISTIAN CHURCH,Sandy Crawford,457,28
+Laclede,PINE CREEK BAPTIST CHURCH,Sandy Crawford,215,28
+Laclede,SLEEPER METHODIST CHURCH,Sandy Crawford,589,28
+Laclede,SOUTHERN HEIGHTS CHURCH,Sandy Crawford,1447,28
+Laclede,WALLACE BUILDING,Sandy Crawford,851,28
+Laclede,COMMUNITY BAPTIST CHURCH,Joe Poor,226,28
+Laclede,CONWAY COMMUNITY CENTER,Joe Poor,89,28
+Laclede,DRYNOB MAINTENANCE,Joe Poor,78,28
+Laclede,FREEDOM CHURCH OF THE NAZARENE,Joe Poor,303,28
+Laclede,LACLEDE COUNTY SHRINE BUILDING,Joe Poor,215,28
+Laclede,LEBANON CITY HALL,Joe Poor,245,28
+Laclede,LEBANON LACLEDE CO. LIBRARY,Joe Poor,59,28
+Laclede,MILLS BUILDING,Joe Poor,158,28
+Laclede,NATIONAL GUARD ARMORY,Joe Poor,130,28
+Laclede,PHILLIPSBURG CHRISTIAN CHURCH,Joe Poor,75,28
+Laclede,PINE CREEK BAPTIST CHURCH,Joe Poor,26,28
+Laclede,SLEEPER METHODIST CHURCH,Joe Poor,131,28
+Laclede,SOUTHERN HEIGHTS CHURCH,Joe Poor,256,28
+Laclede,WALLACE BUILDING,Joe Poor,238,28
+Lewis,EWING,Cindy O'Laughlin,503,18
+Lewis,LABELLE,Cindy O'Laughlin,151,18
+Lewis,LAGRANGE,Cindy O'Laughlin,481,18
+Lewis,LEWISTOWN,Cindy O'Laughlin,289,18
+Lewis,MONTICELLO,Cindy O'Laughlin,290,18
+Lewis,CANTON,Cindy O'Laughlin,587,18
+Lewis,ABSENTEE,Cindy O'Laughlin,127,18
+Lewis,EWING,Crystal Stephens,150,18
+Lewis,LABELLE,Crystal Stephens,82,18
+Lewis,LAGRANGE,Crystal Stephens,200,18
+Lewis,LEWISTOWN,Crystal Stephens,91,18
+Lewis,MONTICELLO,Crystal Stephens,69,18
+Lewis,CANTON,Crystal Stephens,340,18
+Lewis,ABSENTEE,Crystal Stephens,67,18
+Lincoln,TROY CITY-1,Jeanie Riddle,809,10
+Lincoln,TROY CITY-2,Jeanie Riddle,751,10
+Lincoln,TROY RURAL,Jeanie Riddle,886,10
+Lincoln,FOLEY,Jeanie Riddle,819,10
+Lincoln,MOSCOW MILLS,Jeanie Riddle,1900,10
+Lincoln,ZOAR,Jeanie Riddle,589,10
+Lincoln,HAWK POINT,Jeanie Riddle,843,10
+Lincoln,NEW HOPE,Jeanie Riddle,426,10
+Lincoln,MILLWOOD,Jeanie Riddle,515,10
+Lincoln,WINFIELD,Jeanie Riddle,974,10
+Lincoln,BIRKHEAD,Jeanie Riddle,1270,10
+Lincoln,OLD MONROE,Jeanie Riddle,789,10
+Lincoln,BRUSSELS,Jeanie Riddle,800,10
+Lincoln,WHITESIDE,Jeanie Riddle,301,10
+Lincoln,BRISCOE,Jeanie Riddle,538,10
+Lincoln,SILEX,Jeanie Riddle,233,10
+Lincoln,TROY CITY-3,Jeanie Riddle,1085,10
+Lincoln,MOSCOW MILLS CITY,Jeanie Riddle,498,10
+Lincoln,ELSBERRY,Jeanie Riddle,625,10
+Lincoln,FEDERAL,Jeanie Riddle,1,10
+Lincoln,TROY CITY-1,Ayanna Shivers,405,10
+Lincoln,TROY CITY-2,Ayanna Shivers,435,10
+Lincoln,TROY RURAL,Ayanna Shivers,384,10
+Lincoln,FOLEY,Ayanna Shivers,365,10
+Lincoln,MOSCOW MILLS,Ayanna Shivers,783,10
+Lincoln,ZOAR,Ayanna Shivers,211,10
+Lincoln,HAWK POINT,Ayanna Shivers,288,10
+Lincoln,NEW HOPE,Ayanna Shivers,195,10
+Lincoln,MILLWOOD,Ayanna Shivers,120,10
+Lincoln,WINFIELD,Ayanna Shivers,482,10
+Lincoln,BIRKHEAD,Ayanna Shivers,634,10
+Lincoln,OLD MONROE,Ayanna Shivers,351,10
+Lincoln,BRUSSELS,Ayanna Shivers,365,10
+Lincoln,WHITESIDE,Ayanna Shivers,75,10
+Lincoln,BRISCOE,Ayanna Shivers,182,10
+Lincoln,SILEX,Ayanna Shivers,62,10
+Lincoln,TROY CITY-3,Ayanna Shivers,532,10
+Lincoln,MOSCOW MILLS CITY,Ayanna Shivers,275,10
+Lincoln,ELSBERRY,Ayanna Shivers,346,10
+Lincoln,FEDERAL,Ayanna Shivers,0,10
+Linn,BAKER/N SALEM,Cindy O'Laughlin,111,18
+Linn,BENTON NORTH DIST (7),Cindy O'Laughlin,47,18
+Linn,BENTON SOUTH DIST (7),Cindy O'Laughlin,52,18
+Linn,BROOKFIELD 1.2 DIST (7),Cindy O'Laughlin,564,18
+Linn,BROOKFIELD 3.4 DIST (7),Cindy O'Laughlin,471,18
+Linn,BUCKLIN DIST (6),Cindy O'Laughlin,187,18
+Linn,CLAY/PARSON CREEK,Cindy O'Laughlin,334,18
+Linn,ENTERPRISE/GRANTSVILLE DIST (7),Cindy O'Laughlin,128,18
+Linn,JACKSON,Cindy O'Laughlin,45,18
+Linn,JEFFERSON DIST (7),Cindy O'Laughlin,210,18
+Linn,"MARCELINE 1,2,3,4",Cindy O'Laughlin,607,18
+Linn,YELLOW CREEK DIST (7),Cindy O'Laughlin,111,18
+Linn,ABSENTEE,Cindy O'Laughlin,231,18
+Linn,LOCUST CREEK DIST (7),Cindy O'Laughlin,152,18
+Linn,PROVISIONAL,Cindy O'Laughlin,6,18
+Linn,BAKER/N SALEM,Crystal Stephens,30,18
+Linn,BENTON NORTH DIST (7),Crystal Stephens,9,18
+Linn,BENTON SOUTH DIST (7),Crystal Stephens,20,18
+Linn,BROOKFIELD 1.2 DIST (7),Crystal Stephens,247,18
+Linn,BROOKFIELD 3.4 DIST (7),Crystal Stephens,218,18
+Linn,BUCKLIN DIST (6),Crystal Stephens,99,18
+Linn,CLAY/PARSON CREEK,Crystal Stephens,87,18
+Linn,ENTERPRISE/GRANTSVILLE DIST (7),Crystal Stephens,24,18
+Linn,JACKSON,Crystal Stephens,12,18
+Linn,JEFFERSON DIST (7),Crystal Stephens,67,18
+Linn,"MARCELINE 1,2,3,4",Crystal Stephens,292,18
+Linn,YELLOW CREEK DIST (7),Crystal Stephens,40,18
+Linn,ABSENTEE,Crystal Stephens,117,18
+Linn,LOCUST CREEK DIST (7),Crystal Stephens,51,18
+Linn,PROVISIONAL,Crystal Stephens,4,18
+Macon,MACON WARD 1,Cindy O'Laughlin,529,18
+Macon,MACON WARD 2,Cindy O'Laughlin,389,18
+Macon,MACON WARD 3,Cindy O'Laughlin,196,18
+Macon,MACON WARD 4,Cindy O'Laughlin,244,18
+Macon,MACON EXPO CENTER,Cindy O'Laughlin,1056,18
+Macon,ATLANTA,Cindy O'Laughlin,325,18
+Macon,LAPLATA,Cindy O'Laughlin,563,18
+Macon,BEVIER,Cindy O'Laughlin,550,18
+Macon,CALLAO,Cindy O'Laughlin,221,18
+Macon,NEW CAMBRIA,Cindy O'Laughlin,191,18
+Macon,ETHEL,Cindy O'Laughlin,74,18
+Macon,ABSENTEE,Cindy O'Laughlin,294,18
+Macon,MACON WARD 1,Crystal Stephens,214,18
+Macon,MACON WARD 2,Crystal Stephens,199,18
+Macon,MACON WARD 3,Crystal Stephens,111,18
+Macon,MACON WARD 4,Crystal Stephens,135,18
+Macon,MACON EXPO CENTER,Crystal Stephens,334,18
+Macon,ATLANTA,Crystal Stephens,126,18
+Macon,LAPLATA,Crystal Stephens,200,18
+Macon,BEVIER,Crystal Stephens,159,18
+Macon,CALLAO,Crystal Stephens,76,18
+Macon,NEW CAMBRIA,Crystal Stephens,85,18
+Macon,ETHEL,Crystal Stephens,28,18
+Macon,ABSENTEE,Crystal Stephens,140,18
+Maries,BRINKTOWN,Mike Bernskoetter,157,6
+Maries,HAYDEN HEIGHTS,Mike Bernskoetter,229,6
+Maries,HODGEVILLE,Mike Bernskoetter,125,6
+Maries,MASON RIDGE,Mike Bernskoetter,211,6
+Maries,SAFE,Mike Bernskoetter,186,6
+Maries,SANTEE,Mike Bernskoetter,184,6
+Maries,VICHY,Mike Bernskoetter,258,6
+Maries,BELLE,Mike Bernskoetter,770,6
+Maries,FEDERAL,Mike Bernskoetter,0,6
+Maries,VIENNA,Mike Bernskoetter,660,6
+Maries,ABSENTEE,Mike Bernskoetter,186,6
+Maries,BRINKTOWN,Nicole Thompson,39,6
+Maries,HAYDEN HEIGHTS,Nicole Thompson,42,6
+Maries,HODGEVILLE,Nicole Thompson,35,6
+Maries,MASON RIDGE,Nicole Thompson,57,6
+Maries,SAFE,Nicole Thompson,43,6
+Maries,SANTEE,Nicole Thompson,34,6
+Maries,VICHY,Nicole Thompson,61,6
+Maries,BELLE,Nicole Thompson,250,6
+Maries,FEDERAL,Nicole Thompson,0,6
+Maries,VIENNA,Nicole Thompson,204,6
+Maries,ABSENTEE,Nicole Thompson,79,6
+Maries,BRINKTOWN,Steven Wilson,1,6
+Maries,HAYDEN HEIGHTS,Steven Wilson,3,6
+Maries,HODGEVILLE,Steven Wilson,0,6
+Maries,MASON RIDGE,Steven Wilson,3,6
+Maries,SAFE,Steven Wilson,3,6
+Maries,SANTEE,Steven Wilson,8,6
+Maries,VICHY,Steven Wilson,9,6
+Maries,BELLE,Steven Wilson,21,6
+Maries,FEDERAL,Steven Wilson,0,6
+Maries,VIENNA,Steven Wilson,8,6
+Maries,ABSENTEE,Steven Wilson,1,6
+Marion,1W-1P HANN. EMERG. SERV.,Cindy O'Laughlin,391,18
+Marion,1W-2P FIRE STATION #3,Cindy O'Laughlin,425,18
+Marion,2W-1P FIRST ASSEMBLY OF GOD,Cindy O'Laughlin,362,18
+Marion,2W-2P DOUGLASS COMM. SERV.,Cindy O'Laughlin,295,18
+Marion,3W-1P TRUE CHURCH,Cindy O'Laughlin,335,18
+Marion,4W-2P AD. COONTZ ARMORY,Cindy O'Laughlin,390,18
+Marion,5W-1P PRINCE AVE BCFH,Cindy O'Laughlin,588,18
+Marion,6W AMERICAN LEGION POST HOME,Cindy O'Laughlin,992,18
+Marion,MILLER/CLOVER ROAD CHRISTIAN CHURCH,Cindy O'Laughlin,389,18
+Marion,LIBERTY/MONSIGNOR FARISCHON HALL,Cindy O'Laughlin,1252,18
+Marion,SOUTH RIVER/IMMANUEL LUTHERN CHURCH,Cindy O'Laughlin,143,18
+Marion,WARREN/MONROE CITY/TRI COUNTY TIRE REPAIR,Cindy O'Laughlin,337,18
+Marion,WARREN/WARREN BAPTIST CHURCH,Cindy O'Laughlin,133,18
+Marion,UNION/PHILADELPHIA COMMUNITY CENTER,Cindy O'Laughlin,324,18
+Marion,ROUND GROVE/EMERSON COMMUNITY CENTER,Cindy O'Laughlin,270,18
+Marion,FABIUS/SMILEYVILLE COMMUNITY CENTER,Cindy O'Laughlin,212,18
+Marion,FABIUS/TAYLOR MT. OLIVE CHURCH,Cindy O'Laughlin,235,18
+Marion,ABSENTEE,Cindy O'Laughlin,564,18
+Marion,1W-1P HANN. EMERG. SERV.,Crystal Stephens,104,18
+Marion,1W-2P FIRE STATION #3,Crystal Stephens,172,18
+Marion,2W-1P FIRST ASSEMBLY OF GOD,Crystal Stephens,219,18
+Marion,2W-2P DOUGLASS COMM. SERV.,Crystal Stephens,151,18
+Marion,3W-1P TRUE CHURCH,Crystal Stephens,266,18
+Marion,4W-2P AD. COONTZ ARMORY,Crystal Stephens,203,18
+Marion,5W-1P PRINCE AVE BCFH,Crystal Stephens,240,18
+Marion,6W AMERICAN LEGION POST HOME,Crystal Stephens,384,18
+Marion,MILLER/CLOVER ROAD CHRISTIAN CHURCH,Crystal Stephens,143,18
+Marion,LIBERTY/MONSIGNOR FARISCHON HALL,Crystal Stephens,345,18
+Marion,SOUTH RIVER/IMMANUEL LUTHERN CHURCH,Crystal Stephens,33,18
+Marion,WARREN/MONROE CITY/TRI COUNTY TIRE REPAIR,Crystal Stephens,103,18
+Marion,WARREN/WARREN BAPTIST CHURCH,Crystal Stephens,18,18
+Marion,UNION/PHILADELPHIA COMMUNITY CENTER,Crystal Stephens,55,18
+Marion,ROUND GROVE/EMERSON COMMUNITY CENTER,Crystal Stephens,36,18
+Marion,FABIUS/SMILEYVILLE COMMUNITY CENTER,Crystal Stephens,52,18
+Marion,FABIUS/TAYLOR MT. OLIVE CHURCH,Crystal Stephens,43,18
+Marion,ABSENTEE,Crystal Stephens,285,18
+Mercer,MORGAN,Dan Hegeman,346,12
+Mercer,MERCER,Dan Hegeman,286,12
+Mercer,RAVANNA,Dan Hegeman,76,12
+Mercer,HAL ENGLAND CENTER,Dan Hegeman,321,12
+Mercer,FEDERAL,Dan Hegeman,0,12
+Mercer,ABSENTEE,Dan Hegeman,112,12
+Mercer,MORGAN,Terry Richard,65,12
+Mercer,MERCER,Terry Richard,49,12
+Mercer,RAVANNA,Terry Richard,7,12
+Mercer,HAL ENGLAND CENTER,Terry Richard,43,12
+Mercer,FEDERAL,Terry Richard,0,12
+Mercer,ABSENTEE,Terry Richard,17,12
+Miller,TUSCUMBIA,Mike Bernskoetter,510,6
+Miller,BRUMLEY,Mike Bernskoetter,599,6
+Miller,LAKE OZARK,Mike Bernskoetter,843,6
+Miller,MARY'S HOME,Mike Bernskoetter,378,6
+Miller,ST. ELIZABETH,Mike Bernskoetter,400,6
+Miller,ST. ANTHONY,Mike Bernskoetter,136,6
+Miller,KAISER,Mike Bernskoetter,433,6
+Miller,OLEAN,Mike Bernskoetter,276,6
+Miller,ELDON SOUTH,Mike Bernskoetter,483,6
+Miller,ELDON NORTH,Mike Bernskoetter,949,6
+Miller,IBERIA,Mike Bernskoetter,903,6
+Miller,ELDON CITY,Mike Bernskoetter,1071,6
+Miller,ABSENTEE,Mike Bernskoetter,537,6
+Miller,TUSCUMBIA,Nicole Thompson,74,6
+Miller,BRUMLEY,Nicole Thompson,114,6
+Miller,LAKE OZARK,Nicole Thompson,310,6
+Miller,MARY'S HOME,Nicole Thompson,68,6
+Miller,ST. ELIZABETH,Nicole Thompson,42,6
+Miller,ST. ANTHONY,Nicole Thompson,19,6
+Miller,KAISER,Nicole Thompson,160,6
+Miller,OLEAN,Nicole Thompson,65,6
+Miller,ELDON SOUTH,Nicole Thompson,127,6
+Miller,ELDON NORTH,Nicole Thompson,220,6
+Miller,IBERIA,Nicole Thompson,172,6
+Miller,ELDON CITY,Nicole Thompson,309,6
+Miller,ABSENTEE,Nicole Thompson,166,6
+Miller,TUSCUMBIA,Steven Wilson,37,6
+Miller,BRUMLEY,Steven Wilson,31,6
+Miller,LAKE OZARK,Steven Wilson,32,6
+Miller,MARY'S HOME,Steven Wilson,3,6
+Miller,ST. ELIZABETH,Steven Wilson,5,6
+Miller,ST. ANTHONY,Steven Wilson,3,6
+Miller,KAISER,Steven Wilson,26,6
+Miller,OLEAN,Steven Wilson,6,6
+Miller,ELDON SOUTH,Steven Wilson,22,6
+Miller,ELDON NORTH,Steven Wilson,26,6
+Miller,IBERIA,Steven Wilson,37,6
+Miller,ELDON CITY,Steven Wilson,50,6
+Miller,ABSENTEE,Steven Wilson,13,6
+Miller,IBERIA,Christina Smith,1,6
+Miller,ELDON CITY,Christina Smith,1,6
+Miller,ABSENTEE,Christina Smith,2,6
+Moniteau,CALIFORNIA 3,Mike Bernskoetter,505,6
+Moniteau,CLARKSBURG,Mike Bernskoetter,137,6
+Moniteau,HARMONY,Mike Bernskoetter,310,6
+Moniteau,HIGH POINT,Mike Bernskoetter,297,6
+Moniteau,JAMESTOWN,Mike Bernskoetter,501,6
+Moniteau,LATHAM,Mike Bernskoetter,169,6
+Moniteau,MCGIRK,Mike Bernskoetter,492,6
+Moniteau,WALKER WEST,Mike Bernskoetter,515,6
+Moniteau,CALIFORNIA 1 & 2,Mike Bernskoetter,600,6
+Moniteau,TIPTON/FORTUNA,Mike Bernskoetter,744,6
+Moniteau,ABSENTEE,Mike Bernskoetter,236,6
+Moniteau,CALIFORNIA 3,Nicole Thompson,166,6
+Moniteau,CLARKSBURG,Nicole Thompson,40,6
+Moniteau,HARMONY,Nicole Thompson,56,6
+Moniteau,HIGH POINT,Nicole Thompson,32,6
+Moniteau,JAMESTOWN,Nicole Thompson,147,6
+Moniteau,LATHAM,Nicole Thompson,19,6
+Moniteau,MCGIRK,Nicole Thompson,122,6
+Moniteau,WALKER WEST,Nicole Thompson,133,6
+Moniteau,CALIFORNIA 1 & 2,Nicole Thompson,199,6
+Moniteau,TIPTON/FORTUNA,Nicole Thompson,224,6
+Moniteau,ABSENTEE,Nicole Thompson,78,6
+Moniteau,CALIFORNIA 3,Steven Wilson,8,6
+Moniteau,CLARKSBURG,Steven Wilson,1,6
+Moniteau,HARMONY,Steven Wilson,5,6
+Moniteau,HIGH POINT,Steven Wilson,3,6
+Moniteau,JAMESTOWN,Steven Wilson,17,6
+Moniteau,LATHAM,Steven Wilson,3,6
+Moniteau,MCGIRK,Steven Wilson,9,6
+Moniteau,WALKER WEST,Steven Wilson,10,6
+Moniteau,CALIFORNIA 1 & 2,Steven Wilson,27,6
+Moniteau,TIPTON/FORTUNA,Steven Wilson,26,6
+Moniteau,ABSENTEE,Steven Wilson,4,6
+Moniteau,WRITE-IN,Christina Smith,1,6
+Monroe,HOLLIDAY SCHOOL,Jeanie Riddle,91,10
+Monroe,MADISON COMMUNITY CENTER,Jeanie Riddle,382,10
+Monroe,MIDDLE GROVE SCHOOL,Jeanie Riddle,188,10
+Monroe,MONROE CITY VFW HALL,Jeanie Riddle,663,10
+Monroe,MONROE COUNTY COURTHOUSE,Jeanie Riddle,360,10
+Monroe,PARIS LIBRARY,Jeanie Riddle,386,10
+Monroe,SANTE FE CHRISTIAN CHURCH,Jeanie Riddle,155,10
+Monroe,STOUTSVILLE COMMUNITY CENTER,Jeanie Riddle,259,10
+Monroe,ABSENTEE,Jeanie Riddle,191,10
+Monroe,HOLLIDAY SCHOOL,Ayanna Shivers,27,10
+Monroe,MADISON COMMUNITY CENTER,Ayanna Shivers,103,10
+Monroe,MIDDLE GROVE SCHOOL,Ayanna Shivers,59,10
+Monroe,MONROE CITY VFW HALL,Ayanna Shivers,265,10
+Monroe,MONROE COUNTY COURTHOUSE,Ayanna Shivers,159,10
+Monroe,PARIS LIBRARY,Ayanna Shivers,120,10
+Monroe,SANTE FE CHRISTIAN CHURCH,Ayanna Shivers,50,10
+Monroe,STOUTSVILLE COMMUNITY CENTER,Ayanna Shivers,77,10
+Monroe,ABSENTEE,Ayanna Shivers,79,10
+Montgomery,MIDDLETOWN 1-2-RURAL,Jeanie Riddle,223,10
+Montgomery,BELLFLOWER 1-2-3-RURAL,Jeanie Riddle,309,10
+Montgomery,HIGH HILL 1-2-RURAL,Jeanie Riddle,186,10
+Montgomery,JONESBURG 1-2-RURAL,Jeanie Riddle,306,10
+Montgomery,NEW FLORENCE 1-2-RURAL,Jeanie Riddle,491,10
+Montgomery,BIG SPRING/AMERICUS,Jeanie Riddle,191,10
+Montgomery,ABSENTEE,Jeanie Riddle,204,10
+Montgomery,MONTGOMERY,Jeanie Riddle,1022,10
+Montgomery,RHINELAND/MCKITTRICK,Jeanie Riddle,249,10
+Montgomery,WELLSVILLE,Jeanie Riddle,408,10
+Montgomery,MIDDLETOWN 1-2-RURAL,Ayanna Shivers,47,10
+Montgomery,BELLFLOWER 1-2-3-RURAL,Ayanna Shivers,71,10
+Montgomery,HIGH HILL 1-2-RURAL,Ayanna Shivers,57,10
+Montgomery,JONESBURG 1-2-RURAL,Ayanna Shivers,103,10
+Montgomery,NEW FLORENCE 1-2-RURAL,Ayanna Shivers,167,10
+Montgomery,BIG SPRING/AMERICUS,Ayanna Shivers,45,10
+Montgomery,ABSENTEE,Ayanna Shivers,69,10
+Montgomery,MONTGOMERY,Ayanna Shivers,310,10
+Montgomery,RHINELAND/MCKITTRICK,Ayanna Shivers,74,10
+Montgomery,WELLSVILLE,Ayanna Shivers,124,10
+Morgan,FLORENCE,Mike Bernskoetter,342,6
+Morgan,GRAVOIS MILLS,Mike Bernskoetter,322,6
+Morgan,INDIAN CREEK,Mike Bernskoetter,537,6
+Morgan,LAURIE,Mike Bernskoetter,833,6
+Morgan,VERSAILLES NORTH,Mike Bernskoetter,607,6
+Morgan,VERSAILLES SOUTH,Mike Bernskoetter,741,6
+Morgan,WEBB,Mike Bernskoetter,451,6
+Morgan,ABSENTEE,Mike Bernskoetter,491,6
+Morgan,BARNETT,Mike Bernskoetter,292,6
+Morgan,STOVER,Mike Bernskoetter,678,6
+Morgan,SYRACUSE,Mike Bernskoetter,284,6
+Morgan,FLORENCE,Nicole Thompson,52,6
+Morgan,GRAVOIS MILLS,Nicole Thompson,160,6
+Morgan,INDIAN CREEK,Nicole Thompson,187,6
+Morgan,LAURIE,Nicole Thompson,339,6
+Morgan,VERSAILLES NORTH,Nicole Thompson,167,6
+Morgan,VERSAILLES SOUTH,Nicole Thompson,194,6
+Morgan,WEBB,Nicole Thompson,200,6
+Morgan,ABSENTEE,Nicole Thompson,239,6
+Morgan,BARNETT,Nicole Thompson,73,6
+Morgan,STOVER,Nicole Thompson,185,6
+Morgan,SYRACUSE,Nicole Thompson,80,6
+Morgan,FLORENCE,Steven Wilson,10,6
+Morgan,GRAVOIS MILLS,Steven Wilson,7,6
+Morgan,INDIAN CREEK,Steven Wilson,16,6
+Morgan,LAURIE,Steven Wilson,22,6
+Morgan,VERSAILLES NORTH,Steven Wilson,20,6
+Morgan,VERSAILLES SOUTH,Steven Wilson,34,6
+Morgan,WEBB,Steven Wilson,26,6
+Morgan,ABSENTEE,Steven Wilson,19,6
+Morgan,BARNETT,Steven Wilson,6,6
+Morgan,STOVER,Steven Wilson,23,6
+Morgan,SYRACUSE,Steven Wilson,11,6
+Morgan,WRITE-IN,Christina Smith,1,6
+Newton,CROWDER PRECINCT,Bill White,643,32
+Newton,DIAMOND PRECINCT,Bill White,1290,32
+Newton,FAIRVIEW PRECINCT,Bill White,277,32
+Newton,GRANBY PRECINCT,Bill White,1092,32
+Newton,HORNET PRECINCT,Bill White,1148,32
+Newton,EAST NEOSHO PRECINCT,Bill White,753,32
+Newton,WEST NEOSHO PRECINCT,Bill White,1356,32
+Newton,NEOSHO #1 PRECINCT,Bill White,844,32
+Newton,NEOSHO #2 PRECINCT,Bill White,542,32
+Newton,NEOSHO #3 PRECINCT,Bill White,400,32
+Newton,NEOSHO #4 PRECINCT,Bill White,566,32
+Newton,NEWTONIA PRECINCT,Bill White,216,32
+Newton,REDING PRECINCT,Bill White,555,32
+Newton,RITCHEY PRECINCT,Bill White,264,32
+Newton,SENECA PRECINCT,Bill White,1128,32
+Newton,STAPLES EAST PRECINCT,Bill White,289,32
+Newton,STAPLES WEST PRECINCT,Bill White,590,32
+Newton,STAPLES #21 PRECINCT,Bill White,483,32
+Newton,STAPLES #27 PRECINCT,Bill White,988,32
+Newton,STELLA PRECINCT,Bill White,283,32
+Newton,THURMAN PRECINCT,Bill White,1006,32
+Newton,WENTWORTH PRECINCT,Bill White,278,32
+Newton,WESTVIEW PRECINCT,Bill White,837,32
+Newton,FEDERAL,Bill White,0,32
+Newton,ABSENTEE,Bill White,1280,32
+Newton,MULTI-PRECINCT COLLECTION,Bill White,1,32
+Newton,CROWDER PRECINCT,Carolyn McGowan,139,32
+Newton,DIAMOND PRECINCT,Carolyn McGowan,227,32
+Newton,FAIRVIEW PRECINCT,Carolyn McGowan,50,32
+Newton,GRANBY PRECINCT,Carolyn McGowan,214,32
+Newton,HORNET PRECINCT,Carolyn McGowan,273,32
+Newton,EAST NEOSHO PRECINCT,Carolyn McGowan,153,32
+Newton,WEST NEOSHO PRECINCT,Carolyn McGowan,241,32
+Newton,NEOSHO #1 PRECINCT,Carolyn McGowan,309,32
+Newton,NEOSHO #2 PRECINCT,Carolyn McGowan,151,32
+Newton,NEOSHO #3 PRECINCT,Carolyn McGowan,184,32
+Newton,NEOSHO #4 PRECINCT,Carolyn McGowan,222,32
+Newton,NEWTONIA PRECINCT,Carolyn McGowan,69,32
+Newton,REDING PRECINCT,Carolyn McGowan,172,32
+Newton,RITCHEY PRECINCT,Carolyn McGowan,49,32
+Newton,SENECA PRECINCT,Carolyn McGowan,220,32
+Newton,STAPLES EAST PRECINCT,Carolyn McGowan,107,32
+Newton,STAPLES WEST PRECINCT,Carolyn McGowan,194,32
+Newton,STAPLES #21 PRECINCT,Carolyn McGowan,228,32
+Newton,STAPLES #27 PRECINCT,Carolyn McGowan,341,32
+Newton,STELLA PRECINCT,Carolyn McGowan,50,32
+Newton,THURMAN PRECINCT,Carolyn McGowan,306,32
+Newton,WENTWORTH PRECINCT,Carolyn McGowan,77,32
+Newton,WESTVIEW PRECINCT,Carolyn McGowan,107,32
+Newton,FEDERAL,Carolyn McGowan,0,32
+Newton,ABSENTEE,Carolyn McGowan,409,32
+Newton,MULTI-PRECINCT COLLECTION,Carolyn McGowan,0,32
+Newton,CROWDER PRECINCT,Conon Gillis,22,32
+Newton,DIAMOND PRECINCT,Conon Gillis,35,32
+Newton,FAIRVIEW PRECINCT,Conon Gillis,11,32
+Newton,GRANBY PRECINCT,Conon Gillis,32,32
+Newton,HORNET PRECINCT,Conon Gillis,28,32
+Newton,EAST NEOSHO PRECINCT,Conon Gillis,36,32
+Newton,WEST NEOSHO PRECINCT,Conon Gillis,62,32
+Newton,NEOSHO #1 PRECINCT,Conon Gillis,80,32
+Newton,NEOSHO #2 PRECINCT,Conon Gillis,53,32
+Newton,NEOSHO #3 PRECINCT,Conon Gillis,56,32
+Newton,NEOSHO #4 PRECINCT,Conon Gillis,65,32
+Newton,NEWTONIA PRECINCT,Conon Gillis,13,32
+Newton,REDING PRECINCT,Conon Gillis,19,32
+Newton,RITCHEY PRECINCT,Conon Gillis,3,32
+Newton,SENECA PRECINCT,Conon Gillis,25,32
+Newton,STAPLES EAST PRECINCT,Conon Gillis,7,32
+Newton,STAPLES WEST PRECINCT,Conon Gillis,20,32
+Newton,STAPLES #21 PRECINCT,Conon Gillis,29,32
+Newton,STAPLES #27 PRECINCT,Conon Gillis,46,32
+Newton,STELLA PRECINCT,Conon Gillis,9,32
+Newton,THURMAN PRECINCT,Conon Gillis,39,32
+Newton,WENTWORTH PRECINCT,Conon Gillis,11,32
+Newton,WESTVIEW PRECINCT,Conon Gillis,25,32
+Newton,FEDERAL,Conon Gillis,0,32
+Newton,ABSENTEE,Conon Gillis,32,32
+Newton,MULTI-PRECINCT COLLECTION,Conon Gillis,0,32
+Nodaway,ATCHISON (CLEARMONT),Dan Hegeman,127,12
+Nodaway,GRANT (BARNARD),Dan Hegeman,182,12
+Nodaway,GREEN (QUITMAN),Dan Hegeman,74,12
+Nodaway,HOPKINS (HOPKINS),Dan Hegeman,167,12
+Nodaway,HUGHES (GRAHAM),Dan Hegeman,172,12
+Nodaway,INDEPENDENCE (PARNELL),Dan Hegeman,84,12
+Nodaway,JACKSON (RAVENWOOD),Dan Hegeman,334,12
+Nodaway,JEFFERSON (CONCEPTION JCT),Dan Hegeman,209,12
+Nodaway,LINCOLN (ELMO),Dan Hegeman,126,12
+Nodaway,MONROE (SKIDMORE),Dan Hegeman,131,12
+Nodaway,NODAWAY (BURL JCT),Dan Hegeman,217,12
+Nodaway,UNION (PICKERING),Dan Hegeman,136,12
+Nodaway,WASHINGTON (GUILFORD),Dan Hegeman,120,12
+Nodaway,WHITE CLOUD,Dan Hegeman,164,12
+Nodaway,POLK A-POLK D,Dan Hegeman,1060,12
+Nodaway,POLK E,Dan Hegeman,451,12
+Nodaway,POLK B-POLK C,Dan Hegeman,1250,12
+Nodaway,ABSENTEE,Dan Hegeman,433,12
+Nodaway,PROVISIONAL,Dan Hegeman,5,12
+Nodaway,ATCHISON (CLEARMONT),Terry Richard,31,12
+Nodaway,GRANT (BARNARD),Terry Richard,65,12
+Nodaway,GREEN (QUITMAN),Terry Richard,21,12
+Nodaway,HOPKINS (HOPKINS),Terry Richard,50,12
+Nodaway,HUGHES (GRAHAM),Terry Richard,20,12
+Nodaway,INDEPENDENCE (PARNELL),Terry Richard,26,12
+Nodaway,JACKSON (RAVENWOOD),Terry Richard,54,12
+Nodaway,JEFFERSON (CONCEPTION JCT),Terry Richard,75,12
+Nodaway,LINCOLN (ELMO),Terry Richard,28,12
+Nodaway,MONROE (SKIDMORE),Terry Richard,47,12
+Nodaway,NODAWAY (BURL JCT),Terry Richard,65,12
+Nodaway,UNION (PICKERING),Terry Richard,35,12
+Nodaway,WASHINGTON (GUILFORD),Terry Richard,19,12
+Nodaway,WHITE CLOUD,Terry Richard,35,12
+Nodaway,POLK A-POLK D,Terry Richard,645,12
+Nodaway,POLK E,Terry Richard,145,12
+Nodaway,POLK B-POLK C,Terry Richard,535,12
+Nodaway,ABSENTEE,Terry Richard,221,12
+Nodaway,PROVISIONAL,Terry Richard,2,12
+Osage,FREEDOM,Mike Bernskoetter,208,6
+Osage,LINN 1 NORTH (ST GEORGE),Mike Bernskoetter,555,6
+Osage,LINN 2 SOUTH (ST JOHN METHODIST),Mike Bernskoetter,561,6
+Osage,CHAMOIS,Mike Bernskoetter,264,6
+Osage,BELLE,Mike Bernskoetter,311,6
+Osage,FREEBURG,Mike Bernskoetter,253,6
+Osage,RICH FOUNTAIN,Mike Bernskoetter,305,6
+Osage,WESTPHALIA,Mike Bernskoetter,763,6
+Osage,META,Mike Bernskoetter,190,6
+Osage,KOELTZTOWN,Mike Bernskoetter,197,6
+Osage,LOOSE CREEK,Mike Bernskoetter,1016,6
+Osage,ABSENTEE,Mike Bernskoetter,272,6
+Osage,FREEDOM,Nicole Thompson,62,6
+Osage,LINN 1 NORTH (ST GEORGE),Nicole Thompson,132,6
+Osage,LINN 2 SOUTH (ST JOHN METHODIST),Nicole Thompson,137,6
+Osage,CHAMOIS,Nicole Thompson,38,6
+Osage,BELLE,Nicole Thompson,99,6
+Osage,FREEBURG,Nicole Thompson,68,6
+Osage,RICH FOUNTAIN,Nicole Thompson,45,6
+Osage,WESTPHALIA,Nicole Thompson,134,6
+Osage,META,Nicole Thompson,31,6
+Osage,KOELTZTOWN,Nicole Thompson,41,6
+Osage,LOOSE CREEK,Nicole Thompson,144,6
+Osage,ABSENTEE,Nicole Thompson,64,6
+Osage,FREEDOM,Steven Wilson,4,6
+Osage,LINN 1 NORTH (ST GEORGE),Steven Wilson,8,6
+Osage,LINN 2 SOUTH (ST JOHN METHODIST),Steven Wilson,8,6
+Osage,CHAMOIS,Steven Wilson,5,6
+Osage,BELLE,Steven Wilson,10,6
+Osage,FREEBURG,Steven Wilson,5,6
+Osage,RICH FOUNTAIN,Steven Wilson,4,6
+Osage,WESTPHALIA,Steven Wilson,8,6
+Osage,META,Steven Wilson,7,6
+Osage,KOELTZTOWN,Steven Wilson,1,6
+Osage,LOOSE CREEK,Steven Wilson,14,6
+Osage,ABSENTEE,Steven Wilson,4,6
+Pettis,BOWLING GREEN,Sandy Crawford,287,28
+Pettis,CEDAR,Sandy Crawford,288,28
+Pettis,DRESDEN,Sandy Crawford,245,28
+Pettis,FLAT CREEK,Sandy Crawford,615,28
+Pettis,HOUSTONIA,Sandy Crawford,96,28
+Pettis,HUGHESVILLE,Sandy Crawford,189,28
+Pettis,PRAIRIE,Sandy Crawford,1010,28
+Pettis,SEDALIA EAST,Sandy Crawford,626,28
+Pettis,SEDALIA WEST,Sandy Crawford,262,28
+Pettis,1ST WARD,Sandy Crawford,897,28
+Pettis,2ND WARD,Sandy Crawford,516,28
+Pettis,3RD WARD,Sandy Crawford,934,28
+Pettis,4TH WARD,Sandy Crawford,1272,28
+Pettis,BLACKWATER/LA MONTE,Sandy Crawford,463,28
+Pettis,GREEN RIDGE/ELK FORK/WASHINGTON,Sandy Crawford,741,28
+Pettis,HEATH CREEK/LONGWOOD,Sandy Crawford,320,28
+Pettis,LAKE CREEK/SMITHTON/BROOKING PARK,Sandy Crawford,897,28
+Pettis,ABSENTEE,Sandy Crawford,1301,28
+Pettis,BOWLING GREEN,Joe Poor,55,28
+Pettis,CEDAR,Joe Poor,52,28
+Pettis,DRESDEN,Joe Poor,55,28
+Pettis,FLAT CREEK,Joe Poor,136,28
+Pettis,HOUSTONIA,Joe Poor,36,28
+Pettis,HUGHESVILLE,Joe Poor,32,28
+Pettis,PRAIRIE,Joe Poor,210,28
+Pettis,SEDALIA EAST,Joe Poor,187,28
+Pettis,SEDALIA WEST,Joe Poor,93,28
+Pettis,1ST WARD,Joe Poor,456,28
+Pettis,2ND WARD,Joe Poor,384,28
+Pettis,3RD WARD,Joe Poor,434,28
+Pettis,4TH WARD,Joe Poor,586,28
+Pettis,BLACKWATER/LA MONTE,Joe Poor,119,28
+Pettis,GREEN RIDGE/ELK FORK/WASHINGTON,Joe Poor,144,28
+Pettis,HEATH CREEK/LONGWOOD,Joe Poor,79,28
+Pettis,LAKE CREEK/SMITHTON/BROOKING PARK,Joe Poor,192,28
+Pettis,ABSENTEE,Joe Poor,543,28
+Phelps,JEROME,Justin Dan Brown,98,16
+Phelps,DILLON CENTRAL,Justin Dan Brown,824,16
+Phelps,DILLON NORTH,Justin Dan Brown,508,16
+Phelps,DILLON SOUTH,Justin Dan Brown,443,16
+Phelps,COLD SPRINGS EAST,Justin Dan Brown,242,16
+Phelps,COLD SPRINGS WEST,Justin Dan Brown,426,16
+Phelps,ROLLA WARD 1,Justin Dan Brown,304,16
+Phelps,ROLLA WARD 2,Justin Dan Brown,366,16
+Phelps,ROLLA WARD 3,Justin Dan Brown,639,16
+Phelps,ROLLA WARD 4,Justin Dan Brown,783,16
+Phelps,ROLLA WARD 5,Justin Dan Brown,387,16
+Phelps,ROLLA WARD 6,Justin Dan Brown,178,16
+Phelps,ROLLA OUTSIDE SOUTH,Justin Dan Brown,355,16
+Phelps,DOOLITTLE WARD 1,Justin Dan Brown,378,16
+Phelps,NEWBURG WARD 1,Justin Dan Brown,156,16
+Phelps,EDGAR SPRINGS NORTH,Justin Dan Brown,613,16
+Phelps,DAWSON,Justin Dan Brown,810,16
+Phelps,MERAMEC NORTH & SOUTH,Justin Dan Brown,843,16
+Phelps,MILLER EAST,Justin Dan Brown,941,16
+Phelps,ABSENTEE,Justin Dan Brown,731,16
+Phelps,JEROME,Ryan Dillon,34,16
+Phelps,DILLON CENTRAL,Ryan Dillon,497,16
+Phelps,DILLON NORTH,Ryan Dillon,179,16
+Phelps,DILLON SOUTH,Ryan Dillon,192,16
+Phelps,COLD SPRINGS EAST,Ryan Dillon,101,16
+Phelps,COLD SPRINGS WEST,Ryan Dillon,215,16
+Phelps,ROLLA WARD 1,Ryan Dillon,380,16
+Phelps,ROLLA WARD 2,Ryan Dillon,373,16
+Phelps,ROLLA WARD 3,Ryan Dillon,499,16
+Phelps,ROLLA WARD 4,Ryan Dillon,558,16
+Phelps,ROLLA WARD 5,Ryan Dillon,292,16
+Phelps,ROLLA WARD 6,Ryan Dillon,213,16
+Phelps,ROLLA OUTSIDE SOUTH,Ryan Dillon,167,16
+Phelps,DOOLITTLE WARD 1,Ryan Dillon,154,16
+Phelps,NEWBURG WARD 1,Ryan Dillon,88,16
+Phelps,EDGAR SPRINGS NORTH,Ryan Dillon,212,16
+Phelps,DAWSON,Ryan Dillon,416,16
+Phelps,MERAMEC NORTH & SOUTH,Ryan Dillon,436,16
+Phelps,MILLER EAST,Ryan Dillon,421,16
+Phelps,ABSENTEE,Ryan Dillon,481,16
+Pike,BUFFALO B,Cindy O'Laughlin,174,18
+Pike,BUFFALO C,Cindy O'Laughlin,226,18
+Pike,BUFFALO D,Cindy O'Laughlin,249,18
+Pike,BUFFALO E,Cindy O'Laughlin,266,18
+Pike,CALUMET F,Cindy O'Laughlin,271,18
+Pike,PRAIRIEVILLE I,Cindy O'Laughlin,396,18
+Pike,CUIVRE J-L,Cindy O'Laughlin,641,18
+Pike,CUIVRE K,Cindy O'Laughlin,437,18
+Pike,CUIVRE M,Cindy O'Laughlin,310,18
+Pike,INDIAN R-S,Cindy O'Laughlin,187,18
+Pike,SPENCER T-U,Cindy O'Laughlin,206,18
+Pike,PENO V,Cindy O'Laughlin,288,18
+Pike,ASHLEY NO/HARTFORD PQ,Cindy O'Laughlin,301,18
+Pike,FEDERAL,Cindy O'Laughlin,0,18
+Pike,ABSENTEE,Cindy O'Laughlin,227,18
+Pike,BUFFALO B,Crystal Stephens,138,18
+Pike,BUFFALO C,Crystal Stephens,120,18
+Pike,BUFFALO D,Crystal Stephens,170,18
+Pike,BUFFALO E,Crystal Stephens,179,18
+Pike,CALUMET F,Crystal Stephens,141,18
+Pike,PRAIRIEVILLE I,Crystal Stephens,121,18
+Pike,CUIVRE J-L,Crystal Stephens,266,18
+Pike,CUIVRE K,Crystal Stephens,168,18
+Pike,CUIVRE M,Crystal Stephens,138,18
+Pike,INDIAN R-S,Crystal Stephens,55,18
+Pike,SPENCER T-U,Crystal Stephens,52,18
+Pike,PENO V,Crystal Stephens,142,18
+Pike,ASHLEY NO/HARTFORD PQ,Crystal Stephens,100,18
+Pike,FEDERAL,Crystal Stephens,0,18
+Pike,ABSENTEE,Crystal Stephens,136,18
+Platte,05 PARKVILLE,Tony Luetkemeyer,1568,34
+Platte,06 PAR 4,Tony Luetkemeyer,1082,34
+Platte,09 LAKE WAUKOMIS,Tony Luetkemeyer,287,34
+Platte,10 WEATHERBY LAKE,Tony Luetkemeyer,607,34
+Platte,12 FARLEY,Tony Luetkemeyer,205,34
+Platte,13 HAMPTON WEST,Tony Luetkemeyer,1077,34
+Platte,14 PLATTE CITY,Tony Luetkemeyer,785,34
+Platte,27 CAMDEN POINT,Tony Luetkemeyer,290,34
+Platte,34 BARRY EAST,Tony Luetkemeyer,914,34
+Platte,35 NORTHERN HEIGHTS,Tony Luetkemeyer,780,34
+Platte,38 LINE CREEK,Tony Luetkemeyer,845,34
+Platte,40 BARRY NORTH,Tony Luetkemeyer,863,34
+Platte,41 PARK HILL NORTH,Tony Luetkemeyer,823,34
+Platte,42 BARRY SOUTH,Tony Luetkemeyer,796,34
+Platte,11 EMBASSY,Tony Luetkemeyer,477,34
+Platte,44 SEVEN BRIDGES,Tony Luetkemeyer,1591,34
+Platte,01 RIVERSIDE/03 NORTHMOOR,Tony Luetkemeyer,833,34
+Platte,02 PRAIRIE POINT/32 TIFFANY SPRINGS,Tony Luetkemeyer,1149,34
+Platte,04 HOUSTON LAKE/37 SOUTHEAST,Tony Luetkemeyer,972,34
+Platte,07 PLATTE HILLS/15 HAMPTON EAST,Tony Luetkemeyer,798,34
+Platte,08 PLATTE WOODS/36 PARK HILL,Tony Luetkemeyer,475,34
+Platte,16 BEVERLY/17 TRACY/28 SETTLES STATION,Tony Luetkemeyer,313,34
+Platte,18/19 WESTON ET AL,Tony Luetkemeyer,817,34
+Platte,23 NEW MARKET/24 DEARBORN,Tony Luetkemeyer,313,34
+Platte,25 EDGERTON/26 RIDGELY,Tony Luetkemeyer,507,34
+Platte,29 HOOVER/43 SHILOH,Tony Luetkemeyer,917,34
+Platte,30 FERRELVIEW/31 MID-CONTINENT/33 LINKVILLE,Tony Luetkemeyer,619,34
+Platte,ABSENTEE,Tony Luetkemeyer,2048,34
+Platte,05 PARKVILLE,Martin T. Rucker II,1299,34
+Platte,06 PAR 4,Martin T. Rucker II,1068,34
+Platte,09 LAKE WAUKOMIS,Martin T. Rucker II,265,34
+Platte,10 WEATHERBY LAKE,Martin T. Rucker II,565,34
+Platte,12 FARLEY,Martin T. Rucker II,107,34
+Platte,13 HAMPTON WEST,Martin T. Rucker II,702,34
+Platte,14 PLATTE CITY,Martin T. Rucker II,618,34
+Platte,27 CAMDEN POINT,Martin T. Rucker II,141,34
+Platte,34 BARRY EAST,Martin T. Rucker II,1045,34
+Platte,35 NORTHERN HEIGHTS,Martin T. Rucker II,916,34
+Platte,38 LINE CREEK,Martin T. Rucker II,1184,34
+Platte,40 BARRY NORTH,Martin T. Rucker II,1178,34
+Platte,41 PARK HILL NORTH,Martin T. Rucker II,920,34
+Platte,42 BARRY SOUTH,Martin T. Rucker II,847,34
+Platte,11 EMBASSY,Martin T. Rucker II,576,34
+Platte,44 SEVEN BRIDGES,Martin T. Rucker II,858,34
+Platte,01 RIVERSIDE/03 NORTHMOOR,Martin T. Rucker II,888,34
+Platte,02 PRAIRIE POINT/32 TIFFANY SPRINGS,Martin T. Rucker II,1469,34
+Platte,04 HOUSTON LAKE/37 SOUTHEAST,Martin T. Rucker II,1292,34
+Platte,07 PLATTE HILLS/15 HAMPTON EAST,Martin T. Rucker II,726,34
+Platte,08 PLATTE WOODS/36 PARK HILL,Martin T. Rucker II,592,34
+Platte,16 BEVERLY/17 TRACY/28 SETTLES STATION,Martin T. Rucker II,145,34
+Platte,18/19 WESTON ET AL,Martin T. Rucker II,587,34
+Platte,23 NEW MARKET/24 DEARBORN,Martin T. Rucker II,190,34
+Platte,25 EDGERTON/26 RIDGELY,Martin T. Rucker II,215,34
+Platte,29 HOOVER/43 SHILOH,Martin T. Rucker II,411,34
+Platte,30 FERRELVIEW/31 MID-CONTINENT/33 LINKVILLE,Martin T. Rucker II,451,34
+Platte,ABSENTEE,Martin T. Rucker II,1858,34
+Polk,NORTH BENTON,Sandy Crawford,556,28
+Polk,NORTH GREENE,Sandy Crawford,357,28
+Polk,JACKSON,Sandy Crawford,293,28
+Polk,JOHNSON,Sandy Crawford,566,28
+Polk,EAST LOONEY,Sandy Crawford,423,28
+Polk,WEST LOONEY,Sandy Crawford,467,28
+Polk,EAST MADISON,Sandy Crawford,466,28
+Polk,NORTHEAST MARION,Sandy Crawford,1255,28
+Polk,NORTHWEST MARION,Sandy Crawford,1362,28
+Polk,SOUTHEAST MARION,Sandy Crawford,834,28
+Polk,SOUTHWEST MARION,Sandy Crawford,821,28
+Polk,MOONEY,Sandy Crawford,894,28
+Polk,UNION,Sandy Crawford,181,28
+Polk,ABSENTEE,Sandy Crawford,792,28
+Polk,FEDERAL,Sandy Crawford,2,28
+Polk,NORTH BENTON,Joe Poor,62,28
+Polk,NORTH GREENE,Joe Poor,88,28
+Polk,JACKSON,Joe Poor,87,28
+Polk,JOHNSON,Joe Poor,143,28
+Polk,EAST LOONEY,Joe Poor,146,28
+Polk,WEST LOONEY,Joe Poor,102,28
+Polk,EAST MADISON,Joe Poor,102,28
+Polk,NORTHEAST MARION,Joe Poor,304,28
+Polk,NORTHWEST MARION,Joe Poor,257,28
+Polk,SOUTHEAST MARION,Joe Poor,202,28
+Polk,SOUTHWEST MARION,Joe Poor,186,28
+Polk,MOONEY,Joe Poor,304,28
+Polk,UNION,Joe Poor,51,28
+Polk,ABSENTEE,Joe Poor,241,28
+Pulaski,BIG PINEY,Justin Dan Brown,92,16
+Pulaski,CROCKER,Justin Dan Brown,901,16
+Pulaski,DIXON,Justin Dan Brown,1186,16
+Pulaski,LAQUEY,Justin Dan Brown,909,16
+Pulaski,RICHLAND,Justin Dan Brown,505,16
+Pulaski,ST ROBERT,Justin Dan Brown,1576,16
+Pulaski,SWEDEBORG,Justin Dan Brown,170,16
+Pulaski,WAYNESVILLE,Justin Dan Brown,1537,16
+Pulaski,ABSENTEE,Justin Dan Brown,787,16
+Pulaski,BIG PINEY,Ryan Dillon,30,16
+Pulaski,CROCKER,Ryan Dillon,207,16
+Pulaski,DIXON,Ryan Dillon,292,16
+Pulaski,LAQUEY,Ryan Dillon,273,16
+Pulaski,RICHLAND,Ryan Dillon,203,16
+Pulaski,ST ROBERT,Ryan Dillon,832,16
+Pulaski,SWEDEBORG,Ryan Dillon,55,16
+Pulaski,WAYNESVILLE,Ryan Dillon,726,16
+Pulaski,ABSENTEE,Ryan Dillon,362,16
+Putnam,EL ELM(WORTHINGTON/MARTINSTOWN,Dan Hegeman,159,12
+Putnam,GR GRANT,Dan Hegeman,51,12
+Putnam,LB LIBERTY,Dan Hegeman,72,12
+Putnam,LI LINCOLN,Dan Hegeman,108,12
+Putnam,ME MEDICINE,Dan Hegeman,61,12
+Putnam,YO YORK,Dan Hegeman,67,12
+Putnam,UNION NE,Dan Hegeman,430,12
+Putnam,UNION SW,Dan Hegeman,378,12
+Putnam,ABSENTEE,Dan Hegeman,188,12
+Putnam,EL ELM(WORTHINGTON/MARTINSTOWN,Terry Richard,29,12
+Putnam,GR GRANT,Terry Richard,16,12
+Putnam,LB LIBERTY,Terry Richard,14,12
+Putnam,LI LINCOLN,Terry Richard,11,12
+Putnam,ME MEDICINE,Terry Richard,4,12
+Putnam,YO YORK,Terry Richard,17,12
+Putnam,UNION NE,Terry Richard,116,12
+Putnam,UNION SW,Terry Richard,80,12
+Putnam,ABSENTEE,Terry Richard,47,12
+Ralls,SAVERTON,Cindy O'Laughlin,622,18
+Ralls,OAKWOOD,Cindy O'Laughlin,742,18
+Ralls,CENTER,Cindy O'Laughlin,361,18
+Ralls,LIBERTY,Cindy O'Laughlin,110,18
+Ralls,PERRY,Cindy O'Laughlin,364,18
+Ralls,HASSARD,Cindy O'Laughlin,196,18
+Ralls,SPENCER,Cindy O'Laughlin,434,18
+Ralls,ABSENTEE,Cindy O'Laughlin,239,18
+Ralls,SAVERTON,Crystal Stephens,220,18
+Ralls,OAKWOOD,Crystal Stephens,237,18
+Ralls,CENTER,Crystal Stephens,113,18
+Ralls,LIBERTY,Crystal Stephens,24,18
+Ralls,PERRY,Crystal Stephens,176,18
+Ralls,HASSARD,Crystal Stephens,116,18
+Ralls,SPENCER,Crystal Stephens,227,18
+Ralls,ABSENTEE,Crystal Stephens,124,18
+Randolph,CLARK,Cindy O'Laughlin,216,18
+Randolph,RENICK,Cindy O'Laughlin,396,18
+Randolph,SOUTH SUGAR CREEK,Cindy O'Laughlin,443,18
+Randolph,CAIRO/JACKSONVILLE,Cindy O'Laughlin,644,18
+Randolph,CLIFTON HILL/TH,Cindy O'Laughlin,117,18
+Randolph,HIGBEE/YATES,Cindy O'Laughlin,326,18
+Randolph,HUNTSVILLE/WESTRAN HS,Cindy O'Laughlin,394,18
+Randolph,MOBERLY/JEFF. AVE.,Cindy O'Laughlin,382,18
+Randolph,MOBERLY/CITY HALL,Cindy O'Laughlin,404,18
+Randolph,MOBERLY/YMCA,Cindy O'Laughlin,707,18
+Randolph,MOBERLY/MACC,Cindy O'Laughlin,698,18
+Randolph,MOBERLY/IMMANUEL,Cindy O'Laughlin,290,18
+Randolph,SALT SPRINGS/WESTRAN HS,Cindy O'Laughlin,482,18
+Randolph,UNION/N. SUGAR CRK FAMILY LIFE,Cindy O'Laughlin,489,18
+Randolph,ABSENTEE,Cindy O'Laughlin,334,18
+Randolph,CLARK,Crystal Stephens,51,18
+Randolph,RENICK,Crystal Stephens,167,18
+Randolph,SOUTH SUGAR CREEK,Crystal Stephens,115,18
+Randolph,CAIRO/JACKSONVILLE,Crystal Stephens,151,18
+Randolph,CLIFTON HILL/TH,Crystal Stephens,28,18
+Randolph,HIGBEE/YATES,Crystal Stephens,103,18
+Randolph,HUNTSVILLE/WESTRAN HS,Crystal Stephens,116,18
+Randolph,MOBERLY/JEFF. AVE.,Crystal Stephens,253,18
+Randolph,MOBERLY/CITY HALL,Crystal Stephens,196,18
+Randolph,MOBERLY/YMCA,Crystal Stephens,329,18
+Randolph,MOBERLY/MACC,Crystal Stephens,302,18
+Randolph,MOBERLY/IMMANUEL,Crystal Stephens,168,18
+Randolph,SALT SPRINGS/WESTRAN HS,Crystal Stephens,119,18
+Randolph,UNION/N. SUGAR CRK FAMILY LIFE,Crystal Stephens,135,18
+Randolph,ABSENTEE,Crystal Stephens,163,18
+Schuyler,DOWNING,Cindy O'Laughlin,204,18
+Schuyler,GREENTOP,Cindy O'Laughlin,161,18
+Schuyler,LIBERTY/GLENWOOD,Cindy O'Laughlin,424,18
+Schuyler,PRAIRIE,Cindy O'Laughlin,283,18
+Schuyler,ABSENTEE,Cindy O'Laughlin,90,18
+Schuyler,DOWNING,Crystal Stephens,87,18
+Schuyler,GREENTOP,Crystal Stephens,58,18
+Schuyler,LIBERTY/GLENWOOD,Crystal Stephens,136,18
+Schuyler,PRAIRIE,Crystal Stephens,85,18
+Schuyler,ABSENTEE,Crystal Stephens,51,18
+Scotland,EAST JEFFERSON-TOBIN,Cindy O'Laughlin,337,18
+Scotland,THOMSON-ARBELA-JOHNSON,Cindy O'Laughlin,106,18
+Scotland,THOMSON-GRANGER,Cindy O'Laughlin,21,18
+Scotland,HARRISON,Cindy O'Laughlin,55,18
+Scotland,SANDHILL,Cindy O'Laughlin,64,18
+Scotland,MT. PLEASANT,Cindy O'Laughlin,32,18
+Scotland,ABSENTEE,Cindy O'Laughlin,107,18
+Scotland,WEST JEFFERSON/MILLER/VEST/UNION,Cindy O'Laughlin,463,18
+Scotland,EAST JEFFERSON-TOBIN,Crystal Stephens,107,18
+Scotland,THOMSON-ARBELA-JOHNSON,Crystal Stephens,21,18
+Scotland,THOMSON-GRANGER,Crystal Stephens,3,18
+Scotland,HARRISON,Crystal Stephens,24,18
+Scotland,SANDHILL,Crystal Stephens,51,18
+Scotland,MT. PLEASANT,Crystal Stephens,7,18
+Scotland,ABSENTEE,Crystal Stephens,53,18
+Scotland,WEST JEFFERSON/MILLER/VEST/UNION,Crystal Stephens,113,18
+Shelby,LEONARD,Cindy O'Laughlin,96,18
+Shelby,BETHEL/TIGER FORK,Cindy O'Laughlin,289,18
+Shelby,HUNNEWELL,Cindy O'Laughlin,113,18
+Shelby,CLARENCE,Cindy O'Laughlin,352,18
+Shelby,SHELBINA EAST/WEST/LENTNER,Cindy O'Laughlin,730,18
+Shelby,SHELBYVILLE/EMDEN/BLKCR/NRTH RIV,Cindy O'Laughlin,268,18
+Shelby,ABSENTEE,Cindy O'Laughlin,140,18
+Shelby,LEONARD,Crystal Stephens,47,18
+Shelby,BETHEL/TIGER FORK,Crystal Stephens,66,18
+Shelby,HUNNEWELL,Crystal Stephens,33,18
+Shelby,CLARENCE,Crystal Stephens,124,18
+Shelby,SHELBINA EAST/WEST/LENTNER,Crystal Stephens,240,18
+Shelby,SHELBYVILLE/EMDEN/BLKCR/NRTH RIV,Crystal Stephens,118,18
+Shelby,ABSENTEE,Crystal Stephens,85,18
+St. Charles,226 HOPEWELL,Bob Onder,686,2
+St. Charles,219 WESTFIELD,Bob Onder,708,2
+St. Charles,203 FIELDCREST,Bob Onder,794,2
+St. Charles,208 TWIN CHIMNEYS,Bob Onder,699,2
+St. Charles,207 CARRIAGE HILLS,Bob Onder,979,2
+St. Charles,183 FORISTELL,Bob Onder,670,2
+St. Charles,187 FAIRVIEW,Bob Onder,1473,2
+St. Charles,186 TWIN OAKS,Bob Onder,1023,2
+St. Charles,185 JOSEPHVILLE,Bob Onder,649,2
+St. Charles,184 FLINT HILL,Bob Onder,1333,2
+St. Charles,182 EVERGREEN,Bob Onder,767,2
+St. Charles,181 COMMUNITY,Bob Onder,2122,2
+St. Charles,221 WELDON SPRINGS,Bob Onder,256,2
+St. Charles,189 PIONEER,Bob Onder,944,2
+St. Charles,091 KATY TRAIL,Bob Onder,0,2
+St. Charles,196 PHOENIX,Bob Onder,630,2
+St. Charles,197 FEISE,Bob Onder,1130,2
+St. Charles,193 DELMAR,Bob Onder,424,2
+St. Charles,217 KEYSTONE,Bob Onder,497,2
+St. Charles,190 PEINE,Bob Onder,953,2
+St. Charles,194 AMBER MEADOWS,Bob Onder,666,2
+St. Charles,212 CANVAS COVE,Bob Onder,551,2
+St. Charles,199 REGATTA BAY,Bob Onder,1462,2
+St. Charles,198 CEDAR,Bob Onder,431,2
+St. Charles,169 HIGHGROVE,Bob Onder,1329,2
+St. Charles,051 ST CLETUS,Bob Onder,0,2
+St. Charles,161 MONTBROOK,Bob Onder,306,2
+St. Charles,160 HARMONY,Bob Onder,351,2
+St. Charles,163 CIVIC,Bob Onder,1069,2
+St. Charles,162 ELKS,Bob Onder,985,2
+St. Charles,165 ST. PAUL,Bob Onder,1040,2
+St. Charles,167 MORNINGSIDE,Bob Onder,419,2
+St. Charles,166 MOUNT HOPE,Bob Onder,643,2
+St. Charles,205 BAYFIELD,Bob Onder,464,2
+St. Charles,206 MONTICELLO,Bob Onder,1302,2
+St. Charles,200 NORMANDY,Bob Onder,1095,2
+St. Charles,202 RIDGEPOINT,Bob Onder,886,2
+St. Charles,173 TURTLE CREEK,Bob Onder,995,2
+St. Charles,170 STARBUCK,Bob Onder,766,2
+St. Charles,149 SUNNY HILL,Bob Onder,639,2
+St. Charles,148 WINDS,Bob Onder,469,2
+St. Charles,140 LAURA HILLS,Bob Onder,822,2
+St. Charles,147 COTTLEVILLE,Bob Onder,766,2
+St. Charles,145 SALT LICK,Bob Onder,575,2
+St. Charles,229 CALLAWAY,Bob Onder,1147,2
+St. Charles,225 AUGUSTA,Bob Onder,525,2
+St. Charles,222 NEW MELLE,Bob Onder,907,2
+St. Charles,153 ASPEN,Bob Onder,482,2
+St. Charles,150 TIMBERWOOD,Bob Onder,461,2
+St. Charles,151 GLENGATE,Bob Onder,295,2
+St. Charles,152 WOODGLEN,Bob Onder,847,2
+St. Charles,159 HILLCREST,Bob Onder,716,2
+St. Charles,157 PATRIOT,Bob Onder,597,2
+St. Charles,218 DUVALL,Bob Onder,636,2
+St. Charles,215 COACHMAN,Bob Onder,601,2
+St. Charles,214 HAWK RIDGE,Bob Onder,1430,2
+St. Charles,129 PARKWOOD,Bob Onder,565,2
+St. Charles,211 SUMMERSET,Bob Onder,586,2
+St. Charles,210 FREYMUTH,Bob Onder,1283,2
+St. Charles,126 MEADOW VALLEY,Bob Onder,45,2
+St. Charles,121 ST MARYS,Bob Onder,354,2
+St. Charles,122 MID RIVERS,Bob Onder,425,2
+St. Charles,130 LAKES,Bob Onder,13,2
+St. Charles,139 DISCOVERY,Bob Onder,454,2
+St. Charles,213 BRYAN,Bob Onder,411,2
+St. Charles,ABSENTEE,Bob Onder,4649,2
+St. Charles,226 HOPEWELL,Patrice Billings,396,2
+St. Charles,219 WESTFIELD,Patrice Billings,411,2
+St. Charles,203 FIELDCREST,Patrice Billings,444,2
+St. Charles,208 TWIN CHIMNEYS,Patrice Billings,551,2
+St. Charles,207 CARRIAGE HILLS,Patrice Billings,588,2
+St. Charles,183 FORISTELL,Patrice Billings,387,2
+St. Charles,187 FAIRVIEW,Patrice Billings,885,2
+St. Charles,186 TWIN OAKS,Patrice Billings,722,2
+St. Charles,185 JOSEPHVILLE,Patrice Billings,299,2
+St. Charles,184 FLINT HILL,Patrice Billings,812,2
+St. Charles,182 EVERGREEN,Patrice Billings,662,2
+St. Charles,181 COMMUNITY,Patrice Billings,1501,2
+St. Charles,221 WELDON SPRINGS,Patrice Billings,117,2
+St. Charles,189 PIONEER,Patrice Billings,446,2
+St. Charles,091 KATY TRAIL,Patrice Billings,0,2
+St. Charles,196 PHOENIX,Patrice Billings,357,2
+St. Charles,197 FEISE,Patrice Billings,758,2
+St. Charles,193 DELMAR,Patrice Billings,353,2
+St. Charles,217 KEYSTONE,Patrice Billings,485,2
+St. Charles,190 PEINE,Patrice Billings,611,2
+St. Charles,194 AMBER MEADOWS,Patrice Billings,427,2
+St. Charles,212 CANVAS COVE,Patrice Billings,442,2
+St. Charles,199 REGATTA BAY,Patrice Billings,776,2
+St. Charles,198 CEDAR,Patrice Billings,365,2
+St. Charles,169 HIGHGROVE,Patrice Billings,1008,2
+St. Charles,051 ST CLETUS,Patrice Billings,0,2
+St. Charles,161 MONTBROOK,Patrice Billings,294,2
+St. Charles,160 HARMONY,Patrice Billings,355,2
+St. Charles,163 CIVIC,Patrice Billings,721,2
+St. Charles,162 ELKS,Patrice Billings,767,2
+St. Charles,165 ST. PAUL,Patrice Billings,451,2
+St. Charles,167 MORNINGSIDE,Patrice Billings,334,2
+St. Charles,166 MOUNT HOPE,Patrice Billings,442,2
+St. Charles,205 BAYFIELD,Patrice Billings,382,2
+St. Charles,206 MONTICELLO,Patrice Billings,937,2
+St. Charles,200 NORMANDY,Patrice Billings,630,2
+St. Charles,202 RIDGEPOINT,Patrice Billings,523,2
+St. Charles,173 TURTLE CREEK,Patrice Billings,740,2
+St. Charles,170 STARBUCK,Patrice Billings,519,2
+St. Charles,149 SUNNY HILL,Patrice Billings,485,2
+St. Charles,148 WINDS,Patrice Billings,379,2
+St. Charles,140 LAURA HILLS,Patrice Billings,754,2
+St. Charles,147 COTTLEVILLE,Patrice Billings,543,2
+St. Charles,145 SALT LICK,Patrice Billings,477,2
+St. Charles,229 CALLAWAY,Patrice Billings,582,2
+St. Charles,225 AUGUSTA,Patrice Billings,305,2
+St. Charles,222 NEW MELLE,Patrice Billings,467,2
+St. Charles,153 ASPEN,Patrice Billings,335,2
+St. Charles,150 TIMBERWOOD,Patrice Billings,242,2
+St. Charles,151 GLENGATE,Patrice Billings,323,2
+St. Charles,152 WOODGLEN,Patrice Billings,617,2
+St. Charles,159 HILLCREST,Patrice Billings,561,2
+St. Charles,157 PATRIOT,Patrice Billings,384,2
+St. Charles,218 DUVALL,Patrice Billings,345,2
+St. Charles,215 COACHMAN,Patrice Billings,449,2
+St. Charles,214 HAWK RIDGE,Patrice Billings,1017,2
+St. Charles,129 PARKWOOD,Patrice Billings,376,2
+St. Charles,211 SUMMERSET,Patrice Billings,384,2
+St. Charles,210 FREYMUTH,Patrice Billings,635,2
+St. Charles,126 MEADOW VALLEY,Patrice Billings,19,2
+St. Charles,121 ST MARYS,Patrice Billings,306,2
+St. Charles,122 MID RIVERS,Patrice Billings,379,2
+St. Charles,130 LAKES,Patrice Billings,3,2
+St. Charles,139 DISCOVERY,Patrice Billings,380,2
+St. Charles,213 BRYAN,Patrice Billings,401,2
+St. Charles,ABSENTEE,Patrice Billings,3212,2
+St. Clair,JACKSON,Sandy Crawford,187,28
+St. Clair,ABSENTEE,Sandy Crawford,205,28
+St. Clair,APPLETON,Sandy Crawford,406,28
+St. Clair,BUTLER,Sandy Crawford,433,28
+St. Clair,COLLINS/WASHINGTON,Sandy Crawford,342,28
+St. Clair,DOYAL/DALLAS,Sandy Crawford,313,28
+St. Clair,MONEGAW/OSAGE,Sandy Crawford,166,28
+St. Clair,OSCEOLA/POLK,Sandy Crawford,537,28
+St. Clair,ROSCOE/CENTER,Sandy Crawford,225,28
+St. Clair,SPEEDWELL/TABER,Sandy Crawford,296,28
+St. Clair,JACKSON,Joe Poor,89,28
+St. Clair,ABSENTEE,Joe Poor,97,28
+St. Clair,APPLETON,Joe Poor,124,28
+St. Clair,BUTLER,Joe Poor,144,28
+St. Clair,COLLINS/WASHINGTON,Joe Poor,74,28
+St. Clair,DOYAL/DALLAS,Joe Poor,81,28
+St. Clair,MONEGAW/OSAGE,Joe Poor,24,28
+St. Clair,OSCEOLA/POLK,Joe Poor,193,28
+St. Clair,ROSCOE/CENTER,Joe Poor,84,28
+St. Clair,SPEEDWELL/TABER,Joe Poor,40,28
+St. Louis City,W 01 P 01,Robert Crump,15,4
+St. Louis City,W 01 P 01,Karla May,455,4
+St. Louis City,W 01 P 02,Robert Crump,13,4
+St. Louis City,W 01 P 02,Karla May,459,4
+St. Louis City,W 01 P 05,Robert Crump,9,4
+St. Louis City,W 01 P 05,Karla May,553,4
+St. Louis City,W 01 P 06,Robert Crump,13,4
+St. Louis City,W 01 P 06,Karla May,579,4
+St. Louis City,W 02 P 03,Robert Crump,41,4
+St. Louis City,W 02 P 03,Karla May,504,4
+St. Louis City,W 02 P 05,Robert Crump,14,4
+St. Louis City,W 02 P 05,Karla May,614,4
+St. Louis City,W 02 P 07,Robert Crump,17,4
+St. Louis City,W 02 P 07,Karla May,564,4
+St. Louis City,W 02 P 08,Robert Crump,19,4
+St. Louis City,W 02 P 08,Karla May,578,4
+St. Louis City,W 04 P 04,Robert Crump,19,4
+St. Louis City,W 04 P 04,Karla May,431,4
+St. Louis City,W 04 P 08,Robert Crump,0,4
+St. Louis City,W 04 P 08,Karla May,67,4
+St. Louis City,W 04 P 09,Robert Crump,1,4
+St. Louis City,W 04 P 09,Karla May,79,4
+St. Louis City,W 08 P 02,Robert Crump,106,4
+St. Louis City,W 08 P 02,Karla May,434,4
+St. Louis City,W 10 P 01,Robert Crump,217,4
+St. Louis City,W 10 P 01,Karla May,709,4
+St. Louis City,W 10 P 02,Robert Crump,252,4
+St. Louis City,W 10 P 02,Karla May,453,4
+St. Louis City,W 10 P 03,Robert Crump,237,4
+St. Louis City,W 10 P 03,Karla May,411,4
+St. Louis City,W 10 P 04,Robert Crump,133,4
+St. Louis City,W 10 P 04,Karla May,655,4
+St. Louis City,W 10 P 05,Robert Crump,116,4
+St. Louis City,W 10 P 05,Karla May,610,4
+St. Louis City,W 10 P 06,Robert Crump,46,4
+St. Louis City,W 10 P 06,Karla May,105,4
+St. Louis City,W 10 P 09,Robert Crump,3,4
+St. Louis City,W 10 P 09,Karla May,17,4
+St. Louis City,W 10 P 10,Robert Crump,23,4
+St. Louis City,W 10 P 10,Karla May,94,4
+St. Louis City,W 11 P 02,Robert Crump,163,4
+St. Louis City,W 11 P 02,Karla May,573,4
+St. Louis City,W 12 P 01,Robert Crump,204,4
+St. Louis City,W 12 P 01,Karla May,231,4
+St. Louis City,W 12 P 02,Robert Crump,401,4
+St. Louis City,W 12 P 02,Karla May,538,4
+St. Louis City,W 12 P 03,Robert Crump,161,4
+St. Louis City,W 12 P 03,Karla May,347,4
+St. Louis City,W 12 P 04,Robert Crump,330,4
+St. Louis City,W 12 P 04,Karla May,630,4
+St. Louis City,W 12 P 05,Robert Crump,334,4
+St. Louis City,W 12 P 05,Karla May,783,4
+St. Louis City,W 12 P 06,Robert Crump,353,4
+St. Louis City,W 12 P 06,Karla May,709,4
+St. Louis City,W 13 P 01,Robert Crump,232,4
+St. Louis City,W 13 P 01,Karla May,757,4
+St. Louis City,W 13 P 02,Robert Crump,355,4
+St. Louis City,W 13 P 02,Karla May,720,4
+St. Louis City,W 13 P 04,Robert Crump,269,4
+St. Louis City,W 13 P 04,Karla May,636,4
+St. Louis City,W 13 P 06,Robert Crump,159,4
+St. Louis City,W 13 P 06,Karla May,503,4
+St. Louis City,W 14 P 01,Robert Crump,172,4
+St. Louis City,W 14 P 01,Karla May,518,4
+St. Louis City,W 14 P 02,Robert Crump,82,4
+St. Louis City,W 14 P 02,Karla May,371,4
+St. Louis City,W 14 P 03,Robert Crump,98,4
+St. Louis City,W 14 P 03,Karla May,439,4
+St. Louis City,W 14 P 04,Robert Crump,190,4
+St. Louis City,W 14 P 04,Karla May,685,4
+St. Louis City,W 14 P 07,Robert Crump,18,4
+St. Louis City,W 14 P 07,Karla May,49,4
+St. Louis City,W 15 P 07,Robert Crump,0,4
+St. Louis City,W 15 P 07,Karla May,1,4
+St. Louis City,W 16 P 01,Robert Crump,293,4
+St. Louis City,W 16 P 01,Karla May,464,4
+St. Louis City,W 16 P 02,Robert Crump,345,4
+St. Louis City,W 16 P 02,Karla May,568,4
+St. Louis City,W 16 P 03,Robert Crump,246,4
+St. Louis City,W 16 P 03,Karla May,631,4
+St. Louis City,W 16 P 04,Robert Crump,354,4
+St. Louis City,W 16 P 04,Karla May,541,4
+St. Louis City,W 16 P 05,Robert Crump,228,4
+St. Louis City,W 16 P 05,Karla May,652,4
+St. Louis City,W 16 P 06,Robert Crump,273,4
+St. Louis City,W 16 P 06,Karla May,497,4
+St. Louis City,W 16 P 07,Robert Crump,274,4
+St. Louis City,W 16 P 07,Karla May,486,4
+St. Louis City,W 16 P 08,Robert Crump,87,4
+St. Louis City,W 16 P 08,Karla May,225,4
+St. Louis City,W 17 P 03,Robert Crump,16,4
+St. Louis City,W 17 P 03,Karla May,151,4
+St. Louis City,W 17 P 06,Robert Crump,90,4
+St. Louis City,W 17 P 06,Karla May,889,4
+St. Louis City,W 18 P 04,Robert Crump,12,4
+St. Louis City,W 18 P 04,Karla May,459,4
+St. Louis City,W 18 P 05,Robert Crump,21,4
+St. Louis City,W 18 P 05,Karla May,478,4
+St. Louis City,W 18 P 06,Robert Crump,18,4
+St. Louis City,W 18 P 06,Karla May,477,4
+St. Louis City,W 21 P 08,Robert Crump,8,4
+St. Louis City,W 21 P 08,Karla May,316,4
+St. Louis City,W 22 P 01,Robert Crump,5,4
+St. Louis City,W 22 P 01,Karla May,173,4
+St. Louis City,W 22 P 02,Robert Crump,8,4
+St. Louis City,W 22 P 02,Karla May,446,4
+St. Louis City,W 22 P 03,Robert Crump,12,4
+St. Louis City,W 22 P 03,Karla May,515,4
+St. Louis City,W 22 P 04,Robert Crump,9,4
+St. Louis City,W 22 P 04,Karla May,428,4
+St. Louis City,W 22 P 05,Robert Crump,7,4
+St. Louis City,W 22 P 05,Karla May,324,4
+St. Louis City,W 22 P 06,Robert Crump,11,4
+St. Louis City,W 22 P 06,Karla May,531,4
+St. Louis City,W 22 P 07,Robert Crump,3,4
+St. Louis City,W 22 P 07,Karla May,198,4
+St. Louis City,W 22 P 08,Robert Crump,1,4
+St. Louis City,W 22 P 08,Karla May,60,4
+St. Louis City,W 23 P 01,Robert Crump,312,4
+St. Louis City,W 23 P 01,Karla May,699,4
+St. Louis City,W 23 P 02,Robert Crump,226,4
+St. Louis City,W 23 P 02,Karla May,602,4
+St. Louis City,W 23 P 03,Robert Crump,174,4
+St. Louis City,W 23 P 03,Karla May,361,4
+St. Louis City,W 23 P 04,Robert Crump,234,4
+St. Louis City,W 23 P 04,Karla May,581,4
+St. Louis City,W 23 P 05,Robert Crump,179,4
+St. Louis City,W 23 P 05,Karla May,468,4
+St. Louis City,W 23 P 06,Robert Crump,190,4
+St. Louis City,W 23 P 06,Karla May,428,4
+St. Louis City,W 23 P 07,Robert Crump,190,4
+St. Louis City,W 23 P 07,Karla May,518,4
+St. Louis City,W 23 P 08,Robert Crump,193,4
+St. Louis City,W 23 P 08,Karla May,447,4
+St. Louis City,W 23 P 09,Robert Crump,72,4
+St. Louis City,W 23 P 09,Karla May,116,4
+St. Louis City,W 24 P 01,Robert Crump,159,4
+St. Louis City,W 24 P 01,Karla May,612,4
+St. Louis City,W 24 P 02,Robert Crump,119,4
+St. Louis City,W 24 P 02,Karla May,411,4
+St. Louis City,W 24 P 03,Robert Crump,138,4
+St. Louis City,W 24 P 03,Karla May,373,4
+St. Louis City,W 24 P 04,Robert Crump,215,4
+St. Louis City,W 24 P 04,Karla May,535,4
+St. Louis City,W 24 P 05,Robert Crump,190,4
+St. Louis City,W 24 P 05,Karla May,571,4
+St. Louis City,W 24 P 06,Robert Crump,199,4
+St. Louis City,W 24 P 06,Karla May,642,4
+St. Louis City,W 24 P 07,Robert Crump,184,4
+St. Louis City,W 24 P 07,Karla May,535,4
+St. Louis City,W 24 P 08,Robert Crump,54,4
+St. Louis City,W 24 P 08,Karla May,219,4
+St. Louis City,W 26 P 01,Robert Crump,11,4
+St. Louis City,W 26 P 01,Karla May,463,4
+St. Louis City,W 26 P 02,Robert Crump,7,4
+St. Louis City,W 26 P 02,Karla May,312,4
+St. Louis City,W 26 P 03,Robert Crump,79,4
+St. Louis City,W 26 P 03,Karla May,1089,4
+St. Louis City,W 26 P 04,Robert Crump,22,4
+St. Louis City,W 26 P 04,Karla May,673,4
+St. Louis City,W 26 P 05,Robert Crump,26,4
+St. Louis City,W 26 P 05,Karla May,536,4
+St. Louis City,W 26 P 06,Robert Crump,32,4
+St. Louis City,W 26 P 06,Karla May,608,4
+St. Louis City,W 27 P 01,Robert Crump,15,4
+St. Louis City,W 27 P 01,Karla May,527,4
+St. Louis City,W 27 P 02,Robert Crump,10,4
+St. Louis City,W 27 P 02,Karla May,309,4
+St. Louis City,W 27 P 03,Robert Crump,12,4
+St. Louis City,W 27 P 03,Karla May,463,4
+St. Louis City,W 27 P 04,Robert Crump,13,4
+St. Louis City,W 27 P 04,Karla May,312,4
+St. Louis City,W 27 P 06,Robert Crump,7,4
+St. Louis City,W 27 P 06,Karla May,493,4
+St. Louis City,W 27 P 07,Robert Crump,11,4
+St. Louis City,W 27 P 07,Karla May,602,4
+St. Louis City,W 27 P 08,Robert Crump,7,4
+St. Louis City,W 27 P 08,Karla May,325,4
+St. Louis City,W 28 P 02,Robert Crump,62,4
+St. Louis City,W 28 P 02,Karla May,276,4
+St. Louis City,W 28 P 04,Robert Crump,80,4
+St. Louis City,W 28 P 04,Karla May,352,4
+St. Louis City,W 28 P 05,Robert Crump,81,4
+St. Louis City,W 28 P 05,Karla May,511,4
+St. Louis City,W 28 P 06,Robert Crump,71,4
+St. Louis City,W 28 P 06,Karla May,521,4
+St. Louis City,W 28 P 07,Robert Crump,76,4
+St. Louis City,W 28 P 07,Karla May,404,4
+St. Louis City,W 28 P 08,Robert Crump,106,4
+St. Louis City,W 28 P 08,Karla May,652,4
+St. Louis City,W 28 P 09,Robert Crump,66,4
+St. Louis City,W 28 P 09,Karla May,339,4
+St. Louis City,W 28 P 10,Robert Crump,142,4
+St. Louis City,W 28 P 10,Karla May,610,4
+St. Louis City,W 28 P 11,Robert Crump,71,4
+St. Louis City,W 28 P 11,Karla May,326,4
+St. Louis County,"CLA2,8",Robert J. Crump,207,4
+St. Louis County,"CLA9,17,27",Robert J. Crump,182,4
+St. Louis County,"CLA10,38,39",Robert J. Crump,304,4
+St. Louis County,"CLA19,20",Robert J. Crump,305,4
+St. Louis County,CLA30,Robert J. Crump,177,4
+St. Louis County,CLA31,Robert J. Crump,174,4
+St. Louis County,CLA32,Robert J. Crump,212,4
+St. Louis County,CLA35,Robert J. Crump,356,4
+St. Louis County,"GRA22,39",Robert J. Crump,558,4
+St. Louis County,HAD1,Robert J. Crump,445,4
+St. Louis County,"HAD3,19",Robert J. Crump,85,4
+St. Louis County,HAD5,Robert J. Crump,108,4
+St. Louis County,"HAD6,7,24",Robert J. Crump,326,4
+St. Louis County,"HAD13,20",Robert J. Crump,70,4
+St. Louis County,HAD15,Robert J. Crump,126,4
+St. Louis County,"HAD21,26",Robert J. Crump,346,4
+St. Louis County,"HAD22,23",Robert J. Crump,125,4
+St. Louis County,"HAD25,27",Robert J. Crump,153,4
+St. Louis County,"HAD28,29",Robert J. Crump,186,4
+St. Louis County,"HAD31 JEF9,11,15",Robert J. Crump,551,4
+St. Louis County,HAD32,Robert J. Crump,221,4
+St. Louis County,"JEF6,8,29",Robert J. Crump,539,4
+St. Louis County,"CLA2,8",Karla May,599,4
+St. Louis County,"CLA9,17,27",Karla May,350,4
+St. Louis County,"CLA10,38,39",Karla May,452,4
+St. Louis County,"CLA19,20",Karla May,398,4
+St. Louis County,CLA30,Karla May,262,4
+St. Louis County,CLA31,Karla May,279,4
+St. Louis County,CLA32,Karla May,173,4
+St. Louis County,CLA35,Karla May,393,4
+St. Louis County,"GRA22,39",Karla May,734,4
+St. Louis County,HAD1,Karla May,1214,4
+St. Louis County,"HAD3,19",Karla May,219,4
+St. Louis County,HAD5,Karla May,179,4
+St. Louis County,"HAD6,7,24",Karla May,618,4
+St. Louis County,"HAD13,20",Karla May,307,4
+St. Louis County,HAD15,Karla May,604,4
+St. Louis County,"HAD21,26",Karla May,603,4
+St. Louis County,"HAD22,23",Karla May,426,4
+St. Louis County,"HAD25,27",Karla May,630,4
+St. Louis County,"HAD28,29",Karla May,731,4
+St. Louis County,"HAD31 JEF9,11,15",Karla May,824,4
+St. Louis County,HAD32,Karla May,874,4
+St. Louis County,"JEF6,8,29",Karla May,823,4
+St. Louis County,"AP1,2,7,43",Brian Williams,576,14
+St. Louis County,"AP3,27 NRW2,8,15,29",Brian Williams,658,14
+St. Louis County,"AP5,18,21,39",Brian Williams,544,14
+St. Louis County,AP6,Brian Williams,4,14
+St. Louis County,"AP9,25",Brian Williams,243,14
+St. Louis County,AP10,Brian Williams,432,14
+St. Louis County,"AP14,15,16 NOR26",Brian Williams,863,14
+St. Louis County,"AP19 NW5,17",Brian Williams,567,14
+St. Louis County,"AP30,35",Brian Williams,91,14
+St. Louis County,AP36,Brian Williams,53,14
+St. Louis County,"AP38 NRW3,4",Brian Williams,835,14
+St. Louis County,"AP45,50,51 NOR20,21,24+",Brian Williams,979,14
+St. Louis County,AP48,Brian Williams,54,14
+St. Louis County,CLA1,Brian Williams,813,14
+St. Louis County,"CLA3,11,48",Brian Williams,1267,14
+St. Louis County,CLA4,Brian Williams,280,14
+St. Louis County,CLA29,Brian Williams,39,14
+St. Louis County,CLA43,Brian Williams,315,14
+St. Louis County,CLA44,Brian Williams,215,14
+St. Louis County,"FER3,13,15,24,44",Brian Williams,935,14
+St. Louis County,FER5,Brian Williams,625,14
+St. Louis County,"FER9,10,28,39 NRW9,26",Brian Williams,726,14
+St. Louis County,FER11,Brian Williams,158,14
+St. Louis County,"FER12,20,31,32",Brian Williams,746,14
+St. Louis County,"FER14,43",Brian Williams,313,14
+St. Louis County,"FER21,34,35",Brian Williams,949,14
+St. Louis County,"FER27,41 NRW39",Brian Williams,700,14
+St. Louis County,"FER33,38",Brian Williams,725,14
+St. Louis County,HAD4,Brian Williams,734,14
+St. Louis County,HAD8,Brian Williams,471,14
+St. Louis County,HAD9,Brian Williams,563,14
+St. Louis County,"HAD10,11",Brian Williams,739,14
+St. Louis County,HAD12,Brian Williams,719,14
+St. Louis County,HAD14,Brian Williams,478,14
+St. Louis County,"HAD16,34",Brian Williams,966,14
+St. Louis County,"HAD17,18",Brian Williams,214,14
+St. Louis County,HAD35 UNV20,Brian Williams,131,14
+St. Louis County,"MID10,18,55,60 UNV3",Brian Williams,475,14
+St. Louis County,MID20,Brian Williams,9,14
+St. Louis County,"MID25,30,32,38 NOR28,54",Brian Williams,393,14
+St. Louis County,"NOR1,2",Brian Williams,415,14
+St. Louis County,NOR3 UNV21,Brian Williams,417,14
+St. Louis County,"NOR4,10",Brian Williams,453,14
+St. Louis County,"NOR5,29",Brian Williams,804,14
+St. Louis County,"NOR6,7",Brian Williams,766,14
+St. Louis County,"NOR8,22,33",Brian Williams,202,14
+St. Louis County,"NOR9,37",Brian Williams,460,14
+St. Louis County,"NOR11,39,40,42",Brian Williams,786,14
+St. Louis County,"NOR12,13,17,18",Brian Williams,682,14
+St. Louis County,"NOR14,16,30,50",Brian Williams,987,14
+St. Louis County,"NOR15,35,49,55",Brian Williams,742,14
+St. Louis County,"NOR19,34 NRW50,51",Brian Williams,476,14
+St. Louis County,NOR31,Brian Williams,55,14
+St. Louis County,"NOR32,46,47",Brian Williams,128,14
+St. Louis County,NOR36,Brian Williams,211,14
+St. Louis County,NOR41,Brian Williams,184,14
+St. Louis County,"NOR43,52",Brian Williams,68,14
+St. Louis County,"NOR44 NRW35,40,41,47,49",Brian Williams,979,14
+St. Louis County,"NOR45,48,51",Brian Williams,773,14
+St. Louis County,"NRW1,27,30,31,36",Brian Williams,469,14
+St. Louis County,"NRW5,6",Brian Williams,513,14
+St. Louis County,"NRW7,17",Brian Williams,835,14
+St. Louis County,NRW10,Brian Williams,316,14
+St. Louis County,"NRW11,13",Brian Williams,560,14
+St. Louis County,"NRW12,20,24,33,37",Brian Williams,397,14
+St. Louis County,"NRW14,23,34,52",Brian Williams,509,14
+St. Louis County,NRW18,Brian Williams,255,14
+St. Louis County,NRW19,Brian Williams,537,14
+St. Louis County,NRW21,Brian Williams,633,14
+St. Louis County,NRW25,Brian Williams,299,14
+St. Louis County,NRW28,Brian Williams,134,14
+St. Louis County,"NRW32,48",Brian Williams,488,14
+St. Louis County,NRW38,Brian Williams,106,14
+St. Louis County,"NW3,16",Brian Williams,366,14
+St. Louis County,"NW9,22,46",Brian Williams,669,14
+St. Louis County,NW12,Brian Williams,299,14
+St. Louis County,"NW18,24,25,30,44",Brian Williams,499,14
+St. Louis County,"NW23,34",Brian Williams,592,14
+St. Louis County,"NW27,28",Brian Williams,24,14
+St. Louis County,NW32,Brian Williams,201,14
+St. Louis County,"NW36,42,50",Brian Williams,198,14
+St. Louis County,"NW39,51",Brian Williams,395,14
+St. Louis County,NW40,Brian Williams,489,14
+St. Louis County,"NW41,48",Brian Williams,808,14
+St. Louis County,"UNV1,10,17",Brian Williams,866,14
+St. Louis County,"UNV2,36",Brian Williams,706,14
+St. Louis County,UNV4,Brian Williams,720,14
+St. Louis County,"UNV5,6,7,8,9,11,12,13",Brian Williams,469,14
+St. Louis County,UNV14,Brian Williams,748,14
+St. Louis County,"UNV15,16",Brian Williams,807,14
+St. Louis County,"UNV18,19",Brian Williams,722,14
+St. Louis County,UNV22,Brian Williams,19,14
+St. Louis County,UNV23,Brian Williams,877,14
+St. Louis County,UNV24,Brian Williams,519,14
+St. Louis County,"UNV25,26",Brian Williams,806,14
+St. Louis County,UNV27,Brian Williams,829,14
+St. Louis County,"UNV28,34",Brian Williams,508,14
+St. Louis County,UNV29,Brian Williams,586,14
+St. Louis County,"UNV30,45",Brian Williams,399,14
+St. Louis County,UNV31,Brian Williams,475,14
+St. Louis County,UNV32,Brian Williams,82,14
+St. Louis County,"UNV33,39,40",Brian Williams,822,14
+St. Louis County,"UNV35,38,42",Brian Williams,954,14
+St. Louis County,UNV37,Brian Williams,313,14
+St. Louis County,UNV43,Brian Williams,223,14
+St. Louis County,UNV44,Brian Williams,8,14
+St. Louis County,AP4,Gregory B. Powers,40,24
+St. Louis County,"AP8,20",Gregory B. Powers,94,24
+St. Louis County,"AP11,24",Gregory B. Powers,100,24
+St. Louis County,"AP12,32",Gregory B. Powers,211,24
+St. Louis County,AP13,Gregory B. Powers,76,24
+St. Louis County,"AP17,23,26,42 NW14",Gregory B. Powers,505,24
+St. Louis County,"AP22 MID7,22",Gregory B. Powers,127,24
+St. Louis County,"AP28,47",Gregory B. Powers,165,24
+St. Louis County,"AP29,31,33",Gregory B. Powers,175,24
+St. Louis County,AP37,Gregory B. Powers,40,24
+St. Louis County,"AP40,46 MID42,46,56",Gregory B. Powers,315,24
+St. Louis County,AP41,Gregory B. Powers,133,24
+St. Louis County,AP44,Gregory B. Powers,54,24
+St. Louis County,AP49,Gregory B. Powers,143,24
+St. Louis County,"CC1,10",Gregory B. Powers,302,24
+St. Louis County,"CC2,7 MHT13,43",Gregory B. Powers,325,24
+St. Louis County,"CC3,4,5",Gregory B. Powers,269,24
+St. Louis County,"CC6,8",Gregory B. Powers,268,24
+St. Louis County,"CC9,11,16",Gregory B. Powers,286,24
+St. Louis County,"CC12,13,22,51 MID1,13,28+",Gregory B. Powers,231,24
+St. Louis County,CC14,Gregory B. Powers,333,24
+St. Louis County,CC15 CLA16,Gregory B. Powers,475,24
+St. Louis County,"CC17,30,38 MID57,58",Gregory B. Powers,123,24
+St. Louis County,"CC18, MID11",Gregory B. Powers,51,24
+St. Louis County,"CC19,34",Gregory B. Powers,310,24
+St. Louis County,"CC20,26 MHT54 MR2",Gregory B. Powers,551,24
+St. Louis County,"CC21,28,59",Gregory B. Powers,141,24
+St. Louis County,CC23,Gregory B. Powers,295,24
+St. Louis County,CC24,Gregory B. Powers,37,24
+St. Louis County,"CC25,29,40",Gregory B. Powers,214,24
+St. Louis County,"CC27,39 MR31",Gregory B. Powers,339,24
+St. Louis County,CC31,Gregory B. Powers,208,24
+St. Louis County,"CC32,45,56",Gregory B. Powers,29,24
+St. Louis County,"CC33,47,58",Gregory B. Powers,210,24
+St. Louis County,CC35,Gregory B. Powers,161,24
+St. Louis County,CC36,Gregory B. Powers,80,24
+St. Louis County,CC37,Gregory B. Powers,19,24
+St. Louis County,CC41,Gregory B. Powers,76,24
+St. Louis County,CC42,Gregory B. Powers,195,24
+St. Louis County,CC43 MID54,Gregory B. Powers,19,24
+St. Louis County,CC44,Gregory B. Powers,187,24
+St. Louis County,"CC46,52",Gregory B. Powers,186,24
+St. Louis County,CC48,Gregory B. Powers,5,24
+St. Louis County,"CC49 MHT50,53",Gregory B. Powers,566,24
+St. Louis County,CC50,Gregory B. Powers,135,24
+St. Louis County,CC53,Gregory B. Powers,274,24
+St. Louis County,CC54,Gregory B. Powers,19,24
+St. Louis County,CC55,Gregory B. Powers,99,24
+St. Louis County,"CC57 MID24,26,52,59 MHT18",Gregory B. Powers,222,24
+St. Louis County,CC60 MR39,Gregory B. Powers,254,24
+St. Louis County,CHE45 MHT16,Gregory B. Powers,186,24
+St. Louis County,CLA5,Gregory B. Powers,109,24
+St. Louis County,CLA7,Gregory B. Powers,138,24
+St. Louis County,"CLA12,26",Gregory B. Powers,169,24
+St. Louis County,"CLA13,14",Gregory B. Powers,405,24
+St. Louis County,"CLA18,37",Gregory B. Powers,358,24
+St. Louis County,CLA24,Gregory B. Powers,160,24
+St. Louis County,"CLA25,34,36,49",Gregory B. Powers,286,24
+St. Louis County,"CLA28,47",Gregory B. Powers,118,24
+St. Louis County,CLA33,Gregory B. Powers,152,24
+St. Louis County,CLA40,Gregory B. Powers,280,24
+St. Louis County,"CLA42,45 JEF1",Gregory B. Powers,558,24
+St. Louis County,LAF2 MR14,Gregory B. Powers,561,24
+St. Louis County,LAF3,Gregory B. Powers,31,24
+St. Louis County,LAF4,Gregory B. Powers,435,24
+St. Louis County,"LAF5,21",Gregory B. Powers,472,24
+St. Louis County,LAF6,Gregory B. Powers,322,24
+St. Louis County,LAF15,Gregory B. Powers,125,24
+St. Louis County,LAF20,Gregory B. Powers,49,24
+St. Louis County,"LAF44,45",Gregory B. Powers,40,24
+St. Louis County,"LAF46 MR3,4",Gregory B. Powers,736,24
+St. Louis County,MHT1,Gregory B. Powers,92,24
+St. Louis County,MHT2,Gregory B. Powers,233,24
+St. Louis County,MHT3,Gregory B. Powers,218,24
+St. Louis County,MHT4,Gregory B. Powers,245,24
+St. Louis County,MHT5,Gregory B. Powers,288,24
+St. Louis County,"MHT6,49",Gregory B. Powers,86,24
+St. Louis County,MHT7,Gregory B. Powers,27,24
+St. Louis County,"MHT8,28",Gregory B. Powers,151,24
+St. Louis County,MHT9,Gregory B. Powers,373,24
+St. Louis County,"MHT10,11,21,22,25,31,33+",Gregory B. Powers,663,24
+St. Louis County,"MHT12,15 NW33,38",Gregory B. Powers,532,24
+St. Louis County,MHT14,Gregory B. Powers,221,24
+St. Louis County,MHT17,Gregory B. Powers,4,24
+St. Louis County,MHT19,Gregory B. Powers,336,24
+St. Louis County,MHT20,Gregory B. Powers,250,24
+St. Louis County,MHT23,Gregory B. Powers,226,24
+St. Louis County,MHT24,Gregory B. Powers,88,24
+St. Louis County,MHT26,Gregory B. Powers,98,24
+St. Louis County,MHT27,Gregory B. Powers,175,24
+St. Louis County,"MHT29,41,48",Gregory B. Powers,68,24
+St. Louis County,"MHT30,36,37,38,42,45,47+",Gregory B. Powers,379,24
+St. Louis County,"MHT32,57",Gregory B. Powers,71,24
+St. Louis County,MHT34,Gregory B. Powers,444,24
+St. Louis County,"MHT35,51,55",Gregory B. Powers,398,24
+St. Louis County,"MHT39 MR52,55",Gregory B. Powers,385,24
+St. Louis County,MHT46 NW29,Gregory B. Powers,54,24
+St. Louis County,MHT56,Gregory B. Powers,186,24
+St. Louis County,"MID2,31",Gregory B. Powers,274,24
+St. Louis County,MID3,Gregory B. Powers,76,24
+St. Louis County,"MID4,53",Gregory B. Powers,228,24
+St. Louis County,"MID5,8,19",Gregory B. Powers,290,24
+St. Louis County,"MID6,43",Gregory B. Powers,265,24
+St. Louis County,"MID9,23,27",Gregory B. Powers,322,24
+St. Louis County,MID12,Gregory B. Powers,147,24
+St. Louis County,MID14 NOR23,Gregory B. Powers,217,24
+St. Louis County,MID15 NOR25,Gregory B. Powers,172,24
+St. Louis County,"MID16,41",Gregory B. Powers,119,24
+St. Louis County,"MID17,29,34,37,44,45,49+",Gregory B. Powers,288,24
+St. Louis County,"MID21,47",Gregory B. Powers,89,24
+St. Louis County,"MID33,61",Gregory B. Powers,85,24
+St. Louis County,MID35,Gregory B. Powers,134,24
+St. Louis County,"MID36,48",Gregory B. Powers,44,24
+St. Louis County,MID50,Gregory B. Powers,17,24
+St. Louis County,MR9,Gregory B. Powers,33,24
+St. Louis County,MR17,Gregory B. Powers,16,24
+St. Louis County,MR20,Gregory B. Powers,7,24
+St. Louis County,MR23,Gregory B. Powers,94,24
+St. Louis County,"MR25,44",Gregory B. Powers,767,24
+St. Louis County,"MR26,36",Gregory B. Powers,399,24
+St. Louis County,"MR29,43",Gregory B. Powers,495,24
+St. Louis County,"MR30,35",Gregory B. Powers,415,24
+St. Louis County,MR34,Gregory B. Powers,206,24
+St. Louis County,"MR40,42,46",Gregory B. Powers,326,24
+St. Louis County,"MR45,48",Gregory B. Powers,321,24
+St. Louis County,MR50,Gregory B. Powers,122,24
+St. Louis County,MR51,Gregory B. Powers,371,24
+St. Louis County,MR53,Gregory B. Powers,89,24
+St. Louis County,MR56,Gregory B. Powers,21,24
+St. Louis County,MR59,Gregory B. Powers,45,24
+St. Louis County,"NOR27,53",Gregory B. Powers,54,24
+St. Louis County,NW1,Gregory B. Powers,393,24
+St. Louis County,"NW11,20,47",Gregory B. Powers,395,24
+St. Louis County,NW13,Gregory B. Powers,233,24
+St. Louis County,"NW19,21,35",Gregory B. Powers,304,24
+St. Louis County,"NW26,43",Gregory B. Powers,66,24
+St. Louis County,"NW31,37",Gregory B. Powers,230,24
+St. Louis County,NW49,Gregory B. Powers,324,24
+St. Louis County,NW52,Gregory B. Powers,9,24
+St. Louis County,QUE1,Gregory B. Powers,214,24
+St. Louis County,"QUE2,3",Gregory B. Powers,120,24
+St. Louis County,QUE5,Gregory B. Powers,165,24
+St. Louis County,"QUE18,30",Gregory B. Powers,315,24
+St. Louis County,"QUE26,27",Gregory B. Powers,142,24
+St. Louis County,UNV41,Gregory B. Powers,42,24
+St. Louis County,AP4,Jill Schupp,120,24
+St. Louis County,"AP8,20",Jill Schupp,222,24
+St. Louis County,"AP11,24",Jill Schupp,397,24
+St. Louis County,"AP12,32",Jill Schupp,585,24
+St. Louis County,AP13,Jill Schupp,213,24
+St. Louis County,"AP17,23,26,42 NW14",Jill Schupp,780,24
+St. Louis County,"AP22 MID7,22",Jill Schupp,460,24
+St. Louis County,"AP28,47",Jill Schupp,376,24
+St. Louis County,"AP29,31,33",Jill Schupp,542,24
+St. Louis County,AP37,Jill Schupp,134,24
+St. Louis County,"AP40,46 MID42,46,56",Jill Schupp,697,24
+St. Louis County,AP41,Jill Schupp,276,24
+St. Louis County,AP44,Jill Schupp,163,24
+St. Louis County,AP49,Jill Schupp,290,24
+St. Louis County,"CC1,10",Jill Schupp,701,24
+St. Louis County,"CC2,7 MHT13,43",Jill Schupp,700,24
+St. Louis County,"CC3,4,5",Jill Schupp,639,24
+St. Louis County,"CC6,8",Jill Schupp,561,24
+St. Louis County,"CC9,11,16",Jill Schupp,604,24
+St. Louis County,"CC12,13,22,51 MID1,13,28+",Jill Schupp,934,24
+St. Louis County,CC14,Jill Schupp,797,24
+St. Louis County,CC15 CLA16,Jill Schupp,420,24
+St. Louis County,"CC17,30,38 MID57,58",Jill Schupp,596,24
+St. Louis County,"CC18, MID11",Jill Schupp,77,24
+St. Louis County,"CC19,34",Jill Schupp,382,24
+St. Louis County,"CC20,26 MHT54 MR2",Jill Schupp,370,24
+St. Louis County,"CC21,28,59",Jill Schupp,213,24
+St. Louis County,CC23,Jill Schupp,592,24
+St. Louis County,CC24,Jill Schupp,47,24
+St. Louis County,"CC25,29,40",Jill Schupp,248,24
+St. Louis County,"CC27,39 MR31",Jill Schupp,468,24
+St. Louis County,CC31,Jill Schupp,450,24
+St. Louis County,"CC32,45,56",Jill Schupp,36,24
+St. Louis County,"CC33,47,58",Jill Schupp,536,24
+St. Louis County,CC35,Jill Schupp,433,24
+St. Louis County,CC36,Jill Schupp,187,24
+St. Louis County,CC37,Jill Schupp,72,24
+St. Louis County,CC41,Jill Schupp,190,24
+St. Louis County,CC42,Jill Schupp,528,24
+St. Louis County,CC43 MID54,Jill Schupp,145,24
+St. Louis County,CC44,Jill Schupp,524,24
+St. Louis County,"CC46,52",Jill Schupp,344,24
+St. Louis County,CC48,Jill Schupp,11,24
+St. Louis County,"CC49 MHT50,53",Jill Schupp,630,24
+St. Louis County,CC50,Jill Schupp,414,24
+St. Louis County,CC53,Jill Schupp,633,24
+St. Louis County,CC54,Jill Schupp,81,24
+St. Louis County,CC55,Jill Schupp,207,24
+St. Louis County,"CC57 MID24,26,52,59 MHT18",Jill Schupp,465,24
+St. Louis County,CC60 MR39,Jill Schupp,114,24
+St. Louis County,CHE45 MHT16,Jill Schupp,149,24
+St. Louis County,CLA5,Jill Schupp,364,24
+St. Louis County,CLA7,Jill Schupp,201,24
+St. Louis County,"CLA12,26",Jill Schupp,154,24
+St. Louis County,"CLA13,14",Jill Schupp,463,24
+St. Louis County,"CLA18,37",Jill Schupp,328,24
+St. Louis County,CLA24,Jill Schupp,131,24
+St. Louis County,"CLA25,34,36,49",Jill Schupp,126,24
+St. Louis County,"CLA28,47",Jill Schupp,206,24
+St. Louis County,CLA33,Jill Schupp,105,24
+St. Louis County,CLA40,Jill Schupp,196,24
+St. Louis County,"CLA42,45 JEF1",Jill Schupp,403,24
+St. Louis County,LAF2 MR14,Jill Schupp,536,24
+St. Louis County,LAF3,Jill Schupp,41,24
+St. Louis County,LAF4,Jill Schupp,501,24
+St. Louis County,"LAF5,21",Jill Schupp,526,24
+St. Louis County,LAF6,Jill Schupp,313,24
+St. Louis County,LAF15,Jill Schupp,82,24
+St. Louis County,LAF20,Jill Schupp,63,24
+St. Louis County,"LAF44,45",Jill Schupp,37,24
+St. Louis County,"LAF46 MR3,4",Jill Schupp,641,24
+St. Louis County,MHT1,Jill Schupp,167,24
+St. Louis County,MHT2,Jill Schupp,309,24
+St. Louis County,MHT3,Jill Schupp,299,24
+St. Louis County,MHT4,Jill Schupp,276,24
+St. Louis County,MHT5,Jill Schupp,409,24
+St. Louis County,"MHT6,49",Jill Schupp,216,24
+St. Louis County,MHT7,Jill Schupp,22,24
+St. Louis County,"MHT8,28",Jill Schupp,280,24
+St. Louis County,MHT9,Jill Schupp,659,24
+St. Louis County,"MHT10,11,21,22,25,31,33+",Jill Schupp,1351,24
+St. Louis County,"MHT12,15 NW33,38",Jill Schupp,951,24
+St. Louis County,MHT14,Jill Schupp,554,24
+St. Louis County,MHT17,Jill Schupp,2,24
+St. Louis County,MHT19,Jill Schupp,482,24
+St. Louis County,MHT20,Jill Schupp,484,24
+St. Louis County,MHT23,Jill Schupp,408,24
+St. Louis County,MHT24,Jill Schupp,124,24
+St. Louis County,MHT26,Jill Schupp,112,24
+St. Louis County,MHT27,Jill Schupp,139,24
+St. Louis County,"MHT29,41,48",Jill Schupp,309,24
+St. Louis County,"MHT30,36,37,38,42,45,47+",Jill Schupp,760,24
+St. Louis County,"MHT32,57",Jill Schupp,300,24
+St. Louis County,MHT34,Jill Schupp,721,24
+St. Louis County,"MHT35,51,55",Jill Schupp,280,24
+St. Louis County,"MHT39 MR52,55",Jill Schupp,323,24
+St. Louis County,MHT46 NW29,Jill Schupp,160,24
+St. Louis County,MHT56,Jill Schupp,149,24
+St. Louis County,"MID2,31",Jill Schupp,641,24
+St. Louis County,MID3,Jill Schupp,161,24
+St. Louis County,"MID4,53",Jill Schupp,459,24
+St. Louis County,"MID5,8,19",Jill Schupp,728,24
+St. Louis County,"MID6,43",Jill Schupp,655,24
+St. Louis County,"MID9,23,27",Jill Schupp,623,24
+St. Louis County,MID12,Jill Schupp,341,24
+St. Louis County,MID14 NOR23,Jill Schupp,472,24
+St. Louis County,MID15 NOR25,Jill Schupp,364,24
+St. Louis County,"MID16,41",Jill Schupp,751,24
+St. Louis County,"MID17,29,34,37,44,45,49+",Jill Schupp,1145,24
+St. Louis County,"MID21,47",Jill Schupp,320,24
+St. Louis County,"MID33,61",Jill Schupp,205,24
+St. Louis County,MID35,Jill Schupp,261,24
+St. Louis County,"MID36,48",Jill Schupp,270,24
+St. Louis County,MID50,Jill Schupp,49,24
+St. Louis County,MR9,Jill Schupp,31,24
+St. Louis County,MR17,Jill Schupp,24,24
+St. Louis County,MR20,Jill Schupp,11,24
+St. Louis County,MR23,Jill Schupp,172,24
+St. Louis County,"MR25,44",Jill Schupp,559,24
+St. Louis County,"MR26,36",Jill Schupp,477,24
+St. Louis County,"MR29,43",Jill Schupp,363,24
+St. Louis County,"MR30,35",Jill Schupp,621,24
+St. Louis County,MR34,Jill Schupp,143,24
+St. Louis County,"MR40,42,46",Jill Schupp,342,24
+St. Louis County,"MR45,48",Jill Schupp,205,24
+St. Louis County,MR50,Jill Schupp,170,24
+St. Louis County,MR51,Jill Schupp,292,24
+St. Louis County,MR53,Jill Schupp,79,24
+St. Louis County,MR56,Jill Schupp,18,24
+St. Louis County,MR59,Jill Schupp,34,24
+St. Louis County,"NOR27,53",Jill Schupp,145,24
+St. Louis County,NW1,Jill Schupp,625,24
+St. Louis County,"NW11,20,47",Jill Schupp,626,24
+St. Louis County,NW13,Jill Schupp,367,24
+St. Louis County,"NW19,21,35",Jill Schupp,580,24
+St. Louis County,"NW26,43",Jill Schupp,102,24
+St. Louis County,"NW31,37",Jill Schupp,270,24
+St. Louis County,NW49,Jill Schupp,410,24
+St. Louis County,NW52,Jill Schupp,3,24
+St. Louis County,QUE1,Jill Schupp,357,24
+St. Louis County,"QUE2,3",Jill Schupp,196,24
+St. Louis County,QUE5,Jill Schupp,138,24
+St. Louis County,"QUE18,30",Jill Schupp,351,24
+St. Louis County,"QUE26,27",Jill Schupp,171,24
+St. Louis County,UNV41,Jill Schupp,363,24
+St. Louis County,AP4,Jim Higgins,4,24
+St. Louis County,"AP8,20",Jim Higgins,8,24
+St. Louis County,"AP11,24",Jim Higgins,18,24
+St. Louis County,"AP12,32",Jim Higgins,21,24
+St. Louis County,AP13,Jim Higgins,15,24
+St. Louis County,"AP17,23,26,42 NW14",Jim Higgins,19,24
+St. Louis County,"AP22 MID7,22",Jim Higgins,18,24
+St. Louis County,"AP28,47",Jim Higgins,25,24
+St. Louis County,"AP29,31,33",Jim Higgins,30,24
+St. Louis County,AP37,Jim Higgins,7,24
+St. Louis County,"AP40,46 MID42,46,56",Jim Higgins,29,24
+St. Louis County,AP41,Jim Higgins,6,24
+St. Louis County,AP44,Jim Higgins,10,24
+St. Louis County,AP49,Jim Higgins,10,24
+St. Louis County,"CC1,10",Jim Higgins,17,24
+St. Louis County,"CC2,7 MHT13,43",Jim Higgins,26,24
+St. Louis County,"CC3,4,5",Jim Higgins,20,24
+St. Louis County,"CC6,8",Jim Higgins,14,24
+St. Louis County,"CC9,11,16",Jim Higgins,17,24
+St. Louis County,"CC12,13,22,51 MID1,13,28+",Jim Higgins,8,24
+St. Louis County,CC14,Jim Higgins,13,24
+St. Louis County,CC15 CLA16,Jim Higgins,14,24
+St. Louis County,"CC17,30,38 MID57,58",Jim Higgins,10,24
+St. Louis County,"CC18, MID11",Jim Higgins,5,24
+St. Louis County,"CC19,34",Jim Higgins,7,24
+St. Louis County,"CC20,26 MHT54 MR2",Jim Higgins,21,24
+St. Louis County,"CC21,28,59",Jim Higgins,5,24
+St. Louis County,CC23,Jim Higgins,12,24
+St. Louis County,CC24,Jim Higgins,1,24
+St. Louis County,"CC25,29,40",Jim Higgins,9,24
+St. Louis County,"CC27,39 MR31",Jim Higgins,15,24
+St. Louis County,CC31,Jim Higgins,21,24
+St. Louis County,"CC32,45,56",Jim Higgins,2,24
+St. Louis County,"CC33,47,58",Jim Higgins,12,24
+St. Louis County,CC35,Jim Higgins,21,24
+St. Louis County,CC36,Jim Higgins,4,24
+St. Louis County,CC37,Jim Higgins,1,24
+St. Louis County,CC41,Jim Higgins,5,24
+St. Louis County,CC42,Jim Higgins,12,24
+St. Louis County,CC43 MID54,Jim Higgins,0,24
+St. Louis County,CC44,Jim Higgins,16,24
+St. Louis County,"CC46,52",Jim Higgins,8,24
+St. Louis County,CC48,Jim Higgins,1,24
+St. Louis County,"CC49 MHT50,53",Jim Higgins,11,24
+St. Louis County,CC50,Jim Higgins,13,24
+St. Louis County,CC53,Jim Higgins,26,24
+St. Louis County,CC54,Jim Higgins,0,24
+St. Louis County,CC55,Jim Higgins,4,24
+St. Louis County,"CC57 MID24,26,52,59 MHT18",Jim Higgins,22,24
+St. Louis County,CC60 MR39,Jim Higgins,3,24
+St. Louis County,CHE45 MHT16,Jim Higgins,4,24
+St. Louis County,CLA5,Jim Higgins,7,24
+St. Louis County,CLA7,Jim Higgins,3,24
+St. Louis County,"CLA12,26",Jim Higgins,3,24
+St. Louis County,"CLA13,14",Jim Higgins,23,24
+St. Louis County,"CLA18,37",Jim Higgins,10,24
+St. Louis County,CLA24,Jim Higgins,5,24
+St. Louis County,"CLA25,34,36,49",Jim Higgins,3,24
+St. Louis County,"CLA28,47",Jim Higgins,4,24
+St. Louis County,CLA33,Jim Higgins,3,24
+St. Louis County,CLA40,Jim Higgins,5,24
+St. Louis County,"CLA42,45 JEF1",Jim Higgins,11,24
+St. Louis County,LAF2 MR14,Jim Higgins,36,24
+St. Louis County,LAF3,Jim Higgins,1,24
+St. Louis County,LAF4,Jim Higgins,16,24
+St. Louis County,"LAF5,21",Jim Higgins,14,24
+St. Louis County,LAF6,Jim Higgins,12,24
+St. Louis County,LAF15,Jim Higgins,5,24
+St. Louis County,LAF20,Jim Higgins,0,24
+St. Louis County,"LAF44,45",Jim Higgins,5,24
+St. Louis County,"LAF46 MR3,4",Jim Higgins,26,24
+St. Louis County,MHT1,Jim Higgins,5,24
+St. Louis County,MHT2,Jim Higgins,11,24
+St. Louis County,MHT3,Jim Higgins,4,24
+St. Louis County,MHT4,Jim Higgins,5,24
+St. Louis County,MHT5,Jim Higgins,11,24
+St. Louis County,"MHT6,49",Jim Higgins,6,24
+St. Louis County,MHT7,Jim Higgins,1,24
+St. Louis County,"MHT8,28",Jim Higgins,3,24
+St. Louis County,MHT9,Jim Higgins,9,24
+St. Louis County,"MHT10,11,21,22,25,31,33+",Jim Higgins,56,24
+St. Louis County,"MHT12,15 NW33,38",Jim Higgins,38,24
+St. Louis County,MHT14,Jim Higgins,20,24
+St. Louis County,MHT17,Jim Higgins,0,24
+St. Louis County,MHT19,Jim Higgins,18,24
+St. Louis County,MHT20,Jim Higgins,15,24
+St. Louis County,MHT23,Jim Higgins,12,24
+St. Louis County,MHT24,Jim Higgins,2,24
+St. Louis County,MHT26,Jim Higgins,4,24
+St. Louis County,MHT27,Jim Higgins,7,24
+St. Louis County,"MHT29,41,48",Jim Higgins,9,24
+St. Louis County,"MHT30,36,37,38,42,45,47+",Jim Higgins,14,24
+St. Louis County,"MHT32,57",Jim Higgins,10,24
+St. Louis County,MHT34,Jim Higgins,25,24
+St. Louis County,"MHT35,51,55",Jim Higgins,6,24
+St. Louis County,"MHT39 MR52,55",Jim Higgins,7,24
+St. Louis County,MHT46 NW29,Jim Higgins,11,24
+St. Louis County,MHT56,Jim Higgins,7,24
+St. Louis County,"MID2,31",Jim Higgins,33,24
+St. Louis County,MID3,Jim Higgins,5,24
+St. Louis County,"MID4,53",Jim Higgins,19,24
+St. Louis County,"MID5,8,19",Jim Higgins,38,24
+St. Louis County,"MID6,43",Jim Higgins,21,24
+St. Louis County,"MID9,23,27",Jim Higgins,34,24
+St. Louis County,MID12,Jim Higgins,15,24
+St. Louis County,MID14 NOR23,Jim Higgins,16,24
+St. Louis County,MID15 NOR25,Jim Higgins,19,24
+St. Louis County,"MID16,41",Jim Higgins,10,24
+St. Louis County,"MID17,29,34,37,44,45,49+",Jim Higgins,19,24
+St. Louis County,"MID21,47",Jim Higgins,14,24
+St. Louis County,"MID33,61",Jim Higgins,7,24
+St. Louis County,MID35,Jim Higgins,10,24
+St. Louis County,"MID36,48",Jim Higgins,4,24
+St. Louis County,MID50,Jim Higgins,6,24
+St. Louis County,MR9,Jim Higgins,0,24
+St. Louis County,MR17,Jim Higgins,0,24
+St. Louis County,MR20,Jim Higgins,0,24
+St. Louis County,MR23,Jim Higgins,2,24
+St. Louis County,"MR25,44",Jim Higgins,13,24
+St. Louis County,"MR26,36",Jim Higgins,14,24
+St. Louis County,"MR29,43",Jim Higgins,6,24
+St. Louis County,"MR30,35",Jim Higgins,32,24
+St. Louis County,MR34,Jim Higgins,6,24
+St. Louis County,"MR40,42,46",Jim Higgins,10,24
+St. Louis County,"MR45,48",Jim Higgins,6,24
+St. Louis County,MR50,Jim Higgins,3,24
+St. Louis County,MR51,Jim Higgins,6,24
+St. Louis County,MR53,Jim Higgins,4,24
+St. Louis County,MR56,Jim Higgins,0,24
+St. Louis County,MR59,Jim Higgins,1,24
+St. Louis County,"NOR27,53",Jim Higgins,8,24
+St. Louis County,NW1,Jim Higgins,29,24
+St. Louis County,"NW11,20,47",Jim Higgins,31,24
+St. Louis County,NW13,Jim Higgins,9,24
+St. Louis County,"NW19,21,35",Jim Higgins,21,24
+St. Louis County,"NW26,43",Jim Higgins,2,24
+St. Louis County,"NW31,37",Jim Higgins,13,24
+St. Louis County,NW49,Jim Higgins,27,24
+St. Louis County,NW52,Jim Higgins,0,24
+St. Louis County,QUE1,Jim Higgins,15,24
+St. Louis County,"QUE2,3",Jim Higgins,2,24
+St. Louis County,QUE5,Jim Higgins,7,24
+St. Louis County,"QUE18,30",Jim Higgins,21,24
+St. Louis County,"QUE26,27",Jim Higgins,11,24
+St. Louis County,UNV41,Jim Higgins,11,24
+St. Louis County,"CHE1,36,37",Dave Schatz,768,26
+St. Louis County,"CHE2,28",Dave Schatz,828,26
+St. Louis County,"CHE4,9",Dave Schatz,647,26
+St. Louis County,"CHE5,6,7,55",Dave Schatz,892,26
+St. Louis County,"CHE8,33",Dave Schatz,752,26
+St. Louis County,CHE10,Dave Schatz,355,26
+St. Louis County,CHE11 WH27,Dave Schatz,623,26
+St. Louis County,CHE12,Dave Schatz,187,26
+St. Louis County,"CHE13,26",Dave Schatz,949,26
+St. Louis County,CHE14,Dave Schatz,88,26
+St. Louis County,"CHE15,16",Dave Schatz,865,26
+St. Louis County,"CHE17,34,39 WH3",Dave Schatz,836,26
+St. Louis County,"CHE18,30,56,57",Dave Schatz,651,26
+St. Louis County,"CHE19,42",Dave Schatz,659,26
+St. Louis County,"CHE20,24,25,29,35,47",Dave Schatz,937,26
+St. Louis County,"CHE21,40 WH23",Dave Schatz,941,26
+St. Louis County,CHE22,Dave Schatz,343,26
+St. Louis County,"CHE27 WH4,10,12",Dave Schatz,524,26
+St. Louis County,CHE31 LAF26,Dave Schatz,68,26
+St. Louis County,"CHE32,52",Dave Schatz,29,26
+St. Louis County,"CHE38,49,51 MER3",Dave Schatz,441,26
+St. Louis County,CHE41,Dave Schatz,234,26
+St. Louis County,"CHE43,46,54 MER2,4,5,35",Dave Schatz,732,26
+St. Louis County,CHE44 LAF1,Dave Schatz,275,26
+St. Louis County,"CHE48,50",Dave Schatz,212,26
+St. Louis County,CHE53,Dave Schatz,55,26
+St. Louis County,"LAF7,28,34",Dave Schatz,447,26
+St. Louis County,"LAF8,11",Dave Schatz,645,26
+St. Louis County,LAF10,Dave Schatz,75,26
+St. Louis County,LAF12,Dave Schatz,225,26
+St. Louis County,"LAF14,33",Dave Schatz,568,26
+St. Louis County,LAF16,Dave Schatz,187,26
+St. Louis County,LAF29,Dave Schatz,400,26
+St. Louis County,LAF30,Dave Schatz,337,26
+St. Louis County,LAF31,Dave Schatz,346,26
+St. Louis County,LAF32,Dave Schatz,366,26
+St. Louis County,LAF43,Dave Schatz,89,26
+St. Louis County,"MER7,9,13,14,16,18,19,20+",Dave Schatz,1804,26
+St. Louis County,MER17,Dave Schatz,693,26
+St. Louis County,"MER22,30",Dave Schatz,764,26
+St. Louis County,MR10,Dave Schatz,168,26
+St. Louis County,MR13,Dave Schatz,126,26
+St. Louis County,MR16,Dave Schatz,415,26
+St. Louis County,MR18,Dave Schatz,413,26
+St. Louis County,MR32,Dave Schatz,80,26
+St. Louis County,MR38,Dave Schatz,234,26
+St. Louis County,WH9,Dave Schatz,1034,26
+St. Louis County,"WH13,21",Dave Schatz,858,26
+St. Louis County,"WH17,18",Dave Schatz,186,26
+St. Louis County,"WH19,20,22",Dave Schatz,815,26
+St. Louis County,WH25,Dave Schatz,466,26
+St. Louis County,"CHE1,36,37",John Kiehne,356,26
+St. Louis County,"CHE2,28",John Kiehne,322,26
+St. Louis County,"CHE4,9",John Kiehne,318,26
+St. Louis County,"CHE5,6,7,55",John Kiehne,383,26
+St. Louis County,"CHE8,33",John Kiehne,372,26
+St. Louis County,CHE10,John Kiehne,180,26
+St. Louis County,CHE11 WH27,John Kiehne,341,26
+St. Louis County,CHE12,John Kiehne,152,26
+St. Louis County,"CHE13,26",John Kiehne,537,26
+St. Louis County,CHE14,John Kiehne,74,26
+St. Louis County,"CHE15,16",John Kiehne,472,26
+St. Louis County,"CHE17,34,39 WH3",John Kiehne,421,26
+St. Louis County,"CHE18,30,56,57",John Kiehne,472,26
+St. Louis County,"CHE19,42",John Kiehne,599,26
+St. Louis County,"CHE20,24,25,29,35,47",John Kiehne,475,26
+St. Louis County,"CHE21,40 WH23",John Kiehne,581,26
+St. Louis County,CHE22,John Kiehne,400,26
+St. Louis County,"CHE27 WH4,10,12",John Kiehne,323,26
+St. Louis County,CHE31 LAF26,John Kiehne,52,26
+St. Louis County,"CHE32,52",John Kiehne,15,26
+St. Louis County,"CHE38,49,51 MER3",John Kiehne,213,26
+St. Louis County,CHE41,John Kiehne,197,26
+St. Louis County,"CHE43,46,54 MER2,4,5,35",John Kiehne,336,26
+St. Louis County,CHE44 LAF1,John Kiehne,261,26
+St. Louis County,"CHE48,50",John Kiehne,85,26
+St. Louis County,CHE53,John Kiehne,29,26
+St. Louis County,"LAF7,28,34",John Kiehne,253,26
+St. Louis County,"LAF8,11",John Kiehne,446,26
+St. Louis County,LAF10,John Kiehne,35,26
+St. Louis County,LAF12,John Kiehne,245,26
+St. Louis County,"LAF14,33",John Kiehne,397,26
+St. Louis County,LAF16,John Kiehne,171,26
+St. Louis County,LAF29,John Kiehne,352,26
+St. Louis County,LAF30,John Kiehne,323,26
+St. Louis County,LAF31,John Kiehne,259,26
+St. Louis County,LAF32,John Kiehne,309,26
+St. Louis County,LAF43,John Kiehne,64,26
+St. Louis County,"MER7,9,13,14,16,18,19,20+",John Kiehne,999,26
+St. Louis County,MER17,John Kiehne,438,26
+St. Louis County,"MER22,30",John Kiehne,401,26
+St. Louis County,MR10,John Kiehne,196,26
+St. Louis County,MR13,John Kiehne,109,26
+St. Louis County,MR16,John Kiehne,282,26
+St. Louis County,MR18,John Kiehne,442,26
+St. Louis County,MR32,John Kiehne,18,26
+St. Louis County,MR38,John Kiehne,249,26
+St. Louis County,WH9,John Kiehne,512,26
+St. Louis County,"WH13,21",John Kiehne,548,26
+St. Louis County,"WH17,18",John Kiehne,133,26
+St. Louis County,"WH19,20,22",John Kiehne,547,26
+St. Louis County,WH25,John Kiehne,301,26
+Sullivan,BROWNING,Dan Hegeman,42,12
+Sullivan,GREEN CASTLE,Dan Hegeman,58,12
+Sullivan,GREEN CITY,Dan Hegeman,231,12
+Sullivan,HARRIS,Dan Hegeman,24,12
+Sullivan,MYSTIC,Dan Hegeman,39,12
+Sullivan,NEWTOWN,Dan Hegeman,80,12
+Sullivan,OSGOOD,Dan Hegeman,25,12
+Sullivan,NORTH POLK,Dan Hegeman,129,12
+Sullivan,WINIGAN,Dan Hegeman,73,12
+Sullivan,HUMPHREYS & TAYLOR,Dan Hegeman,42,12
+Sullivan,"S. POLK, REGER, PL. HILL",Dan Hegeman,216,12
+Sullivan,WEST POLK & ASBURY,Dan Hegeman,214,12
+Sullivan,POLLOCK & BOYNTON,Dan Hegeman,97,12
+Sullivan,ABSENTEE,Dan Hegeman,202,12
+Sullivan,BROWNING,Terry Richard,5,12
+Sullivan,GREEN CASTLE,Terry Richard,23,12
+Sullivan,GREEN CITY,Terry Richard,61,12
+Sullivan,HARRIS,Terry Richard,12,12
+Sullivan,MYSTIC,Terry Richard,12,12
+Sullivan,NEWTOWN,Terry Richard,15,12
+Sullivan,OSGOOD,Terry Richard,5,12
+Sullivan,NORTH POLK,Terry Richard,51,12
+Sullivan,WINIGAN,Terry Richard,12,12
+Sullivan,HUMPHREYS & TAYLOR,Terry Richard,10,12
+Sullivan,"S. POLK, REGER, PL. HILL",Terry Richard,69,12
+Sullivan,WEST POLK & ASBURY,Terry Richard,62,12
+Sullivan,POLLOCK & BOYNTON,Terry Richard,26,12
+Sullivan,ABSENTEE,Terry Richard,92,12
+Warren,CONCORD HILL,Jeanie Riddle,173,10
+Warren,DUTZOW,Jeanie Riddle,529,10
+Warren,NORTH ELKHORN,Jeanie Riddle,345,10
+Warren,GORE CASE,Jeanie Riddle,62,10
+Warren,HICKORY GROVE NORTH,Jeanie Riddle,1041,10
+Warren,HOPEWELL,Jeanie Riddle,407,10
+Warren,MARTHASVILLE SOUTHWEST,Jeanie Riddle,311,10
+Warren,PENDLETON,Jeanie Riddle,650,10
+Warren,TRUESDALE,Jeanie Riddle,117,10
+Warren,WALNUT GROVE,Jeanie Riddle,173,10
+Warren,WARRENTON WARD 1,Jeanie Riddle,568,10
+Warren,WARRENTON WARD 2,Jeanie Riddle,579,10
+Warren,WARRENTON WARD 3,Jeanie Riddle,463,10
+Warren,WEEKS,Jeanie Riddle,346,10
+Warren,WRIGHT CITY WARD 1,Jeanie Riddle,401,10
+Warren,WRIGHT CITY WARD 2,Jeanie Riddle,407,10
+Warren,LAKE SHERWOOD,Jeanie Riddle,295,10
+Warren,INNSBROOK,Jeanie Riddle,222,10
+Warren,HICKORY GROVE SOUTH,Jeanie Riddle,557,10
+Warren,SOUTH ELKHORN/MACEDONIA,Jeanie Riddle,967,10
+Warren,HOLSTEIN/SMITH CREEK,Jeanie Riddle,217,10
+Warren,LAKEVIEW ESTATES,Jeanie Riddle,126,10
+Warren,FEDERAL,Jeanie Riddle,0,10
+Warren,ABSENTEE,Jeanie Riddle,578,10
+Warren,CONCORD HILL,Ayanna Shivers,51,10
+Warren,DUTZOW,Ayanna Shivers,200,10
+Warren,NORTH ELKHORN,Ayanna Shivers,134,10
+Warren,GORE CASE,Ayanna Shivers,26,10
+Warren,HICKORY GROVE NORTH,Ayanna Shivers,522,10
+Warren,HOPEWELL,Ayanna Shivers,133,10
+Warren,MARTHASVILLE SOUTHWEST,Ayanna Shivers,125,10
+Warren,PENDLETON,Ayanna Shivers,234,10
+Warren,TRUESDALE,Ayanna Shivers,50,10
+Warren,WALNUT GROVE,Ayanna Shivers,60,10
+Warren,WARRENTON WARD 1,Ayanna Shivers,227,10
+Warren,WARRENTON WARD 2,Ayanna Shivers,286,10
+Warren,WARRENTON WARD 3,Ayanna Shivers,245,10
+Warren,WEEKS,Ayanna Shivers,108,10
+Warren,WRIGHT CITY WARD 1,Ayanna Shivers,265,10
+Warren,WRIGHT CITY WARD 2,Ayanna Shivers,227,10
+Warren,LAKE SHERWOOD,Ayanna Shivers,160,10
+Warren,INNSBROOK,Ayanna Shivers,108,10
+Warren,HICKORY GROVE SOUTH,Ayanna Shivers,222,10
+Warren,SOUTH ELKHORN/MACEDONIA,Ayanna Shivers,325,10
+Warren,HOLSTEIN/SMITH CREEK,Ayanna Shivers,57,10
+Warren,LAKEVIEW ESTATES,Ayanna Shivers,84,10
+Warren,FEDERAL,Ayanna Shivers,0,10
+Warren,ABSENTEE,Ayanna Shivers,254,10
+Worth,ALLEN,Dan Hegeman,55,12
+Worth,EAST FLETCHALL,Dan Hegeman,119,12
+Worth,GREENE,Dan Hegeman,66,12
+Worth,MIDDLE FORK,Dan Hegeman,58,12
+Worth,SMITH,Dan Hegeman,63,12
+Worth,WEST FLETCHALL,Dan Hegeman,158,12
+Worth,WEST UNION,Dan Hegeman,118,12
+Worth,ABSENTEE,Dan Hegeman,82,12
+Worth,ALLEN,Terry Richard,13,12
+Worth,EAST FLETCHALL,Terry Richard,34,12
+Worth,GREENE,Terry Richard,7,12
+Worth,MIDDLE FORK,Terry Richard,20,12
+Worth,SMITH,Terry Richard,18,12
+Worth,WEST FLETCHALL,Terry Richard,44,12
+Worth,WEST UNION,Terry Richard,16,12
+Worth,ABSENTEE,Terry Richard,26,12
